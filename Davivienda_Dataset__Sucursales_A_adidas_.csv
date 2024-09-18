@@ -1,0 +1,2001 @@
+Region_Geografica,Acceso_Servicios_Financieros,Tiempo_Pago_Horas,Uso_Tecnologia_Movil,Ingresos_Mensuales,Preferencia_Pago,Tenencia_Telefono_Celular,Edad,Nivel_Educativo,Frecuencia_Transacciones,Costo_Transporte_Pago,Numero_Cuentas_Bancarias,Satisfaccion_Servicios_Financieros,Sucursales_10KM
+Comuna 10,Cuenta Bancaria,6.44,Bajo,1257638,Digital,Sí,26,Primaria,40,12997.37,1,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,4.58,Alto,1938339,Presencial,Sí,57,Secundaria,11,11360.41,0,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,3.65,Bajo,2649547,Presencial,No,38,Secundaria,42,7965.94,2,Insatisfecho,3
+Comuna 10,Billetera Movil,0.88,Bajo,2240228,Digital,Sí,42,Universitario,18,2847.92,3,Neutral,2
+Comuna 13,Sin Acceso,5.62,Alto,525802,Digital,No,67,Técnico,11,15654.35,3,Muy Satisfecho,0
+Comuna 13,Billetera Movil,5.75,Medio,954772,Digital,Sí,53,Universitario,26,16527.71,2,Neutral,3
+Comuna 10,Billetera Movil,6.22,Bajo,617984,Digital,Sí,30,Técnico,18,13081.5,2,Satisfecho,0
+Comuna 10,Sin Acceso,1.01,Alto,924062,Digital,Sí,35,Secundaria,5,15441.18,0,Muy Satisfecho,1
+Comuna 13,Billetera Movil,3.07,Medio,2384083,Presencial,No,52,Secundaria,15,6897.37,0,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,2.91,Alto,559411,Digital,No,46,Secundaria,41,11647.49,3,Satisfecho,0
+Comuna 8,Cuenta Bancaria,2.76,Medio,792828,Digital,No,23,Secundaria,34,17657.15,2,Insatisfecho,1
+Comuna 5,Sin Acceso,2.29,Alto,952994,Digital,No,21,Universitario,29,19676.76,1,Satisfecho,1
+Comuna 13,Billetera Movil,2.04,Alto,2456011,Presencial,No,54,Secundaria,14,17057.87,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,3.57,Medio,2914871,Digital,No,43,Técnico,21,6866.89,3,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,1.8,Medio,1921684,Presencial,No,45,Universitario,26,15049.04,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,7.93,Medio,902196,Digital,No,25,Secundaria,40,14073.73,0,Muy Satisfecho,3
+Comuna 10,Sin Acceso,0.81,Bajo,1133282,Digital,No,42,Primaria,13,9512.08,0,Insatisfecho,3
+Comuna 10,Billetera Movil,5.63,Bajo,2250239,Presencial,No,29,Secundaria,28,12223.0,0,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,7.48,Medio,2156262,Digital,Sí,23,Secundaria,33,19671.91,0,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,0.86,Bajo,1730452,Presencial,No,45,Universitario,49,13353.34,3,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,0.66,Bajo,1174538,Presencial,No,67,Primaria,29,2199.6,1,Neutral,0
+Comuna 8,Cuenta Bancaria,0.97,Medio,2894799,Digital,Sí,20,Técnico,10,3330.62,2,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,3.0,Bajo,2221194,Digital,No,70,Primaria,37,5727.56,3,Neutral,1
+Comuna 13,Billetera Movil,0.88,Medio,1978517,Digital,Sí,43,Universitario,19,12991.91,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.54,Bajo,1176378,Digital,No,25,Técnico,44,2433.84,3,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,5.85,Bajo,1715738,Presencial,Sí,37,Técnico,13,1766.63,1,Muy Insatisfecho,2
+Comuna 5,Sin Acceso,5.59,Alto,2922850,Digital,No,54,Universitario,37,9164.28,2,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,3.11,Alto,1528667,Presencial,No,54,Primaria,29,17165.24,3,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,5.64,Alto,783450,Presencial,Sí,65,Primaria,34,8288.7,3,Neutral,0
+Comuna 5,Cuenta Bancaria,7.75,Alto,1761795,Presencial,No,21,Primaria,14,8090.91,3,Satisfecho,0
+Zona Rural,Sin Acceso,3.8,Medio,951371,Digital,No,27,Universitario,26,13881.64,1,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,4.12,Medio,2327444,Digital,Sí,42,Primaria,28,19479.95,1,Insatisfecho,1
+Comuna 5,Sin Acceso,5.08,Bajo,705177,Digital,Sí,61,Secundaria,27,16695.37,1,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,6.75,Medio,2332449,Presencial,No,58,Técnico,30,5300.29,0,Muy Satisfecho,0
+Comuna 13,Sin Acceso,1.65,Alto,2552611,Digital,Sí,20,Primaria,7,7107.34,0,Muy Satisfecho,0
+Comuna 13,Sin Acceso,6.99,Alto,1533638,Presencial,Sí,21,Universitario,41,17962.46,3,Insatisfecho,3
+Comuna 10,Sin Acceso,7.09,Bajo,677586,Digital,No,52,Universitario,9,1241.23,1,Muy Satisfecho,3
+Comuna 5,Sin Acceso,0.85,Alto,2267664,Digital,No,27,Primaria,46,10589.9,1,Satisfecho,0
+Zona Rural,Sin Acceso,4.7,Medio,1009289,Digital,No,31,Universitario,27,14275.73,1,Muy Satisfecho,1
+Comuna 13,Sin Acceso,4.71,Bajo,2709532,Digital,No,61,Universitario,25,10061.3,0,Satisfecho,1
+Comuna 5,Sin Acceso,2.14,Alto,639089,Presencial,Sí,45,Técnico,17,14157.24,2,Muy Satisfecho,1
+Comuna 5,Cuenta Bancaria,5.29,Alto,1343279,Digital,No,37,Secundaria,17,1040.73,2,Satisfecho,0
+Comuna 10,Cuenta Bancaria,5.43,Medio,771385,Presencial,Sí,29,Técnico,25,10090.65,3,Insatisfecho,2
+Comuna 5,Sin Acceso,3.89,Alto,1637799,Digital,No,69,Secundaria,20,3675.73,1,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,1.18,Bajo,2129433,Presencial,Sí,33,Universitario,7,17896.17,1,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,3.99,Medio,1784810,Digital,No,27,Técnico,7,4988.72,3,Neutral,2
+Comuna 5,Cuenta Bancaria,0.63,Alto,1743802,Digital,Sí,65,Primaria,30,17378.64,2,Muy Satisfecho,0
+Comuna 10,Billetera Movil,1.76,Bajo,1632603,Digital,No,45,Técnico,10,15845.2,1,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,7.66,Medio,2948163,Digital,Sí,56,Primaria,14,18427.9,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.88,Bajo,1234600,Digital,Sí,52,Secundaria,11,1520.2,3,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.92,Medio,1462698,Presencial,No,60,Primaria,11,9876.78,3,Neutral,0
+Comuna 13,Billetera Movil,4.56,Medio,807441,Digital,No,68,Técnico,26,8056.77,0,Neutral,0
+Comuna 5,Cuenta Bancaria,5.57,Alto,848533,Presencial,No,61,Secundaria,28,14602.76,2,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,5.01,Medio,2431960,Digital,Sí,67,Universitario,21,16453.18,0,Neutral,0
+Comuna 10,Cuenta Bancaria,2.85,Bajo,2117545,Digital,Sí,49,Primaria,36,7917.29,2,Muy Satisfecho,1
+Comuna 13,Sin Acceso,5.68,Alto,1186452,Digital,Sí,28,Primaria,35,12659.57,0,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,4.95,Alto,2407466,Digital,Sí,21,Técnico,3,10853.37,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,2.79,Medio,2895657,Presencial,No,58,Secundaria,45,6915.47,3,Neutral,0
+Comuna 5,Cuenta Bancaria,6.4,Bajo,984832,Digital,Sí,47,Universitario,21,2619.85,1,Neutral,1
+Zona Rural,Sin Acceso,7.02,Medio,2810884,Presencial,No,55,Primaria,24,3034.54,0,Neutral,1
+Comuna 5,Billetera Movil,1.8,Bajo,1863428,Presencial,Sí,29,Primaria,20,2583.74,2,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.0,Bajo,2764542,Presencial,No,41,Técnico,48,11873.4,3,Muy Insatisfecho,3
+Zona Rural,Cuenta Bancaria,7.91,Bajo,2994572,Digital,No,27,Universitario,34,5208.37,3,Insatisfecho,1
+Comuna 13,Sin Acceso,4.32,Medio,1482016,Presencial,Sí,24,Universitario,9,6760.48,1,Muy Satisfecho,2
+Comuna 8,Cuenta Bancaria,3.65,Alto,568688,Digital,No,60,Secundaria,7,14634.49,1,Neutral,0
+Zona Rural,Billetera Movil,4.06,Alto,2658777,Presencial,Sí,29,Técnico,35,9539.79,0,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,4.22,Medio,1796131,Digital,No,34,Secundaria,43,19571.93,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,4.29,Bajo,1408300,Presencial,No,48,Primaria,1,7428.87,1,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,7.72,Medio,1845705,Digital,Sí,61,Universitario,39,3271.86,3,Satisfecho,0
+Comuna 10,Cuenta Bancaria,1.68,Alto,999723,Presencial,No,65,Primaria,2,1594.27,0,Insatisfecho,0
+Comuna 13,Sin Acceso,2.02,Alto,609693,Digital,No,31,Secundaria,22,5441.99,3,Neutral,0
+Comuna 8,Cuenta Bancaria,3.19,Bajo,1582296,Digital,No,69,Secundaria,6,9465.0,2,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,6.29,Alto,2833566,Digital,No,64,Primaria,40,9470.67,0,Muy Insatisfecho,3
+Comuna 5,Billetera Movil,1.41,Bajo,2975503,Presencial,Sí,30,Universitario,9,9904.94,2,Insatisfecho,0
+Comuna 13,Sin Acceso,6.47,Bajo,720701,Presencial,Sí,53,Técnico,47,15712.8,0,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,3.32,Medio,1483864,Presencial,No,20,Primaria,20,14691.64,2,Insatisfecho,0
+Zona Rural,Sin Acceso,4.82,Alto,957500,Presencial,Sí,57,Primaria,11,5338.95,1,Muy Satisfecho,2
+Comuna 8,Sin Acceso,0.61,Alto,711422,Digital,Sí,38,Técnico,8,14961.39,0,Muy Insatisfecho,2
+Comuna 5,Cuenta Bancaria,5.26,Bajo,725587,Presencial,No,50,Universitario,38,7666.22,3,Insatisfecho,1
+Comuna 10,Billetera Movil,6.28,Medio,857176,Digital,No,54,Primaria,19,17386.91,0,Insatisfecho,2
+Comuna 10,Cuenta Bancaria,6.99,Alto,710354,Presencial,No,41,Primaria,41,17498.45,2,Muy Insatisfecho,2
+Zona Rural,Sin Acceso,6.97,Bajo,1503916,Presencial,Sí,43,Universitario,10,7826.46,1,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,5.99,Bajo,1088068,Presencial,No,58,Primaria,7,10399.34,3,Satisfecho,1
+Comuna 13,Cuenta Bancaria,2.07,Alto,1339149,Presencial,Sí,62,Universitario,39,5393.08,2,Insatisfecho,0
+Comuna 5,Sin Acceso,5.61,Bajo,2538223,Presencial,No,24,Primaria,2,15087.72,0,Neutral,0
+Comuna 10,Billetera Movil,6.45,Medio,2912930,Presencial,Sí,27,Secundaria,34,6362.97,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,1.2,Bajo,623102,Digital,No,68,Secundaria,47,10759.16,1,Insatisfecho,1
+Zona Rural,Sin Acceso,3.17,Medio,1359084,Presencial,Sí,21,Primaria,45,13868.66,2,Satisfecho,2
+Comuna 13,Cuenta Bancaria,4.07,Alto,2423137,Presencial,Sí,64,Universitario,18,17409.82,1,Insatisfecho,0
+Comuna 5,Billetera Movil,3.81,Bajo,1346149,Presencial,Sí,33,Secundaria,50,13191.99,1,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.4,Bajo,979602,Digital,Sí,60,Primaria,3,10571.78,1,Satisfecho,3
+Comuna 13,Billetera Movil,1.25,Medio,1684720,Digital,Sí,34,Secundaria,2,18607.92,2,Muy Satisfecho,1
+Zona Rural,Sin Acceso,6.77,Bajo,2499201,Digital,No,29,Universitario,28,17509.59,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,6.89,Alto,2207342,Digital,No,67,Primaria,12,10193.94,1,Neutral,2
+Comuna 8,Sin Acceso,7.97,Alto,897826,Digital,Sí,34,Universitario,49,16311.51,3,Insatisfecho,0
+Comuna 5,Billetera Movil,1.94,Medio,2873852,Digital,Sí,54,Técnico,30,13445.54,0,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,7.47,Medio,2844741,Digital,Sí,67,Técnico,46,13397.72,2,Satisfecho,0
+Comuna 5,Cuenta Bancaria,2.57,Medio,2622886,Presencial,Sí,65,Primaria,6,8466.11,3,Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.72,Medio,2942671,Presencial,No,34,Primaria,14,16880.61,3,Insatisfecho,1
+Comuna 5,Billetera Movil,1.41,Alto,2968733,Presencial,No,56,Técnico,39,13821.84,1,Satisfecho,0
+Comuna 13,Billetera Movil,1.22,Alto,645688,Digital,Sí,24,Secundaria,21,9637.06,3,Insatisfecho,3
+Comuna 5,Sin Acceso,4.39,Alto,2591959,Presencial,No,66,Técnico,20,18301.04,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,6.81,Bajo,1384028,Digital,No,29,Secundaria,6,5611.66,0,Insatisfecho,1
+Comuna 5,Sin Acceso,0.67,Alto,2928841,Digital,Sí,63,Primaria,25,17390.85,3,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,2.0,Medio,1365502,Presencial,No,59,Secundaria,21,12817.09,2,Satisfecho,0
+Comuna 13,Cuenta Bancaria,5.0,Alto,1366406,Presencial,Sí,40,Primaria,23,1395.4,0,Muy Satisfecho,1
+Comuna 8,Sin Acceso,7.85,Medio,757765,Presencial,Sí,67,Secundaria,27,4700.59,3,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,3.27,Bajo,1757030,Presencial,No,28,Secundaria,24,18050.12,1,Muy Satisfecho,1
+Comuna 5,Sin Acceso,4.52,Medio,2498578,Digital,Sí,44,Universitario,36,4550.28,1,Satisfecho,0
+Comuna 13,Sin Acceso,5.05,Alto,1914197,Digital,Sí,57,Secundaria,8,6736.37,1,Muy Satisfecho,0
+Comuna 10,Sin Acceso,2.75,Alto,1173861,Digital,Sí,47,Primaria,38,9563.27,1,Satisfecho,0
+Zona Rural,Sin Acceso,3.64,Medio,1265532,Presencial,No,69,Universitario,44,9091.58,2,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,2.37,Alto,2169835,Digital,Sí,56,Técnico,1,11078.09,3,Satisfecho,0
+Comuna 10,Cuenta Bancaria,5.61,Bajo,2406107,Presencial,Sí,67,Secundaria,38,10762.23,1,Neutral,1
+Comuna 13,Sin Acceso,7.07,Medio,2411477,Presencial,Sí,55,Técnico,30,16010.77,0,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,1.02,Bajo,1220913,Presencial,No,64,Secundaria,25,18173.73,2,Insatisfecho,0
+Comuna 13,Sin Acceso,4.72,Alto,2822274,Digital,Sí,58,Universitario,2,14038.86,2,Insatisfecho,1
+Comuna 5,Sin Acceso,3.01,Bajo,2315783,Digital,No,53,Primaria,40,8624.9,3,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,1.8,Medio,512122,Presencial,Sí,31,Universitario,45,1754.39,3,Muy Satisfecho,0
+Zona Rural,Billetera Movil,0.85,Medio,698996,Presencial,Sí,67,Primaria,24,8539.67,1,Insatisfecho,1
+Comuna 13,Billetera Movil,6.27,Medio,1077499,Digital,Sí,18,Técnico,47,8548.04,1,Satisfecho,2
+Comuna 10,Billetera Movil,6.88,Bajo,2820778,Presencial,Sí,25,Técnico,42,10718.46,0,Insatisfecho,2
+Comuna 8,Sin Acceso,2.35,Bajo,1464387,Digital,Sí,53,Universitario,15,10393.18,3,Insatisfecho,0
+Comuna 8,Sin Acceso,4.52,Bajo,1337705,Digital,Sí,68,Secundaria,21,5350.1,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,2.65,Medio,2373774,Digital,No,35,Secundaria,14,18093.25,3,Muy Satisfecho,2
+Comuna 13,Cuenta Bancaria,4.33,Bajo,2244862,Presencial,Sí,20,Universitario,42,1424.79,3,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.88,Medio,2937006,Digital,Sí,55,Primaria,41,16191.8,3,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,5.57,Medio,2311771,Presencial,No,34,Secundaria,28,9387.42,2,Satisfecho,3
+Zona Rural,Billetera Movil,6.13,Alto,1138196,Digital,Sí,41,Universitario,46,4577.53,1,Muy Satisfecho,3
+Comuna 13,Sin Acceso,1.76,Alto,1460741,Digital,Sí,45,Secundaria,41,3645.5,1,Neutral,0
+Comuna 5,Sin Acceso,1.46,Bajo,2425233,Presencial,No,56,Técnico,46,14515.53,0,Satisfecho,1
+Comuna 8,Cuenta Bancaria,3.96,Medio,2225027,Digital,No,42,Técnico,23,2851.39,2,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,6.59,Bajo,2532252,Digital,No,66,Primaria,32,16104.74,3,Satisfecho,2
+Zona Rural,Sin Acceso,7.49,Bajo,1441609,Digital,No,28,Universitario,15,4100.99,0,Neutral,1
+Zona Rural,Cuenta Bancaria,3.89,Medio,2901249,Digital,Sí,42,Primaria,5,1604.11,3,Satisfecho,0
+Comuna 5,Sin Acceso,2.74,Alto,632532,Presencial,Sí,61,Universitario,26,14778.29,1,Satisfecho,0
+Comuna 5,Billetera Movil,5.51,Bajo,2707729,Digital,Sí,28,Universitario,2,11945.76,3,Insatisfecho,3
+Comuna 10,Sin Acceso,3.63,Alto,2370400,Presencial,No,70,Técnico,10,8651.1,3,Satisfecho,2
+Comuna 13,Sin Acceso,0.62,Alto,1709117,Presencial,Sí,23,Primaria,13,17086.23,2,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,2.37,Medio,555165,Digital,No,52,Universitario,3,12446.45,1,Satisfecho,1
+Comuna 10,Billetera Movil,5.87,Bajo,1683712,Digital,No,56,Técnico,25,19146.48,3,Neutral,0
+Comuna 10,Billetera Movil,3.48,Alto,1432247,Digital,No,28,Técnico,15,8787.47,1,Insatisfecho,2
+Comuna 5,Cuenta Bancaria,5.88,Bajo,1528744,Digital,No,30,Universitario,13,3591.8,0,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,6.63,Medio,1593693,Digital,Sí,24,Universitario,29,4031.47,3,Satisfecho,1
+Comuna 8,Cuenta Bancaria,6.56,Medio,2808880,Presencial,Sí,45,Técnico,20,8877.14,2,Satisfecho,1
+Zona Rural,Cuenta Bancaria,6.02,Alto,2962668,Presencial,Sí,69,Secundaria,34,8513.62,1,Neutral,0
+Comuna 13,Sin Acceso,2.66,Alto,545883,Presencial,No,35,Secundaria,22,7264.33,2,Insatisfecho,2
+Comuna 5,Cuenta Bancaria,3.35,Alto,1969665,Presencial,Sí,30,Secundaria,36,9602.14,0,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,7.24,Medio,2934672,Digital,No,22,Universitario,7,7026.71,1,Insatisfecho,3
+Comuna 13,Billetera Movil,6.77,Alto,1114049,Presencial,Sí,23,Secundaria,1,19693.97,2,Muy Satisfecho,2
+Comuna 8,Sin Acceso,3.17,Medio,2348015,Digital,No,48,Primaria,40,17196.51,3,Satisfecho,2
+Comuna 5,Cuenta Bancaria,4.49,Medio,2494481,Presencial,No,67,Universitario,25,7575.34,0,Neutral,0
+Comuna 8,Billetera Movil,4.96,Medio,1507217,Presencial,No,41,Técnico,43,6097.25,1,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,6.19,Bajo,2204539,Presencial,No,44,Primaria,27,17886.37,0,Insatisfecho,1
+Comuna 10,Sin Acceso,3.02,Medio,929527,Digital,Sí,39,Técnico,10,4937.13,0,Insatisfecho,2
+Comuna 10,Sin Acceso,7.64,Bajo,2754507,Presencial,No,48,Técnico,5,6497.57,3,Insatisfecho,3
+Zona Rural,Sin Acceso,3.51,Alto,1041420,Presencial,No,23,Primaria,13,13188.76,2,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,4.62,Bajo,1892078,Digital,No,27,Universitario,33,10739.72,1,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,7.23,Alto,1005050,Digital,Sí,69,Secundaria,8,17457.21,2,Neutral,2
+Comuna 5,Cuenta Bancaria,5.22,Bajo,932566,Digital,Sí,67,Secundaria,7,18231.54,0,Satisfecho,0
+Comuna 5,Billetera Movil,3.47,Medio,1006219,Presencial,No,64,Secundaria,4,3988.99,0,Satisfecho,0
+Comuna 10,Sin Acceso,7.76,Alto,2680490,Digital,Sí,60,Técnico,29,16024.12,0,Neutral,2
+Comuna 5,Sin Acceso,4.55,Medio,556600,Digital,Sí,38,Primaria,45,6089.94,2,Satisfecho,2
+Comuna 10,Billetera Movil,5.44,Alto,2690922,Digital,No,33,Secundaria,20,15276.47,3,Muy Satisfecho,0
+Comuna 10,Sin Acceso,7.64,Bajo,2172752,Digital,Sí,39,Primaria,14,11212.88,3,Muy Satisfecho,0
+Zona Rural,Billetera Movil,7.41,Bajo,2591050,Presencial,Sí,57,Técnico,8,14198.67,2,Muy Satisfecho,0
+Comuna 10,Billetera Movil,5.81,Bajo,1421748,Digital,Sí,23,Primaria,18,4906.4,1,Satisfecho,1
+Comuna 5,Cuenta Bancaria,6.09,Alto,1874271,Presencial,No,26,Técnico,41,8304.71,0,Muy Satisfecho,1
+Comuna 10,Billetera Movil,3.82,Bajo,1176734,Presencial,No,32,Secundaria,20,7656.14,3,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,3.49,Medio,503501,Digital,No,48,Primaria,11,18207.2,2,Neutral,1
+Comuna 5,Cuenta Bancaria,1.48,Medio,2100268,Presencial,No,27,Secundaria,25,7027.79,2,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,7.81,Medio,772876,Presencial,Sí,69,Universitario,18,1094.66,3,Insatisfecho,3
+Comuna 5,Sin Acceso,3.0,Medio,1005991,Presencial,No,47,Técnico,34,11498.07,0,Insatisfecho,3
+Comuna 5,Billetera Movil,6.69,Medio,2083443,Presencial,Sí,56,Técnico,34,6108.75,0,Satisfecho,1
+Comuna 13,Cuenta Bancaria,4.06,Medio,969613,Presencial,No,20,Técnico,38,12996.93,1,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,5.42,Medio,1491188,Presencial,Sí,26,Universitario,41,11114.59,0,Satisfecho,0
+Zona Rural,Cuenta Bancaria,0.56,Alto,1141564,Digital,No,52,Secundaria,21,11925.85,1,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,6.89,Bajo,872738,Presencial,No,31,Secundaria,18,13408.54,2,Insatisfecho,1
+Comuna 10,Billetera Movil,1.3,Alto,785976,Digital,Sí,46,Primaria,26,10795.08,2,Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.13,Alto,978929,Presencial,No,42,Técnico,32,5228.57,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,5.81,Medio,2154911,Presencial,No,51,Primaria,3,15181.37,0,Neutral,0
+Zona Rural,Billetera Movil,7.0,Alto,2571080,Digital,Sí,40,Primaria,15,15324.63,3,Satisfecho,2
+Comuna 5,Cuenta Bancaria,7.87,Medio,1465508,Presencial,No,21,Universitario,19,19803.36,3,Satisfecho,0
+Comuna 13,Billetera Movil,7.07,Alto,666376,Digital,No,51,Secundaria,32,10487.95,0,Insatisfecho,0
+Comuna 10,Billetera Movil,5.26,Bajo,1165807,Digital,Sí,27,Universitario,45,16432.37,0,Neutral,3
+Zona Rural,Sin Acceso,6.41,Alto,1099317,Presencial,No,69,Primaria,45,3608.52,1,Muy Satisfecho,0
+Comuna 8,Billetera Movil,2.72,Alto,873547,Digital,Sí,20,Universitario,37,16531.5,3,Muy Satisfecho,1
+Zona Rural,Billetera Movil,0.89,Medio,1878393,Digital,Sí,32,Técnico,1,17584.65,1,Satisfecho,0
+Comuna 13,Billetera Movil,6.68,Alto,1685935,Digital,No,43,Primaria,14,8773.55,0,Insatisfecho,1
+Comuna 10,Billetera Movil,7.94,Bajo,625051,Presencial,No,43,Secundaria,4,9703.03,0,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,5.62,Alto,1444953,Presencial,No,32,Técnico,47,4368.01,0,Muy Satisfecho,1
+Zona Rural,Sin Acceso,1.77,Bajo,2894968,Presencial,Sí,63,Universitario,47,9370.38,3,Muy Satisfecho,3
+Comuna 8,Billetera Movil,6.13,Medio,1878314,Presencial,No,51,Técnico,37,6772.77,3,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,5.64,Bajo,1449993,Presencial,No,46,Universitario,31,4091.6,2,Insatisfecho,0
+Comuna 8,Billetera Movil,5.77,Alto,1568757,Digital,No,32,Secundaria,18,17963.7,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,6.39,Bajo,2298581,Presencial,Sí,20,Universitario,18,19007.25,1,Neutral,0
+Comuna 10,Sin Acceso,3.29,Medio,1033088,Presencial,Sí,58,Secundaria,28,17037.66,1,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.65,Medio,1088464,Presencial,No,23,Técnico,24,11810.74,2,Satisfecho,1
+Comuna 5,Billetera Movil,4.89,Medio,1169226,Digital,No,37,Universitario,32,10521.54,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,3.91,Bajo,1314953,Presencial,No,67,Primaria,7,12849.38,3,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,0.85,Alto,554134,Presencial,Sí,51,Secundaria,19,4745.43,1,Satisfecho,0
+Comuna 13,Billetera Movil,3.33,Alto,2097324,Presencial,No,55,Secundaria,29,5762.39,3,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,3.09,Medio,1650282,Presencial,No,22,Técnico,37,2989.81,1,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,5.96,Alto,1442876,Presencial,No,20,Universitario,15,15193.99,2,Satisfecho,2
+Comuna 8,Sin Acceso,4.51,Medio,2889813,Presencial,No,18,Secundaria,49,6923.17,3,Satisfecho,2
+Comuna 10,Billetera Movil,3.96,Alto,992235,Digital,Sí,20,Universitario,1,7358.57,1,Muy Satisfecho,0
+Zona Rural,Billetera Movil,6.02,Bajo,2992479,Presencial,Sí,32,Técnico,49,1156.28,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,7.06,Alto,2675766,Digital,No,40,Secundaria,4,8976.09,3,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.79,Medio,663493,Digital,No,26,Primaria,39,10195.78,0,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,4.2,Alto,2220518,Presencial,No,46,Secundaria,29,7007.18,1,Neutral,2
+Comuna 8,Sin Acceso,3.71,Medio,2780474,Presencial,No,54,Primaria,34,5248.24,3,Neutral,0
+Comuna 5,Billetera Movil,5.01,Alto,2386805,Digital,Sí,54,Técnico,19,6325.82,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,3.89,Bajo,1438653,Digital,Sí,34,Técnico,26,15685.55,1,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,6.72,Alto,1193087,Digital,No,34,Primaria,14,17358.79,0,Satisfecho,0
+Comuna 5,Billetera Movil,5.89,Bajo,2994337,Digital,No,48,Primaria,23,6726.71,0,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,6.06,Medio,2061262,Digital,No,69,Universitario,48,1862.21,1,Muy Satisfecho,0
+Zona Rural,Sin Acceso,4.03,Bajo,853657,Presencial,No,68,Secundaria,32,15958.78,2,Satisfecho,1
+Comuna 8,Billetera Movil,3.99,Bajo,2081154,Presencial,Sí,31,Secundaria,20,13817.0,0,Neutral,1
+Zona Rural,Billetera Movil,3.24,Bajo,2866356,Digital,No,22,Universitario,12,4341.57,3,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,4.07,Bajo,1437914,Presencial,Sí,42,Universitario,37,1870.05,3,Insatisfecho,1
+Comuna 13,Sin Acceso,7.13,Alto,2136790,Presencial,No,26,Técnico,45,15368.23,3,Satisfecho,3
+Comuna 8,Cuenta Bancaria,3.45,Alto,561797,Presencial,Sí,39,Técnico,33,9959.69,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,2.3,Medio,2537716,Presencial,No,64,Universitario,17,9849.03,0,Satisfecho,0
+Zona Rural,Sin Acceso,5.97,Bajo,992901,Presencial,Sí,57,Universitario,7,7170.59,0,Muy Satisfecho,0
+Comuna 10,Sin Acceso,3.0,Bajo,2876186,Presencial,Sí,68,Primaria,23,18345.61,0,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,0.88,Alto,2008524,Presencial,No,47,Universitario,27,14469.07,0,Satisfecho,2
+Comuna 13,Cuenta Bancaria,3.82,Medio,1590614,Presencial,No,29,Técnico,12,11536.62,0,Muy Satisfecho,1
+Comuna 13,Billetera Movil,4.93,Bajo,2400074,Digital,Sí,24,Técnico,50,11865.34,2,Satisfecho,0
+Comuna 13,Billetera Movil,4.01,Alto,685897,Digital,No,20,Primaria,32,19154.81,3,Neutral,1
+Comuna 13,Billetera Movil,0.94,Medio,2665354,Digital,No,56,Universitario,32,11036.54,2,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,7.41,Medio,2778095,Digital,No,61,Secundaria,28,4867.86,1,Insatisfecho,0
+Comuna 10,Billetera Movil,1.54,Alto,2420899,Digital,Sí,21,Secundaria,13,13049.42,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,2.89,Medio,2098516,Presencial,Sí,45,Primaria,31,16174.95,3,Satisfecho,1
+Comuna 13,Billetera Movil,6.93,Alto,783388,Presencial,No,36,Secundaria,20,17194.56,2,Satisfecho,0
+Comuna 8,Sin Acceso,1.88,Bajo,2415473,Presencial,No,38,Secundaria,27,4627.77,1,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,4.22,Bajo,969740,Digital,Sí,33,Técnico,37,10785.91,1,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,7.18,Alto,816091,Presencial,Sí,41,Primaria,21,16683.97,0,Neutral,1
+Zona Rural,Billetera Movil,7.3,Alto,1092047,Digital,Sí,19,Secundaria,2,17392.34,2,Muy Insatisfecho,3
+Comuna 10,Sin Acceso,4.41,Alto,923118,Presencial,Sí,55,Universitario,43,5677.67,3,Muy Satisfecho,0
+Comuna 5,Billetera Movil,4.08,Medio,719235,Presencial,No,54,Primaria,26,1976.75,0,Insatisfecho,2
+Comuna 13,Billetera Movil,1.96,Bajo,2618929,Digital,No,65,Secundaria,26,18188.11,1,Muy Insatisfecho,2
+Zona Rural,Sin Acceso,3.88,Medio,2492572,Digital,Sí,21,Secundaria,49,12486.1,0,Muy Insatisfecho,3
+Comuna 5,Billetera Movil,3.34,Bajo,2797400,Presencial,Sí,36,Secundaria,38,17853.76,3,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,2.36,Medio,650595,Presencial,No,58,Técnico,29,1061.74,1,Muy Satisfecho,0
+Comuna 13,Billetera Movil,3.89,Bajo,2625953,Presencial,No,54,Secundaria,18,3719.47,2,Neutral,0
+Comuna 13,Cuenta Bancaria,5.75,Medio,2631373,Presencial,Sí,56,Secundaria,30,5047.72,0,Neutral,0
+Comuna 8,Billetera Movil,0.76,Medio,2719002,Presencial,Sí,48,Universitario,45,6606.27,1,Muy Satisfecho,0
+Zona Rural,Sin Acceso,4.49,Alto,1299154,Presencial,Sí,40,Secundaria,24,13868.41,1,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,4.76,Medio,2179800,Digital,No,62,Universitario,4,1579.68,3,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,5.75,Medio,1222619,Digital,No,29,Universitario,37,16762.37,1,Neutral,1
+Comuna 10,Cuenta Bancaria,5.39,Medio,1284645,Digital,Sí,42,Universitario,38,14661.13,3,Neutral,0
+Comuna 5,Sin Acceso,1.24,Medio,664509,Presencial,No,55,Técnico,1,16392.83,0,Muy Satisfecho,2
+Comuna 10,Sin Acceso,5.73,Bajo,1744569,Digital,No,40,Universitario,10,7273.42,3,Neutral,0
+Comuna 13,Cuenta Bancaria,1.5,Bajo,2387815,Presencial,No,39,Secundaria,6,2397.85,2,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,0.87,Alto,550474,Digital,No,66,Técnico,25,1115.29,0,Muy Satisfecho,3
+Comuna 5,Cuenta Bancaria,7.4,Bajo,2505008,Digital,No,66,Secundaria,48,6522.64,2,Insatisfecho,0
+Comuna 8,Sin Acceso,6.9,Medio,2287985,Digital,No,58,Técnico,16,7552.14,2,Muy Satisfecho,1
+Comuna 13,Sin Acceso,7.82,Alto,2468213,Presencial,No,46,Técnico,19,14694.06,2,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,2.47,Alto,2160580,Presencial,Sí,42,Técnico,50,5046.84,3,Satisfecho,3
+Comuna 8,Sin Acceso,1.0,Medio,1818457,Digital,Sí,27,Primaria,11,11158.36,3,Insatisfecho,3
+Comuna 5,Cuenta Bancaria,3.02,Alto,2167673,Presencial,Sí,33,Secundaria,43,12758.5,1,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,2.68,Bajo,2070356,Digital,Sí,44,Primaria,34,16848.58,3,Muy Satisfecho,0
+Zona Rural,Sin Acceso,7.68,Bajo,2847442,Digital,Sí,42,Técnico,33,4243.65,1,Insatisfecho,2
+Zona Rural,Billetera Movil,7.85,Bajo,2530695,Digital,Sí,30,Técnico,8,3725.22,3,Insatisfecho,2
+Comuna 10,Cuenta Bancaria,1.18,Alto,2938101,Presencial,Sí,58,Primaria,48,10962.91,3,Muy Satisfecho,0
+Comuna 10,Sin Acceso,1.24,Medio,1067355,Digital,No,35,Técnico,19,4462.4,2,Neutral,0
+Comuna 5,Billetera Movil,7.7,Bajo,2128324,Digital,No,50,Técnico,43,11507.49,2,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,4.78,Medio,1230882,Presencial,Sí,47,Universitario,33,15067.74,2,Neutral,0
+Zona Rural,Cuenta Bancaria,5.95,Bajo,2538269,Presencial,Sí,70,Primaria,23,8830.59,0,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,3.71,Medio,1161307,Presencial,Sí,31,Técnico,24,8569.23,3,Insatisfecho,3
+Zona Rural,Sin Acceso,7.44,Alto,847818,Presencial,No,35,Primaria,15,8900.15,0,Muy Insatisfecho,3
+Zona Rural,Billetera Movil,3.73,Medio,2947344,Presencial,No,58,Secundaria,33,5077.1,0,Satisfecho,0
+Comuna 5,Sin Acceso,5.96,Bajo,2028480,Digital,No,39,Secundaria,31,13343.92,2,Satisfecho,0
+Comuna 8,Cuenta Bancaria,7.44,Bajo,1101644,Digital,No,36,Primaria,24,3611.91,2,Neutral,1
+Zona Rural,Cuenta Bancaria,6.31,Alto,1064411,Digital,No,59,Universitario,15,4285.77,0,Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.41,Medio,1645247,Digital,Sí,47,Universitario,35,5509.88,3,Neutral,0
+Comuna 13,Billetera Movil,4.7,Medio,2151497,Presencial,Sí,48,Secundaria,23,18347.08,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,4.17,Alto,2415817,Digital,No,49,Primaria,4,16735.26,3,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,3.95,Bajo,1144051,Digital,No,31,Secundaria,22,4837.46,3,Neutral,2
+Comuna 13,Billetera Movil,5.27,Bajo,890713,Presencial,Sí,61,Técnico,14,6931.04,1,Neutral,3
+Zona Rural,Cuenta Bancaria,0.67,Alto,1794686,Presencial,No,37,Secundaria,39,14632.68,3,Muy Satisfecho,0
+Comuna 5,Sin Acceso,1.23,Medio,1651054,Digital,Sí,57,Técnico,38,13145.21,3,Insatisfecho,1
+Comuna 8,Sin Acceso,7.84,Bajo,1394418,Digital,Sí,54,Técnico,30,5845.84,1,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,6.41,Bajo,1222778,Presencial,Sí,67,Técnico,28,2947.3,1,Muy Satisfecho,2
+Comuna 8,Billetera Movil,7.73,Bajo,1315074,Digital,Sí,31,Universitario,37,7770.28,3,Insatisfecho,3
+Zona Rural,Sin Acceso,0.84,Medio,922457,Digital,Sí,19,Universitario,1,3598.12,3,Neutral,0
+Comuna 10,Sin Acceso,1.11,Bajo,2048379,Digital,Sí,65,Secundaria,21,3242.12,0,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,3.95,Medio,921746,Presencial,Sí,22,Técnico,36,8882.53,1,Neutral,1
+Zona Rural,Sin Acceso,7.28,Alto,537524,Presencial,No,38,Universitario,28,15083.7,1,Satisfecho,0
+Comuna 10,Sin Acceso,0.96,Medio,944648,Presencial,Sí,42,Secundaria,45,9823.89,1,Satisfecho,0
+Comuna 8,Cuenta Bancaria,5.56,Medio,2524998,Presencial,Sí,41,Técnico,23,9802.57,3,Neutral,0
+Comuna 13,Billetera Movil,7.43,Alto,1095818,Digital,Sí,23,Técnico,18,1939.72,2,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,1.39,Medio,1764521,Digital,No,19,Técnico,9,6599.67,1,Neutral,1
+Comuna 10,Billetera Movil,4.35,Medio,2727304,Presencial,No,51,Secundaria,27,11566.25,2,Muy Satisfecho,3
+Comuna 5,Billetera Movil,7.23,Medio,1489343,Presencial,Sí,23,Primaria,29,14749.17,1,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,7.94,Bajo,2821109,Digital,Sí,30,Secundaria,44,2046.44,3,Neutral,0
+Zona Rural,Billetera Movil,2.65,Alto,2038397,Digital,No,53,Secundaria,43,9045.69,3,Neutral,0
+Comuna 10,Billetera Movil,3.72,Alto,2236680,Digital,No,40,Secundaria,5,3837.51,3,Satisfecho,2
+Comuna 10,Billetera Movil,4.24,Bajo,1739092,Digital,No,70,Técnico,10,3154.87,0,Muy Satisfecho,0
+Comuna 13,Billetera Movil,7.24,Alto,1694500,Digital,No,57,Primaria,35,1386.89,1,Satisfecho,1
+Comuna 8,Sin Acceso,6.5,Alto,2921092,Presencial,No,38,Primaria,36,17148.25,3,Muy Satisfecho,3
+Zona Rural,Sin Acceso,5.42,Alto,1604355,Presencial,No,65,Universitario,4,12592.26,3,Muy Insatisfecho,3
+Zona Rural,Sin Acceso,5.95,Bajo,2660884,Presencial,No,67,Secundaria,24,4440.01,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.94,Bajo,988847,Digital,Sí,37,Secundaria,36,6318.08,1,Muy Satisfecho,3
+Comuna 13,Billetera Movil,6.53,Bajo,2153364,Presencial,Sí,61,Técnico,17,1785.62,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,7.36,Medio,2923634,Presencial,No,65,Primaria,38,12494.38,2,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,4.92,Bajo,1556614,Presencial,No,36,Técnico,10,5095.49,3,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,0.79,Alto,2407082,Digital,No,65,Primaria,5,1003.44,0,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,6.14,Bajo,2468459,Digital,Sí,25,Secundaria,26,6059.97,3,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,2.67,Medio,2256511,Presencial,Sí,65,Técnico,25,4787.17,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,4.08,Alto,519719,Presencial,Sí,65,Universitario,35,5570.56,1,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,5.65,Alto,2529648,Digital,Sí,59,Técnico,19,3783.21,2,Muy Insatisfecho,3
+Comuna 5,Sin Acceso,1.67,Alto,1803378,Presencial,No,40,Secundaria,13,13266.37,2,Neutral,0
+Comuna 13,Cuenta Bancaria,5.33,Alto,2340826,Presencial,Sí,56,Primaria,3,13037.7,2,Neutral,1
+Comuna 8,Billetera Movil,5.77,Medio,1409641,Digital,No,63,Universitario,13,15808.68,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,1.77,Bajo,2353359,Presencial,Sí,33,Técnico,22,3025.22,0,Insatisfecho,1
+Comuna 5,Sin Acceso,7.72,Alto,820209,Digital,Sí,28,Técnico,20,19026.07,1,Muy Satisfecho,3
+Comuna 5,Cuenta Bancaria,5.27,Medio,2639335,Digital,Sí,37,Técnico,9,5427.43,1,Muy Satisfecho,0
+Comuna 8,Billetera Movil,1.71,Bajo,975267,Presencial,No,27,Primaria,45,3912.04,0,Satisfecho,1
+Zona Rural,Sin Acceso,2.8,Alto,2273045,Presencial,Sí,69,Técnico,28,17677.66,3,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,7.87,Medio,2129978,Digital,Sí,53,Técnico,49,14262.16,1,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,2.07,Alto,532594,Digital,No,28,Técnico,17,7812.45,3,Insatisfecho,0
+Comuna 13,Sin Acceso,1.46,Bajo,2244608,Digital,Sí,66,Universitario,4,3031.68,1,Muy Insatisfecho,3
+Comuna 8,Billetera Movil,5.17,Bajo,2476531,Digital,Sí,67,Técnico,9,10818.3,0,Neutral,0
+Comuna 13,Billetera Movil,6.73,Alto,1363022,Digital,Sí,25,Secundaria,47,14219.16,3,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,2.04,Medio,1218512,Presencial,Sí,61,Primaria,15,2723.54,1,Neutral,0
+Comuna 5,Sin Acceso,4.0,Bajo,2798719,Presencial,Sí,33,Secundaria,39,5181.26,1,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,2.25,Medio,2632641,Presencial,No,28,Universitario,45,19305.62,3,Insatisfecho,1
+Comuna 5,Sin Acceso,3.59,Bajo,2415956,Digital,Sí,36,Técnico,3,10439.82,3,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,6.15,Bajo,776874,Presencial,No,23,Primaria,4,17380.03,3,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,6.77,Medio,1795182,Presencial,Sí,37,Universitario,15,7323.34,0,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,2.45,Medio,1308961,Digital,No,31,Primaria,46,8997.58,3,Satisfecho,0
+Comuna 8,Cuenta Bancaria,3.02,Alto,2829480,Digital,Sí,67,Universitario,40,16471.13,2,Neutral,1
+Comuna 5,Cuenta Bancaria,4.69,Medio,890518,Digital,No,30,Primaria,50,7749.32,0,Satisfecho,0
+Zona Rural,Cuenta Bancaria,7.88,Alto,2258976,Presencial,Sí,56,Universitario,5,2351.89,3,Muy Satisfecho,0
+Comuna 5,Sin Acceso,5.63,Bajo,586556,Presencial,Sí,45,Secundaria,40,7563.16,1,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,4.06,Medio,830877,Presencial,Sí,54,Universitario,22,9231.58,0,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,5.93,Bajo,1510398,Digital,Sí,39,Secundaria,10,12974.59,0,Insatisfecho,1
+Comuna 13,Sin Acceso,3.58,Bajo,670649,Presencial,Sí,63,Secundaria,7,3992.75,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,5.12,Medio,2132225,Digital,No,33,Secundaria,19,11522.49,0,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,2.4,Medio,693602,Digital,No,50,Técnico,27,3190.03,2,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,5.15,Alto,2396095,Presencial,No,69,Primaria,34,9823.73,3,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,0.5,Alto,975755,Digital,No,68,Secundaria,22,5737.54,2,Neutral,0
+Comuna 13,Billetera Movil,2.59,Alto,1113540,Presencial,Sí,18,Primaria,17,17988.76,1,Muy Insatisfecho,3
+Comuna 5,Sin Acceso,3.51,Alto,2670576,Digital,No,70,Universitario,15,6699.01,0,Muy Satisfecho,0
+Comuna 13,Billetera Movil,2.73,Bajo,2891533,Digital,No,35,Primaria,5,3188.32,2,Muy Satisfecho,1
+Comuna 5,Cuenta Bancaria,7.72,Medio,1797221,Digital,Sí,29,Universitario,33,14832.24,0,Insatisfecho,0
+Comuna 10,Sin Acceso,7.69,Alto,560301,Presencial,Sí,61,Universitario,47,4995.64,0,Neutral,0
+Comuna 8,Cuenta Bancaria,6.8,Bajo,1237360,Presencial,No,69,Primaria,45,9897.57,1,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,3.72,Alto,2023439,Digital,Sí,64,Secundaria,5,5169.64,2,Neutral,3
+Comuna 5,Billetera Movil,4.62,Bajo,1674568,Digital,No,55,Técnico,42,9133.38,1,Satisfecho,0
+Zona Rural,Cuenta Bancaria,6.22,Medio,1542746,Presencial,Sí,19,Universitario,41,13601.66,1,Satisfecho,1
+Comuna 5,Cuenta Bancaria,3.35,Alto,1965225,Digital,No,49,Universitario,27,4540.93,1,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,5.37,Medio,2881811,Presencial,No,42,Secundaria,14,12049.84,3,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,7.01,Alto,1897996,Presencial,No,55,Técnico,26,14487.17,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.83,Bajo,1395825,Digital,No,62,Técnico,42,5635.31,3,Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.56,Medio,1852223,Presencial,No,25,Secundaria,3,15905.63,1,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.46,Alto,2049853,Presencial,No,42,Técnico,47,11951.41,0,Muy Satisfecho,3
+Comuna 13,Cuenta Bancaria,0.64,Alto,2494978,Digital,Sí,62,Universitario,1,3978.71,0,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,0.86,Medio,947634,Digital,No,38,Universitario,4,15093.45,1,Neutral,1
+Comuna 5,Sin Acceso,4.07,Medio,2497058,Presencial,Sí,41,Universitario,6,2803.05,1,Neutral,3
+Comuna 13,Sin Acceso,0.79,Medio,1094431,Presencial,No,37,Primaria,25,14434.72,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.52,Bajo,1572467,Digital,Sí,27,Universitario,44,14075.38,3,Insatisfecho,0
+Zona Rural,Sin Acceso,6.16,Bajo,1059666,Presencial,No,61,Primaria,44,5522.71,0,Neutral,0
+Comuna 5,Billetera Movil,3.75,Bajo,2896608,Digital,No,53,Primaria,31,1357.67,2,Satisfecho,0
+Comuna 8,Billetera Movil,6.44,Bajo,2584661,Digital,Sí,24,Universitario,37,7388.09,3,Neutral,2
+Comuna 5,Sin Acceso,7.95,Medio,1642110,Presencial,No,25,Secundaria,6,16049.25,3,Neutral,0
+Comuna 10,Cuenta Bancaria,7.28,Bajo,2491639,Presencial,No,49,Primaria,39,2061.75,0,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,6.6,Alto,2957640,Presencial,No,20,Universitario,11,14639.24,2,Neutral,2
+Comuna 5,Sin Acceso,6.67,Bajo,2311837,Digital,Sí,65,Primaria,14,9456.02,2,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,1.6,Medio,1551314,Presencial,No,56,Técnico,16,10114.36,0,Insatisfecho,0
+Comuna 13,Billetera Movil,0.94,Bajo,1806658,Presencial,Sí,51,Universitario,32,6549.81,2,Muy Satisfecho,0
+Comuna 8,Billetera Movil,1.31,Medio,2483064,Presencial,Sí,37,Primaria,41,1621.7,3,Neutral,1
+Comuna 8,Billetera Movil,4.9,Bajo,2733837,Digital,No,37,Primaria,22,12689.96,1,Neutral,1
+Comuna 10,Cuenta Bancaria,7.34,Bajo,871475,Presencial,Sí,59,Técnico,40,2133.1,0,Neutral,1
+Comuna 10,Cuenta Bancaria,3.81,Medio,536665,Digital,Sí,55,Técnico,38,15993.34,3,Insatisfecho,1
+Comuna 8,Sin Acceso,2.94,Bajo,1353168,Presencial,Sí,60,Primaria,28,12645.01,1,Neutral,3
+Comuna 8,Billetera Movil,6.75,Medio,1576581,Digital,No,65,Primaria,28,7362.38,1,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,7.07,Medio,1057556,Digital,No,46,Universitario,24,3014.17,0,Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.2,Medio,1648710,Presencial,No,31,Secundaria,10,1618.31,0,Muy Insatisfecho,2
+Comuna 13,Cuenta Bancaria,6.88,Bajo,2127395,Digital,No,61,Universitario,11,18886.28,2,Muy Satisfecho,2
+Comuna 13,Sin Acceso,2.04,Bajo,533051,Digital,No,55,Secundaria,25,4165.33,2,Satisfecho,1
+Comuna 8,Billetera Movil,2.88,Medio,2202293,Digital,No,32,Primaria,48,15277.43,3,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,1.97,Alto,721441,Presencial,No,29,Técnico,24,18594.71,3,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,0.95,Alto,2912708,Digital,No,38,Técnico,17,4287.74,2,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,4.21,Alto,1923444,Digital,No,31,Secundaria,36,6176.73,1,Neutral,2
+Comuna 5,Cuenta Bancaria,2.9,Bajo,1595710,Presencial,No,24,Universitario,41,4213.95,2,Satisfecho,1
+Comuna 10,Billetera Movil,3.11,Medio,987260,Digital,No,59,Primaria,22,9995.27,1,Insatisfecho,0
+Comuna 13,Billetera Movil,6.67,Alto,923408,Presencial,No,27,Universitario,39,6430.5,1,Insatisfecho,0
+Comuna 5,Billetera Movil,7.06,Bajo,1014415,Digital,Sí,32,Secundaria,16,4170.91,2,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,5.62,Medio,1734238,Presencial,No,52,Universitario,29,2289.17,0,Insatisfecho,1
+Comuna 10,Sin Acceso,1.5,Alto,894888,Presencial,No,42,Primaria,3,2053.17,0,Neutral,0
+Zona Rural,Sin Acceso,7.32,Medio,2672420,Digital,Sí,69,Técnico,25,15085.37,2,Neutral,1
+Comuna 10,Sin Acceso,4.93,Alto,1045167,Presencial,Sí,64,Secundaria,18,8357.75,3,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.98,Alto,1428221,Presencial,Sí,46,Universitario,20,6400.7,0,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,2.07,Bajo,2560055,Digital,No,34,Técnico,13,12747.31,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,1.43,Alto,2426398,Presencial,No,64,Primaria,24,3755.93,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.91,Alto,2254437,Presencial,Sí,35,Secundaria,27,15372.26,2,Insatisfecho,0
+Zona Rural,Sin Acceso,2.57,Bajo,634833,Digital,No,43,Universitario,14,16926.38,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.16,Alto,1121525,Digital,Sí,59,Universitario,25,4027.37,3,Muy Satisfecho,0
+Comuna 8,Sin Acceso,6.31,Bajo,2488035,Digital,No,60,Universitario,6,7404.37,2,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,4.29,Bajo,1856764,Presencial,No,23,Técnico,38,3798.62,2,Insatisfecho,1
+Comuna 5,Sin Acceso,4.42,Bajo,1201429,Digital,No,66,Secundaria,40,12207.02,1,Neutral,3
+Comuna 8,Sin Acceso,7.87,Medio,2331185,Presencial,No,31,Técnico,41,3255.85,3,Neutral,1
+Comuna 5,Billetera Movil,7.06,Medio,653098,Digital,Sí,42,Secundaria,2,7336.74,3,Satisfecho,1
+Zona Rural,Billetera Movil,3.74,Medio,2179232,Presencial,No,39,Universitario,48,12090.84,3,Neutral,3
+Comuna 13,Sin Acceso,6.94,Medio,829098,Digital,No,64,Universitario,17,4618.91,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,7.25,Alto,2654162,Presencial,No,70,Técnico,11,17473.72,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.52,Bajo,1209730,Presencial,No,58,Técnico,38,15407.05,1,Insatisfecho,1
+Comuna 10,Sin Acceso,6.4,Medio,734394,Digital,Sí,18,Técnico,21,14624.02,2,Insatisfecho,0
+Comuna 13,Sin Acceso,4.46,Alto,2000773,Digital,No,22,Secundaria,1,16180.21,1,Muy Satisfecho,1
+Comuna 5,Sin Acceso,1.79,Alto,1925879,Digital,No,51,Secundaria,38,12515.28,2,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,2.65,Medio,2882022,Digital,Sí,64,Técnico,29,1792.82,0,Neutral,0
+Comuna 13,Billetera Movil,5.52,Alto,975856,Presencial,Sí,67,Universitario,31,7227.11,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,2.29,Bajo,2414165,Presencial,No,55,Secundaria,12,16612.29,1,Insatisfecho,0
+Comuna 8,Billetera Movil,6.64,Alto,1097652,Presencial,No,56,Universitario,29,2053.75,0,Muy Satisfecho,3
+Comuna 8,Billetera Movil,2.61,Bajo,734871,Digital,No,30,Universitario,10,10017.37,3,Neutral,1
+Zona Rural,Billetera Movil,1.16,Bajo,2901732,Presencial,No,59,Primaria,29,1828.62,1,Muy Insatisfecho,3
+Comuna 13,Billetera Movil,7.61,Alto,604711,Presencial,Sí,54,Secundaria,49,17897.42,0,Insatisfecho,1
+Comuna 13,Sin Acceso,1.96,Medio,2164522,Presencial,Sí,66,Universitario,22,16464.81,3,Insatisfecho,1
+Comuna 5,Billetera Movil,3.83,Bajo,1440148,Presencial,Sí,45,Primaria,45,14448.03,0,Muy Satisfecho,1
+Comuna 8,Sin Acceso,5.06,Alto,1636782,Digital,No,33,Universitario,38,14548.35,0,Neutral,0
+Comuna 5,Cuenta Bancaria,2.87,Alto,572940,Digital,No,41,Universitario,20,5222.35,1,Insatisfecho,0
+Comuna 10,Billetera Movil,7.56,Medio,2322693,Presencial,No,29,Universitario,36,4724.27,3,Muy Satisfecho,0
+Comuna 10,Sin Acceso,6.31,Medio,777986,Digital,Sí,51,Técnico,20,4293.77,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,5.37,Medio,2718649,Digital,No,68,Secundaria,18,14026.97,1,Neutral,1
+Zona Rural,Sin Acceso,5.41,Alto,1265462,Digital,No,22,Técnico,26,12975.11,2,Neutral,1
+Comuna 13,Sin Acceso,2.08,Alto,640516,Digital,No,23,Primaria,20,16829.11,0,Satisfecho,1
+Comuna 10,Cuenta Bancaria,5.42,Alto,1662086,Presencial,No,22,Universitario,39,9654.61,1,Muy Satisfecho,0
+Comuna 13,Billetera Movil,4.57,Bajo,2967278,Presencial,No,53,Primaria,44,10825.75,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,6.62,Bajo,2719268,Digital,Sí,50,Técnico,17,18350.35,3,Satisfecho,3
+Zona Rural,Billetera Movil,3.03,Alto,926330,Digital,No,49,Técnico,47,8911.72,0,Satisfecho,1
+Comuna 10,Billetera Movil,0.58,Medio,2958620,Presencial,No,67,Primaria,39,7930.91,1,Satisfecho,1
+Comuna 10,Billetera Movil,6.79,Alto,783296,Digital,No,54,Secundaria,29,16006.8,2,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,3.35,Alto,2396052,Digital,Sí,64,Primaria,4,1372.87,0,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.86,Alto,545860,Digital,No,59,Técnico,19,4328.58,0,Muy Satisfecho,2
+Comuna 8,Sin Acceso,4.2,Bajo,1334835,Digital,Sí,48,Primaria,39,8901.03,3,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,7.48,Medio,630128,Digital,Sí,53,Universitario,43,8391.91,0,Satisfecho,1
+Comuna 8,Cuenta Bancaria,7.82,Medio,1849352,Presencial,Sí,35,Técnico,24,10942.5,1,Satisfecho,3
+Zona Rural,Billetera Movil,3.46,Alto,1781950,Digital,Sí,24,Primaria,6,5257.36,0,Insatisfecho,1
+Comuna 5,Sin Acceso,5.06,Bajo,711766,Presencial,Sí,29,Primaria,21,18627.39,3,Muy Satisfecho,1
+Comuna 5,Billetera Movil,3.29,Bajo,2734170,Presencial,No,30,Universitario,29,19381.27,0,Satisfecho,1
+Comuna 13,Cuenta Bancaria,6.41,Bajo,808616,Digital,No,66,Universitario,44,7171.54,0,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.69,Medio,587066,Digital,No,58,Universitario,24,15375.55,3,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,7.42,Bajo,2036255,Digital,Sí,66,Primaria,43,7903.45,3,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,1.77,Medio,2944469,Digital,Sí,29,Universitario,27,9521.54,0,Insatisfecho,1
+Zona Rural,Billetera Movil,5.07,Medio,1867676,Presencial,No,35,Técnico,29,11205.62,2,Satisfecho,3
+Comuna 8,Billetera Movil,4.31,Alto,2172270,Presencial,Sí,56,Secundaria,26,3252.36,2,Satisfecho,0
+Comuna 8,Billetera Movil,6.2,Medio,2224549,Presencial,Sí,65,Primaria,27,6030.34,3,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,4.18,Medio,738339,Presencial,Sí,46,Universitario,24,5574.14,1,Satisfecho,1
+Comuna 13,Cuenta Bancaria,2.72,Alto,2329467,Presencial,Sí,52,Secundaria,34,13224.06,0,Neutral,1
+Comuna 13,Cuenta Bancaria,2.86,Alto,1716598,Presencial,No,64,Técnico,39,14051.27,0,Insatisfecho,0
+Comuna 5,Sin Acceso,1.91,Medio,2575655,Presencial,No,25,Primaria,16,3823.42,0,Muy Satisfecho,0
+Comuna 5,Billetera Movil,6.71,Bajo,922046,Presencial,Sí,39,Secundaria,15,14523.59,3,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,1.74,Alto,2108963,Digital,Sí,18,Técnico,21,17118.22,2,Neutral,0
+Comuna 5,Billetera Movil,1.27,Bajo,2737395,Digital,No,66,Técnico,35,10600.69,2,Insatisfecho,1
+Comuna 8,Cuenta Bancaria,3.51,Alto,557701,Digital,No,43,Primaria,5,4950.89,1,Satisfecho,0
+Comuna 10,Cuenta Bancaria,4.56,Bajo,1931203,Digital,Sí,53,Primaria,2,18647.23,3,Satisfecho,1
+Comuna 13,Cuenta Bancaria,1.22,Medio,2685702,Digital,No,61,Técnico,17,4499.63,0,Insatisfecho,0
+Comuna 8,Sin Acceso,4.41,Alto,2510294,Digital,No,19,Primaria,37,9436.09,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.59,Medio,2421539,Digital,Sí,21,Técnico,28,2393.72,3,Satisfecho,3
+Comuna 8,Sin Acceso,0.6,Medio,627809,Digital,Sí,63,Primaria,44,4777.16,3,Neutral,0
+Comuna 10,Sin Acceso,4.47,Alto,2504749,Presencial,No,47,Secundaria,23,11484.96,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,1.18,Alto,2897129,Presencial,No,23,Técnico,45,11267.43,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.17,Alto,566156,Presencial,Sí,20,Secundaria,41,12685.97,0,Satisfecho,3
+Comuna 13,Billetera Movil,1.13,Alto,853353,Presencial,No,33,Universitario,38,1830.68,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,6.03,Medio,2661142,Digital,No,35,Primaria,49,3497.61,3,Insatisfecho,0
+Comuna 10,Sin Acceso,5.5,Alto,2716656,Presencial,Sí,63,Primaria,43,12137.69,2,Satisfecho,3
+Comuna 13,Cuenta Bancaria,4.41,Medio,1312881,Digital,Sí,46,Universitario,32,12661.0,0,Neutral,0
+Zona Rural,Billetera Movil,5.95,Alto,1031981,Presencial,Sí,35,Secundaria,36,17511.46,2,Muy Satisfecho,3
+Zona Rural,Billetera Movil,0.79,Alto,1969348,Presencial,No,62,Secundaria,32,10740.79,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,2.03,Medio,2424875,Digital,Sí,52,Técnico,8,6730.57,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,5.84,Alto,1039063,Presencial,Sí,49,Secundaria,1,13736.79,0,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,3.23,Alto,1446457,Presencial,No,51,Universitario,17,6112.73,2,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,4.69,Bajo,1586959,Digital,No,27,Técnico,39,10673.77,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,4.5,Alto,1828723,Presencial,No,68,Técnico,43,11700.03,0,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.79,Alto,534724,Presencial,No,66,Universitario,27,8184.37,0,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,4.56,Alto,617921,Presencial,No,40,Primaria,18,11043.88,3,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,4.38,Medio,1044584,Presencial,No,42,Secundaria,38,7529.44,3,Neutral,3
+Comuna 13,Billetera Movil,1.49,Bajo,546726,Digital,No,64,Primaria,13,13857.37,3,Muy Satisfecho,1
+Comuna 13,Billetera Movil,2.69,Medio,1779012,Presencial,No,65,Universitario,35,11830.65,2,Insatisfecho,0
+Comuna 5,Billetera Movil,0.77,Alto,1613026,Presencial,Sí,29,Secundaria,18,17610.16,1,Insatisfecho,1
+Comuna 13,Billetera Movil,6.89,Medio,821611,Presencial,No,24,Técnico,32,4061.35,1,Neutral,0
+Comuna 10,Billetera Movil,6.44,Alto,1587242,Digital,No,69,Secundaria,28,12219.19,2,Insatisfecho,3
+Comuna 13,Sin Acceso,6.01,Medio,1347744,Digital,Sí,39,Técnico,15,2991.8,0,Insatisfecho,1
+Comuna 8,Sin Acceso,0.98,Medio,1686559,Digital,No,49,Técnico,26,15434.25,0,Muy Satisfecho,3
+Comuna 10,Billetera Movil,2.46,Medio,1669163,Presencial,No,63,Técnico,41,5446.08,1,Muy Satisfecho,1
+Comuna 8,Sin Acceso,5.22,Alto,2277447,Presencial,Sí,20,Primaria,50,8972.07,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.69,Medio,858422,Digital,No,50,Primaria,11,2274.7,2,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,5.52,Medio,1835607,Digital,No,55,Universitario,25,11370.75,2,Insatisfecho,0
+Comuna 5,Sin Acceso,5.36,Bajo,1476820,Presencial,No,30,Técnico,19,11471.72,1,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,7.65,Bajo,1198509,Presencial,Sí,64,Secundaria,15,16170.38,0,Insatisfecho,1
+Comuna 10,Sin Acceso,1.38,Bajo,836324,Presencial,Sí,63,Universitario,38,10741.17,3,Insatisfecho,1
+Comuna 10,Sin Acceso,6.94,Medio,646953,Presencial,Sí,37,Técnico,2,4231.67,2,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,7.72,Alto,656793,Digital,Sí,36,Universitario,21,9828.93,0,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,1.2,Alto,2997381,Presencial,Sí,49,Universitario,1,15702.59,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,3.7,Medio,2728173,Digital,Sí,32,Secundaria,26,13687.8,2,Muy Satisfecho,0
+Zona Rural,Billetera Movil,7.55,Medio,1401476,Digital,No,56,Secundaria,10,6567.19,0,Neutral,3
+Comuna 5,Cuenta Bancaria,6.94,Medio,2891432,Presencial,No,26,Universitario,5,8939.73,3,Muy Satisfecho,1
+Comuna 5,Sin Acceso,1.69,Medio,2989276,Presencial,No,50,Primaria,30,2479.69,1,Muy Satisfecho,3
+Comuna 10,Cuenta Bancaria,6.42,Alto,1041973,Digital,No,29,Universitario,49,5811.96,3,Neutral,0
+Zona Rural,Sin Acceso,7.38,Medio,1022660,Digital,Sí,48,Primaria,39,19706.22,2,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,6.37,Alto,2601490,Digital,Sí,49,Universitario,40,12321.08,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,6.0,Medio,1879480,Presencial,No,33,Universitario,46,13033.62,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,0.72,Medio,2653324,Digital,Sí,70,Primaria,30,9747.0,2,Satisfecho,3
+Comuna 5,Sin Acceso,5.24,Medio,879211,Digital,Sí,54,Secundaria,31,11200.49,0,Neutral,0
+Comuna 8,Cuenta Bancaria,7.08,Bajo,2675908,Presencial,No,59,Secundaria,44,1805.09,1,Muy Satisfecho,0
+Zona Rural,Sin Acceso,6.31,Alto,980119,Digital,Sí,28,Primaria,49,1924.73,0,Neutral,0
+Comuna 13,Sin Acceso,3.76,Alto,2616506,Digital,No,64,Técnico,21,17450.08,0,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.51,Alto,764062,Digital,No,48,Técnico,36,3988.49,3,Satisfecho,3
+Comuna 10,Cuenta Bancaria,1.04,Alto,2132089,Presencial,Sí,40,Técnico,8,18848.38,3,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,7.43,Alto,1569557,Digital,No,69,Secundaria,2,9005.13,3,Satisfecho,0
+Zona Rural,Billetera Movil,1.29,Medio,1133111,Presencial,Sí,26,Técnico,32,16930.42,3,Insatisfecho,0
+Comuna 5,Billetera Movil,1.66,Medio,2271646,Digital,Sí,57,Secundaria,49,10629.52,0,Insatisfecho,0
+Zona Rural,Billetera Movil,7.67,Medio,2017877,Digital,Sí,55,Técnico,48,5524.63,1,Insatisfecho,1
+Comuna 10,Billetera Movil,5.85,Alto,1902785,Presencial,Sí,43,Universitario,37,16482.56,2,Satisfecho,0
+Zona Rural,Cuenta Bancaria,4.7,Bajo,2360201,Digital,Sí,35,Primaria,43,12532.01,1,Neutral,0
+Comuna 10,Sin Acceso,5.96,Medio,1080832,Presencial,No,32,Secundaria,21,15817.11,2,Satisfecho,0
+Comuna 13,Cuenta Bancaria,2.17,Medio,2688473,Presencial,No,68,Secundaria,29,12150.55,1,Satisfecho,0
+Comuna 5,Billetera Movil,6.72,Medio,2307483,Presencial,Sí,25,Primaria,9,3492.63,2,Satisfecho,0
+Zona Rural,Cuenta Bancaria,2.02,Medio,2452929,Presencial,Sí,63,Primaria,20,2506.87,1,Neutral,0
+Comuna 10,Cuenta Bancaria,4.41,Medio,2718684,Digital,No,50,Primaria,9,9111.95,2,Neutral,2
+Comuna 5,Billetera Movil,6.34,Bajo,1304398,Digital,Sí,67,Universitario,14,16329.92,0,Insatisfecho,1
+Comuna 5,Sin Acceso,6.14,Bajo,1250787,Presencial,No,19,Universitario,4,2269.59,1,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,1.23,Bajo,2611501,Digital,Sí,43,Universitario,22,16874.81,2,Neutral,0
+Comuna 5,Cuenta Bancaria,2.33,Alto,2269872,Presencial,No,52,Técnico,17,10874.51,3,Muy Satisfecho,0
+Comuna 8,Billetera Movil,4.46,Medio,1048929,Presencial,No,62,Técnico,24,4297.61,3,Satisfecho,2
+Comuna 5,Billetera Movil,2.22,Alto,785198,Presencial,No,33,Primaria,8,13087.6,1,Insatisfecho,0
+Comuna 5,Billetera Movil,4.59,Medio,1627383,Digital,Sí,60,Universitario,7,8405.8,2,Neutral,1
+Comuna 10,Cuenta Bancaria,5.94,Medio,820969,Digital,Sí,59,Secundaria,17,16906.68,2,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,1.92,Bajo,1247677,Digital,No,32,Universitario,47,4173.16,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,3.59,Medio,2358903,Presencial,Sí,67,Primaria,25,5285.13,2,Muy Satisfecho,2
+Comuna 8,Billetera Movil,1.07,Medio,1741920,Presencial,No,31,Técnico,25,9200.99,3,Satisfecho,3
+Comuna 8,Sin Acceso,2.43,Bajo,2565082,Digital,Sí,62,Técnico,12,11221.13,0,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,6.57,Alto,1617737,Digital,No,41,Secundaria,31,9882.31,1,Neutral,1
+Comuna 13,Sin Acceso,1.74,Alto,2657569,Digital,Sí,66,Técnico,27,1975.65,2,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,4.28,Medio,1745979,Presencial,Sí,29,Técnico,24,11369.1,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,7.04,Bajo,2083644,Digital,No,26,Primaria,34,19874.13,3,Insatisfecho,1
+Comuna 8,Sin Acceso,4.33,Bajo,1385760,Digital,Sí,27,Universitario,46,11668.7,2,Satisfecho,0
+Comuna 5,Sin Acceso,2.73,Medio,724135,Presencial,Sí,47,Secundaria,39,18697.07,2,Neutral,0
+Comuna 8,Billetera Movil,1.46,Bajo,2544272,Digital,No,27,Primaria,5,19335.33,2,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.52,Bajo,2647704,Digital,No,27,Secundaria,20,5141.14,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.98,Alto,2547333,Digital,Sí,43,Primaria,2,14766.22,3,Neutral,0
+Comuna 8,Cuenta Bancaria,5.6,Bajo,1651038,Digital,Sí,48,Técnico,23,6168.73,3,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,2.08,Medio,1660954,Digital,Sí,62,Primaria,36,9902.48,0,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,6.49,Medio,1428316,Digital,Sí,34,Universitario,15,1289.58,3,Satisfecho,2
+Comuna 5,Cuenta Bancaria,6.03,Alto,720957,Digital,Sí,38,Técnico,45,11816.66,0,Neutral,2
+Comuna 10,Billetera Movil,2.76,Bajo,702134,Presencial,No,19,Universitario,44,7181.57,2,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,6.95,Medio,890643,Digital,Sí,39,Secundaria,29,9392.22,1,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,5.34,Bajo,1069428,Presencial,Sí,54,Secundaria,21,4460.38,3,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.88,Bajo,2232678,Presencial,No,39,Primaria,25,8044.93,0,Neutral,1
+Comuna 5,Cuenta Bancaria,2.84,Medio,710950,Digital,Sí,22,Técnico,1,19670.12,1,Neutral,2
+Zona Rural,Sin Acceso,3.97,Bajo,555760,Presencial,Sí,41,Secundaria,24,4023.37,0,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,0.93,Alto,1593388,Digital,No,60,Universitario,14,16025.58,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.88,Medio,842714,Presencial,No,62,Secundaria,19,6283.58,2,Satisfecho,3
+Comuna 8,Billetera Movil,0.64,Medio,2276128,Digital,No,20,Universitario,20,14694.72,3,Neutral,1
+Comuna 10,Billetera Movil,6.9,Bajo,2733095,Presencial,Sí,38,Secundaria,23,2527.12,2,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,6.61,Medio,1139749,Presencial,Sí,29,Universitario,9,1822.76,0,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,3.56,Medio,876879,Presencial,Sí,46,Secundaria,44,17009.38,1,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.17,Medio,2402289,Digital,No,64,Secundaria,41,16621.32,2,Satisfecho,3
+Comuna 5,Sin Acceso,7.64,Alto,2465274,Presencial,Sí,18,Primaria,41,7426.04,1,Muy Satisfecho,1
+Zona Rural,Sin Acceso,2.52,Alto,2441138,Digital,Sí,22,Secundaria,43,6777.99,0,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,7.87,Bajo,1582773,Presencial,Sí,21,Primaria,1,11153.99,3,Muy Satisfecho,1
+Zona Rural,Sin Acceso,1.04,Bajo,536159,Digital,Sí,67,Secundaria,18,3758.33,3,Muy Satisfecho,1
+Zona Rural,Billetera Movil,7.76,Medio,2423242,Presencial,No,24,Primaria,36,14721.01,1,Neutral,0
+Zona Rural,Sin Acceso,2.45,Alto,884835,Digital,No,25,Primaria,37,9631.08,0,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,7.37,Medio,1083370,Digital,No,59,Primaria,41,6303.54,1,Muy Insatisfecho,2
+Comuna 10,Sin Acceso,7.1,Medio,2505951,Digital,No,39,Universitario,40,13271.11,0,Satisfecho,0
+Comuna 10,Billetera Movil,7.72,Medio,864659,Digital,Sí,65,Técnico,45,13780.77,2,Insatisfecho,3
+Comuna 13,Sin Acceso,3.81,Bajo,1686933,Presencial,No,66,Técnico,18,18473.1,0,Muy Insatisfecho,3
+Zona Rural,Sin Acceso,1.09,Bajo,1077010,Digital,Sí,66,Primaria,45,6115.12,0,Satisfecho,3
+Comuna 13,Cuenta Bancaria,3.97,Medio,1435816,Presencial,No,55,Secundaria,24,1989.54,1,Neutral,0
+Comuna 10,Sin Acceso,7.23,Medio,662745,Presencial,No,26,Secundaria,3,9623.42,1,Insatisfecho,0
+Comuna 5,Billetera Movil,1.63,Bajo,1647669,Digital,No,22,Secundaria,49,7746.76,3,Muy Satisfecho,0
+Comuna 8,Billetera Movil,3.21,Alto,1510154,Digital,No,43,Secundaria,47,14776.16,3,Satisfecho,2
+Comuna 10,Billetera Movil,2.09,Alto,1086482,Digital,Sí,25,Universitario,42,15504.06,3,Muy Satisfecho,0
+Comuna 5,Sin Acceso,3.57,Alto,2410226,Digital,Sí,26,Secundaria,30,9139.33,0,Neutral,0
+Comuna 10,Sin Acceso,5.09,Alto,2949082,Digital,No,35,Técnico,48,5684.2,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,5.01,Medio,678364,Presencial,No,65,Secundaria,12,14128.56,0,Neutral,3
+Comuna 13,Billetera Movil,1.72,Alto,574531,Digital,No,18,Universitario,36,5441.55,3,Neutral,0
+Zona Rural,Billetera Movil,2.8,Bajo,2415829,Digital,No,59,Universitario,24,1723.9,3,Muy Satisfecho,0
+Comuna 10,Billetera Movil,4.61,Medio,1095588,Digital,No,47,Secundaria,28,17283.95,1,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,4.98,Alto,951441,Presencial,Sí,38,Técnico,39,15962.8,1,Neutral,0
+Comuna 10,Billetera Movil,7.62,Bajo,1433737,Presencial,No,20,Universitario,39,10050.08,3,Muy Satisfecho,1
+Comuna 10,Cuenta Bancaria,2.86,Alto,1602516,Digital,Sí,41,Secundaria,2,15420.75,0,Muy Insatisfecho,3
+Comuna 10,Sin Acceso,5.15,Bajo,524326,Digital,Sí,40,Secundaria,36,9797.69,3,Satisfecho,2
+Zona Rural,Cuenta Bancaria,7.77,Alto,1551083,Presencial,No,42,Primaria,49,11022.92,1,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,6.48,Bajo,2968815,Presencial,Sí,48,Universitario,11,5341.8,2,Neutral,0
+Comuna 5,Sin Acceso,1.11,Bajo,1471591,Digital,Sí,18,Primaria,35,5040.12,3,Satisfecho,2
+Zona Rural,Cuenta Bancaria,2.05,Bajo,2110863,Digital,No,43,Universitario,12,1519.84,3,Insatisfecho,0
+Comuna 13,Billetera Movil,4.04,Alto,968071,Presencial,Sí,52,Secundaria,1,10520.94,1,Muy Satisfecho,0
+Comuna 13,Billetera Movil,6.22,Bajo,1559622,Digital,Sí,60,Secundaria,25,1999.56,3,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,5.64,Medio,1096039,Digital,No,48,Primaria,14,6636.28,1,Neutral,1
+Comuna 5,Cuenta Bancaria,3.92,Alto,1345679,Digital,No,66,Técnico,17,10895.0,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,3.15,Alto,697366,Presencial,Sí,34,Primaria,41,19588.95,1,Neutral,1
+Zona Rural,Billetera Movil,7.05,Medio,2564094,Presencial,Sí,49,Primaria,12,10233.38,3,Satisfecho,0
+Comuna 8,Billetera Movil,1.72,Bajo,854009,Digital,No,59,Secundaria,37,17390.52,2,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.32,Alto,1459423,Digital,Sí,68,Primaria,5,13693.26,3,Muy Insatisfecho,2
+Comuna 8,Billetera Movil,7.88,Alto,1601400,Presencial,No,26,Técnico,49,14330.5,1,Muy Satisfecho,0
+Comuna 13,Billetera Movil,6.03,Medio,2134619,Presencial,Sí,24,Técnico,24,13883.87,1,Neutral,0
+Comuna 5,Sin Acceso,1.97,Alto,2874590,Digital,No,50,Primaria,14,3487.96,0,Neutral,0
+Comuna 5,Sin Acceso,2.05,Medio,1479657,Presencial,Sí,36,Universitario,3,3857.16,3,Neutral,0
+Comuna 10,Billetera Movil,0.65,Alto,2106707,Presencial,No,44,Primaria,26,5868.77,3,Muy Satisfecho,0
+Comuna 10,Billetera Movil,2.04,Bajo,1385687,Digital,No,43,Universitario,34,2933.27,3,Neutral,2
+Comuna 10,Sin Acceso,3.28,Medio,2370616,Presencial,No,58,Secundaria,43,10016.65,2,Insatisfecho,2
+Comuna 13,Cuenta Bancaria,6.5,Bajo,1976713,Presencial,Sí,29,Técnico,29,12889.33,2,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,7.09,Alto,2523562,Presencial,No,68,Técnico,28,12329.15,1,Neutral,1
+Comuna 13,Billetera Movil,7.4,Alto,2986599,Presencial,Sí,39,Técnico,44,17163.23,3,Neutral,0
+Comuna 5,Billetera Movil,3.61,Bajo,937151,Presencial,Sí,60,Secundaria,49,5606.87,3,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,2.95,Medio,682744,Presencial,No,19,Primaria,47,12874.92,1,Satisfecho,1
+Comuna 10,Cuenta Bancaria,5.01,Alto,2326515,Digital,Sí,43,Universitario,2,10615.14,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,1.92,Medio,2841924,Presencial,No,47,Primaria,31,19736.73,3,Muy Satisfecho,3
+Comuna 8,Sin Acceso,7.95,Alto,1923278,Presencial,No,41,Técnico,47,10626.18,2,Neutral,0
+Comuna 13,Sin Acceso,3.15,Alto,802867,Digital,Sí,51,Primaria,9,13044.16,3,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,7.38,Medio,1555112,Digital,Sí,29,Universitario,25,17445.66,3,Satisfecho,0
+Comuna 13,Sin Acceso,0.81,Bajo,709362,Presencial,No,30,Universitario,35,14865.21,2,Satisfecho,2
+Comuna 13,Cuenta Bancaria,1.8,Bajo,1054269,Digital,Sí,36,Técnico,48,16490.1,1,Satisfecho,1
+Comuna 13,Billetera Movil,7.05,Bajo,666598,Digital,No,52,Primaria,21,11346.43,0,Satisfecho,0
+Zona Rural,Sin Acceso,2.22,Bajo,2911714,Digital,Sí,58,Universitario,45,5656.88,0,Muy Satisfecho,0
+Comuna 8,Billetera Movil,1.22,Bajo,1501878,Presencial,Sí,65,Primaria,40,7359.09,1,Muy Satisfecho,1
+Comuna 13,Billetera Movil,5.01,Medio,1192772,Presencial,No,68,Secundaria,6,4887.91,0,Muy Satisfecho,3
+Comuna 13,Billetera Movil,2.52,Medio,564406,Presencial,No,28,Técnico,47,16548.71,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.7,Medio,2839474,Presencial,No,29,Secundaria,39,6397.55,2,Insatisfecho,1
+Comuna 10,Sin Acceso,0.66,Alto,1263348,Digital,No,38,Primaria,39,18405.31,0,Satisfecho,1
+Zona Rural,Cuenta Bancaria,2.42,Medio,2809960,Digital,Sí,27,Universitario,4,3308.53,2,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,2.69,Medio,1851333,Digital,No,69,Primaria,13,17564.35,0,Muy Satisfecho,1
+Comuna 8,Sin Acceso,0.95,Medio,1540058,Presencial,Sí,70,Secundaria,35,13337.98,1,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,4.11,Alto,2757175,Presencial,No,50,Técnico,47,3953.73,2,Muy Satisfecho,2
+Zona Rural,Cuenta Bancaria,1.37,Bajo,2385667,Presencial,No,42,Técnico,5,14170.81,0,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,2.93,Medio,709387,Digital,Sí,45,Universitario,24,11857.6,0,Satisfecho,2
+Comuna 10,Billetera Movil,7.43,Bajo,644423,Presencial,No,38,Primaria,34,10315.2,3,Insatisfecho,0
+Comuna 10,Billetera Movil,6.13,Medio,2399661,Presencial,Sí,22,Primaria,21,12089.78,2,Insatisfecho,2
+Comuna 13,Sin Acceso,5.7,Bajo,1316495,Digital,No,34,Universitario,1,8809.25,2,Satisfecho,0
+Comuna 10,Billetera Movil,5.33,Medio,2388711,Presencial,No,41,Secundaria,10,14401.78,0,Satisfecho,3
+Comuna 10,Sin Acceso,1.58,Alto,2248672,Presencial,No,39,Técnico,50,15048.06,2,Satisfecho,0
+Comuna 8,Sin Acceso,4.26,Alto,2877887,Digital,Sí,48,Técnico,15,10371.03,0,Insatisfecho,3
+Comuna 8,Billetera Movil,6.11,Bajo,925511,Presencial,No,23,Universitario,36,15756.81,2,Neutral,0
+Zona Rural,Billetera Movil,0.71,Bajo,2836646,Presencial,No,45,Secundaria,14,4705.75,3,Neutral,0
+Comuna 5,Billetera Movil,0.55,Medio,1255910,Presencial,No,60,Secundaria,35,5183.65,0,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,0.74,Alto,1316401,Presencial,Sí,20,Secundaria,33,4926.7,3,Insatisfecho,1
+Comuna 8,Sin Acceso,1.92,Bajo,1121134,Digital,Sí,51,Universitario,47,4459.99,3,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,5.19,Alto,736786,Digital,Sí,70,Técnico,49,12255.35,0,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,0.63,Alto,2033869,Digital,No,43,Secundaria,39,11624.72,3,Neutral,1
+Comuna 8,Billetera Movil,0.86,Alto,1817847,Digital,Sí,30,Primaria,26,18915.79,3,Satisfecho,0
+Comuna 10,Sin Acceso,4.59,Alto,2810951,Digital,No,65,Secundaria,32,7269.54,2,Satisfecho,2
+Comuna 10,Billetera Movil,1.82,Medio,1385165,Presencial,No,21,Universitario,14,17641.11,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,3.55,Medio,2784670,Presencial,Sí,36,Secundaria,41,13119.89,1,Satisfecho,3
+Comuna 13,Billetera Movil,5.52,Bajo,782721,Digital,Sí,26,Secundaria,6,18749.34,3,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.51,Bajo,2863810,Presencial,No,34,Primaria,44,19364.0,3,Insatisfecho,0
+Zona Rural,Billetera Movil,3.75,Medio,2784715,Presencial,No,37,Primaria,9,7789.33,1,Satisfecho,2
+Comuna 8,Billetera Movil,5.84,Medio,724640,Presencial,No,29,Universitario,27,1356.29,0,Insatisfecho,0
+Zona Rural,Sin Acceso,3.21,Medio,1486735,Digital,Sí,41,Secundaria,10,5497.62,1,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,4.73,Bajo,2353854,Presencial,No,68,Primaria,14,2976.09,3,Satisfecho,1
+Comuna 5,Cuenta Bancaria,6.34,Bajo,1497000,Presencial,No,32,Técnico,26,13743.84,1,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,6.57,Alto,732607,Digital,Sí,63,Técnico,3,8272.84,0,Satisfecho,0
+Comuna 8,Sin Acceso,4.57,Medio,705079,Digital,No,51,Secundaria,2,6277.23,3,Neutral,0
+Comuna 13,Cuenta Bancaria,7.67,Bajo,2782594,Presencial,No,31,Secundaria,34,10544.61,1,Neutral,0
+Zona Rural,Sin Acceso,3.22,Bajo,1025779,Presencial,Sí,34,Primaria,22,3267.35,1,Muy Insatisfecho,3
+Comuna 8,Sin Acceso,2.11,Medio,2102198,Presencial,Sí,42,Secundaria,18,1174.58,1,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,1.9,Medio,1365315,Digital,Sí,62,Primaria,43,10591.59,3,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,1.94,Medio,2776481,Presencial,Sí,27,Secundaria,33,7799.51,3,Neutral,1
+Comuna 5,Billetera Movil,3.0,Medio,1339212,Digital,Sí,49,Técnico,10,18239.67,1,Neutral,2
+Comuna 13,Sin Acceso,1.41,Bajo,922809,Presencial,Sí,42,Secundaria,50,10383.31,2,Insatisfecho,3
+Comuna 13,Sin Acceso,6.48,Medio,2401049,Digital,No,25,Universitario,28,10914.72,2,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,5.78,Medio,1954274,Digital,Sí,18,Secundaria,46,12708.83,0,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,0.63,Bajo,2286046,Digital,No,36,Universitario,25,8040.61,1,Satisfecho,1
+Zona Rural,Cuenta Bancaria,2.09,Medio,584833,Digital,No,67,Universitario,15,19394.67,0,Satisfecho,1
+Zona Rural,Billetera Movil,4.67,Alto,1424481,Presencial,No,44,Primaria,15,14257.47,2,Muy Satisfecho,1
+Comuna 10,Sin Acceso,1.39,Medio,640960,Digital,No,21,Técnico,27,10637.94,2,Satisfecho,2
+Zona Rural,Sin Acceso,2.55,Alto,2665080,Presencial,Sí,35,Universitario,14,16728.06,2,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,3.47,Bajo,2126229,Presencial,Sí,52,Secundaria,4,16180.87,3,Muy Satisfecho,2
+Comuna 8,Billetera Movil,4.85,Medio,2126015,Digital,Sí,62,Primaria,45,7507.2,1,Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.1,Bajo,1087518,Presencial,Sí,30,Técnico,31,18142.42,2,Satisfecho,1
+Comuna 8,Cuenta Bancaria,3.89,Medio,1384476,Presencial,Sí,56,Técnico,38,6966.32,1,Muy Satisfecho,0
+Comuna 10,Sin Acceso,6.45,Alto,956451,Digital,Sí,65,Técnico,34,7888.66,2,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,5.31,Bajo,1055354,Presencial,Sí,47,Secundaria,24,2686.6,3,Muy Satisfecho,1
+Zona Rural,Billetera Movil,4.05,Alto,1989451,Digital,No,69,Primaria,18,18232.55,2,Muy Satisfecho,0
+Zona Rural,Sin Acceso,0.53,Medio,936765,Presencial,No,42,Primaria,7,19946.97,1,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,4.93,Alto,2895779,Presencial,No,45,Universitario,3,14859.79,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,1.51,Bajo,1355633,Digital,Sí,65,Técnico,48,14012.47,2,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,2.07,Alto,818631,Digital,Sí,41,Técnico,11,11034.2,2,Insatisfecho,0
+Comuna 10,Billetera Movil,2.88,Medio,811533,Presencial,No,29,Técnico,13,15441.99,3,Satisfecho,0
+Comuna 13,Cuenta Bancaria,3.76,Alto,2998581,Presencial,Sí,57,Primaria,23,9412.61,2,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,5.84,Bajo,2457433,Presencial,No,33,Secundaria,44,2831.86,0,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.26,Medio,1210330,Presencial,No,57,Universitario,23,11534.12,3,Satisfecho,2
+Comuna 5,Cuenta Bancaria,5.4,Bajo,621467,Digital,Sí,18,Primaria,13,3177.95,2,Neutral,2
+Comuna 5,Cuenta Bancaria,3.13,Alto,1026141,Digital,Sí,32,Universitario,31,15849.47,0,Insatisfecho,3
+Comuna 8,Billetera Movil,1.85,Alto,2510741,Presencial,Sí,51,Técnico,6,19210.81,1,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,1.25,Medio,1013450,Presencial,Sí,26,Secundaria,25,10508.09,2,Insatisfecho,0
+Zona Rural,Billetera Movil,1.92,Alto,2397092,Presencial,No,40,Secundaria,34,8848.51,2,Neutral,0
+Zona Rural,Billetera Movil,2.05,Alto,2098479,Digital,No,50,Universitario,47,8329.62,0,Insatisfecho,1
+Zona Rural,Sin Acceso,1.74,Alto,1575456,Digital,Sí,26,Técnico,9,1363.42,3,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,5.88,Alto,2418298,Digital,Sí,35,Universitario,12,8219.09,2,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,4.09,Alto,1347055,Digital,Sí,67,Secundaria,22,4717.82,0,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,7.89,Alto,1544767,Presencial,Sí,64,Universitario,36,11583.1,1,Insatisfecho,0
+Comuna 13,Billetera Movil,3.38,Medio,545820,Digital,No,32,Universitario,25,7463.8,2,Neutral,0
+Comuna 5,Sin Acceso,3.38,Bajo,2949931,Digital,Sí,67,Primaria,21,5154.64,1,Muy Satisfecho,1
+Comuna 13,Billetera Movil,7.83,Bajo,1874205,Digital,Sí,36,Técnico,10,6154.86,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,3.43,Medio,2919992,Digital,Sí,53,Universitario,32,7424.77,0,Insatisfecho,3
+Comuna 8,Billetera Movil,7.06,Bajo,2139434,Presencial,No,60,Primaria,28,3817.11,3,Muy Satisfecho,0
+Zona Rural,Billetera Movil,1.24,Medio,1147582,Digital,Sí,26,Secundaria,12,9578.45,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,1.02,Bajo,1159878,Presencial,Sí,39,Técnico,50,14404.53,3,Satisfecho,0
+Comuna 5,Billetera Movil,7.8,Bajo,2242489,Digital,Sí,23,Técnico,29,15278.2,1,Muy Insatisfecho,2
+Comuna 13,Billetera Movil,0.78,Medio,2829786,Digital,No,55,Primaria,12,13641.51,3,Muy Satisfecho,3
+Comuna 10,Sin Acceso,4.08,Alto,2637009,Digital,No,65,Técnico,25,9374.43,0,Muy Insatisfecho,3
+Comuna 10,Billetera Movil,3.23,Alto,757814,Digital,No,19,Secundaria,3,15091.01,0,Insatisfecho,0
+Comuna 8,Billetera Movil,0.93,Bajo,2994287,Presencial,No,56,Universitario,36,4322.86,3,Muy Satisfecho,0
+Comuna 10,Sin Acceso,6.54,Medio,1794529,Presencial,No,59,Primaria,29,5829.02,0,Insatisfecho,0
+Comuna 13,Sin Acceso,2.39,Alto,2453153,Presencial,No,69,Secundaria,24,16274.5,0,Satisfecho,0
+Comuna 10,Cuenta Bancaria,2.32,Medio,2664627,Digital,No,27,Secundaria,6,7935.34,1,Insatisfecho,1
+Comuna 5,Sin Acceso,6.42,Alto,647111,Presencial,Sí,35,Secundaria,25,11672.77,2,Neutral,0
+Zona Rural,Cuenta Bancaria,2.44,Medio,1431762,Digital,No,53,Universitario,28,11330.69,0,Muy Satisfecho,3
+Comuna 10,Sin Acceso,6.05,Alto,1515932,Digital,No,29,Secundaria,18,18905.57,3,Satisfecho,2
+Comuna 13,Cuenta Bancaria,5.61,Medio,2908494,Presencial,No,43,Universitario,37,8309.13,3,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,4.71,Bajo,2931039,Digital,No,35,Técnico,23,7743.19,1,Muy Satisfecho,2
+Zona Rural,Sin Acceso,7.75,Bajo,847200,Digital,Sí,57,Universitario,4,8203.48,2,Satisfecho,1
+Comuna 10,Sin Acceso,1.89,Alto,2347218,Presencial,No,36,Universitario,5,3210.07,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,1.29,Bajo,924217,Presencial,Sí,67,Técnico,28,18128.07,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.39,Medio,912051,Presencial,No,34,Secundaria,8,14289.22,1,Neutral,1
+Comuna 10,Billetera Movil,6.95,Alto,2185288,Presencial,Sí,46,Técnico,35,4449.4,0,Satisfecho,0
+Zona Rural,Sin Acceso,4.11,Medio,1916624,Presencial,Sí,45,Secundaria,5,15203.02,1,Neutral,0
+Zona Rural,Cuenta Bancaria,7.22,Medio,2818363,Digital,Sí,35,Técnico,34,8867.63,3,Neutral,1
+Comuna 5,Billetera Movil,5.21,Medio,2255616,Digital,Sí,36,Técnico,25,11562.97,0,Muy Satisfecho,3
+Comuna 8,Billetera Movil,6.73,Medio,1475732,Digital,Sí,26,Universitario,25,12413.05,3,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,3.87,Alto,2718904,Presencial,Sí,49,Secundaria,7,19988.01,3,Satisfecho,0
+Comuna 10,Billetera Movil,0.73,Bajo,1990190,Presencial,Sí,23,Universitario,38,11625.0,3,Neutral,3
+Comuna 10,Cuenta Bancaria,6.53,Bajo,2031291,Presencial,Sí,69,Primaria,38,19921.99,1,Insatisfecho,1
+Comuna 13,Billetera Movil,0.69,Alto,2955740,Presencial,Sí,32,Universitario,39,18967.12,1,Satisfecho,3
+Zona Rural,Cuenta Bancaria,5.92,Alto,1713976,Presencial,No,43,Secundaria,16,18866.59,0,Satisfecho,1
+Comuna 5,Sin Acceso,4.25,Bajo,2319116,Digital,No,59,Técnico,11,11774.8,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.07,Medio,2368291,Digital,Sí,39,Primaria,42,7317.76,0,Muy Satisfecho,0
+Comuna 13,Billetera Movil,5.86,Alto,2625496,Presencial,No,38,Técnico,41,12558.17,0,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.65,Medio,1858900,Presencial,No,58,Secundaria,36,7127.19,1,Muy Insatisfecho,2
+Comuna 5,Billetera Movil,6.7,Medio,2772866,Digital,Sí,35,Secundaria,11,14972.25,2,Neutral,1
+Comuna 10,Billetera Movil,5.65,Alto,2013475,Digital,No,45,Secundaria,24,17843.95,1,Neutral,0
+Comuna 13,Cuenta Bancaria,3.77,Alto,1370607,Presencial,Sí,45,Primaria,2,13850.59,3,Muy Satisfecho,0
+Comuna 10,Sin Acceso,7.97,Alto,1933565,Digital,No,28,Universitario,20,7362.91,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.7,Medio,2934533,Presencial,No,28,Universitario,21,17108.35,3,Muy Satisfecho,2
+Comuna 8,Sin Acceso,3.16,Medio,1076500,Presencial,Sí,43,Primaria,41,19910.14,1,Neutral,0
+Comuna 13,Billetera Movil,6.43,Alto,860403,Digital,Sí,62,Universitario,46,9158.36,0,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.13,Bajo,776439,Presencial,Sí,48,Técnico,49,1794.03,3,Neutral,0
+Comuna 5,Sin Acceso,6.4,Bajo,1036432,Presencial,No,56,Secundaria,21,6123.11,2,Neutral,2
+Zona Rural,Billetera Movil,3.32,Medio,784190,Presencial,No,18,Técnico,33,17317.18,2,Neutral,3
+Comuna 5,Sin Acceso,5.45,Medio,1936612,Presencial,Sí,60,Secundaria,3,11998.26,2,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,1.42,Alto,1863648,Digital,Sí,33,Técnico,2,19165.25,0,Neutral,0
+Comuna 8,Sin Acceso,6.3,Medio,2415288,Digital,No,41,Universitario,34,13343.02,3,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,4.8,Medio,2708060,Presencial,No,52,Universitario,24,14427.91,1,Muy Satisfecho,0
+Zona Rural,Sin Acceso,6.42,Alto,1234154,Digital,No,40,Primaria,5,18472.19,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,1.25,Bajo,2648968,Presencial,No,43,Primaria,42,12074.21,3,Insatisfecho,0
+Zona Rural,Sin Acceso,4.78,Bajo,1660504,Presencial,No,68,Universitario,32,7857.02,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,7.08,Alto,2874176,Digital,No,52,Universitario,29,10531.97,2,Satisfecho,0
+Zona Rural,Cuenta Bancaria,7.22,Bajo,2307587,Presencial,No,34,Secundaria,29,18075.42,3,Satisfecho,0
+Comuna 13,Sin Acceso,2.45,Alto,2285333,Presencial,Sí,56,Universitario,30,2350.35,1,Neutral,3
+Comuna 5,Sin Acceso,0.92,Alto,1787489,Digital,Sí,61,Primaria,14,16221.6,1,Insatisfecho,0
+Comuna 8,Sin Acceso,5.48,Medio,2746072,Digital,Sí,26,Técnico,24,13636.73,2,Satisfecho,0
+Comuna 5,Cuenta Bancaria,1.27,Alto,1967402,Digital,No,37,Primaria,8,16941.87,2,Satisfecho,0
+Comuna 8,Cuenta Bancaria,0.83,Medio,969095,Presencial,Sí,66,Primaria,45,11344.05,3,Satisfecho,0
+Comuna 13,Cuenta Bancaria,2.76,Medio,941244,Digital,Sí,69,Técnico,36,3642.94,3,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,6.58,Alto,1328998,Digital,Sí,26,Primaria,4,14255.68,0,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,1.76,Medio,2934796,Presencial,No,53,Secundaria,41,17839.05,1,Insatisfecho,2
+Comuna 8,Billetera Movil,5.23,Bajo,2673305,Digital,No,46,Universitario,6,6799.93,3,Neutral,0
+Comuna 8,Sin Acceso,6.32,Alto,2219399,Presencial,Sí,47,Técnico,24,7758.91,2,Neutral,0
+Comuna 10,Billetera Movil,0.56,Alto,1647166,Digital,No,63,Universitario,25,3062.82,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.19,Alto,1148845,Digital,Sí,69,Secundaria,18,11375.76,2,Neutral,2
+Comuna 5,Billetera Movil,2.7,Bajo,510249,Digital,No,22,Universitario,1,8124.47,2,Muy Insatisfecho,3
+Comuna 13,Billetera Movil,4.93,Medio,679795,Presencial,Sí,62,Universitario,28,12764.34,2,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,7.9,Alto,879660,Presencial,No,45,Secundaria,29,4905.68,2,Neutral,1
+Zona Rural,Sin Acceso,2.75,Alto,1423077,Presencial,Sí,35,Primaria,26,2783.99,1,Satisfecho,2
+Comuna 10,Cuenta Bancaria,2.15,Alto,1741003,Digital,Sí,37,Primaria,39,11095.73,3,Insatisfecho,0
+Comuna 10,Sin Acceso,6.81,Alto,2316372,Presencial,No,59,Técnico,15,12675.56,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,2.32,Medio,1714814,Digital,Sí,46,Secundaria,30,14071.47,0,Satisfecho,2
+Zona Rural,Cuenta Bancaria,3.19,Medio,2196169,Presencial,Sí,62,Secundaria,29,12193.22,2,Muy Insatisfecho,2
+Zona Rural,Sin Acceso,7.53,Bajo,2464760,Presencial,No,47,Secundaria,18,2259.12,0,Muy Satisfecho,0
+Comuna 13,Sin Acceso,1.52,Bajo,2413470,Digital,Sí,48,Primaria,32,10216.26,2,Insatisfecho,1
+Comuna 8,Billetera Movil,3.82,Medio,2352245,Presencial,No,58,Universitario,27,8703.34,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.98,Bajo,1403141,Presencial,No,24,Universitario,33,9442.04,1,Muy Satisfecho,0
+Comuna 10,Sin Acceso,3.55,Medio,2062466,Digital,Sí,57,Secundaria,41,9149.69,2,Insatisfecho,1
+Zona Rural,Billetera Movil,5.66,Medio,965443,Digital,Sí,21,Primaria,41,10282.56,2,Neutral,0
+Comuna 8,Cuenta Bancaria,6.48,Medio,2864010,Digital,Sí,30,Secundaria,18,16429.89,0,Insatisfecho,1
+Comuna 8,Cuenta Bancaria,1.09,Bajo,2064637,Presencial,Sí,46,Secundaria,42,6110.44,3,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,6.82,Bajo,2693986,Digital,No,40,Secundaria,7,10332.57,2,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,2.63,Bajo,679126,Presencial,No,43,Técnico,8,4044.27,3,Neutral,1
+Zona Rural,Cuenta Bancaria,6.31,Bajo,1027360,Digital,Sí,26,Primaria,49,4965.95,3,Muy Insatisfecho,3
+Comuna 8,Billetera Movil,4.71,Bajo,973852,Digital,Sí,51,Secundaria,31,19884.5,1,Neutral,1
+Comuna 13,Billetera Movil,6.76,Alto,2029993,Presencial,Sí,61,Universitario,34,6199.2,3,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,7.84,Bajo,2858310,Presencial,Sí,39,Secundaria,31,15083.71,1,Satisfecho,0
+Zona Rural,Billetera Movil,6.45,Bajo,2881344,Digital,Sí,36,Secundaria,10,19014.95,3,Muy Satisfecho,1
+Comuna 10,Sin Acceso,1.84,Medio,863838,Presencial,No,40,Secundaria,15,13952.29,3,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,1.66,Alto,2137599,Presencial,No,22,Universitario,2,19392.34,1,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,3.24,Bajo,627274,Digital,Sí,38,Secundaria,39,18261.18,3,Satisfecho,0
+Comuna 10,Cuenta Bancaria,2.84,Alto,1319633,Presencial,Sí,49,Técnico,14,13646.02,1,Insatisfecho,3
+Zona Rural,Cuenta Bancaria,1.16,Alto,2885536,Digital,Sí,55,Secundaria,33,13221.34,0,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,0.69,Medio,534388,Presencial,Sí,36,Técnico,40,12321.32,3,Satisfecho,0
+Comuna 13,Cuenta Bancaria,3.86,Medio,2171763,Digital,No,28,Primaria,9,16290.48,2,Muy Satisfecho,1
+Comuna 10,Cuenta Bancaria,2.19,Medio,706462,Presencial,Sí,18,Universitario,4,10019.92,2,Satisfecho,0
+Zona Rural,Billetera Movil,2.98,Medio,2618990,Presencial,No,58,Técnico,9,18138.97,2,Neutral,0
+Comuna 13,Sin Acceso,6.67,Bajo,2623549,Digital,Sí,53,Universitario,45,18893.33,2,Muy Satisfecho,3
+Zona Rural,Billetera Movil,1.42,Medio,1606615,Digital,Sí,60,Técnico,49,9819.08,1,Neutral,3
+Comuna 8,Billetera Movil,4.77,Medio,1673535,Digital,Sí,51,Técnico,43,4079.44,3,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,4.5,Medio,2663548,Presencial,No,40,Universitario,9,1715.27,3,Insatisfecho,1
+Zona Rural,Billetera Movil,5.69,Bajo,2396392,Digital,No,20,Primaria,23,1719.87,1,Satisfecho,0
+Comuna 5,Sin Acceso,0.57,Medio,2895917,Digital,No,68,Secundaria,16,1871.29,2,Satisfecho,0
+Comuna 8,Cuenta Bancaria,6.01,Alto,2953566,Digital,No,19,Primaria,40,9521.86,2,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,3.05,Bajo,802532,Digital,No,59,Secundaria,5,6298.57,2,Satisfecho,0
+Comuna 13,Billetera Movil,1.57,Bajo,1250651,Digital,No,63,Técnico,23,7870.83,2,Insatisfecho,1
+Comuna 10,Sin Acceso,0.88,Alto,2989064,Digital,Sí,60,Técnico,13,13327.9,2,Satisfecho,1
+Comuna 10,Cuenta Bancaria,6.68,Alto,527302,Digital,No,52,Técnico,40,1912.39,1,Muy Insatisfecho,2
+Comuna 10,Cuenta Bancaria,6.2,Bajo,2080030,Digital,No,36,Técnico,15,2995.25,2,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,4.53,Alto,1869548,Presencial,No,51,Técnico,45,3803.09,2,Neutral,0
+Comuna 5,Cuenta Bancaria,4.84,Medio,2887439,Digital,No,56,Primaria,28,17989.98,0,Satisfecho,0
+Comuna 13,Billetera Movil,1.14,Alto,1534006,Digital,Sí,66,Técnico,7,11718.69,3,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,2.55,Medio,1861891,Presencial,Sí,43,Técnico,28,7239.75,2,Neutral,0
+Comuna 5,Billetera Movil,2.54,Bajo,975573,Digital,No,40,Secundaria,12,15394.72,3,Muy Satisfecho,1
+Comuna 5,Cuenta Bancaria,6.61,Bajo,791231,Digital,Sí,59,Primaria,33,5185.98,2,Muy Insatisfecho,3
+Comuna 13,Sin Acceso,5.58,Medio,2475745,Digital,No,57,Primaria,27,9057.65,3,Satisfecho,3
+Comuna 5,Billetera Movil,7.92,Alto,1621665,Digital,Sí,45,Técnico,32,13689.72,3,Neutral,0
+Comuna 8,Sin Acceso,2.09,Alto,1927999,Digital,Sí,52,Técnico,27,12902.26,3,Satisfecho,0
+Comuna 10,Sin Acceso,6.52,Alto,2651908,Presencial,Sí,41,Universitario,35,10738.79,3,Insatisfecho,0
+Comuna 5,Sin Acceso,5.07,Medio,1299800,Digital,Sí,29,Secundaria,45,11124.31,2,Neutral,0
+Comuna 13,Cuenta Bancaria,5.86,Alto,2133081,Digital,Sí,27,Universitario,15,15317.83,1,Neutral,1
+Zona Rural,Sin Acceso,5.74,Bajo,1865912,Presencial,No,55,Primaria,18,2220.78,2,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,2.8,Alto,1262130,Presencial,No,63,Técnico,43,14681.09,0,Insatisfecho,0
+Comuna 13,Billetera Movil,0.77,Bajo,1571515,Presencial,No,28,Secundaria,14,7446.5,1,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,0.94,Bajo,2045865,Presencial,No,37,Técnico,10,1975.98,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,6.13,Medio,2867790,Presencial,No,32,Primaria,33,6605.32,1,Satisfecho,1
+Comuna 10,Sin Acceso,3.56,Bajo,1891842,Presencial,No,28,Primaria,49,16860.82,3,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,3.75,Medio,2544117,Presencial,Sí,40,Primaria,43,12506.99,0,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.5,Bajo,2719569,Presencial,No,46,Universitario,28,14968.39,3,Neutral,0
+Zona Rural,Cuenta Bancaria,6.29,Alto,1869655,Digital,No,46,Universitario,7,14900.06,0,Insatisfecho,3
+Zona Rural,Sin Acceso,3.17,Bajo,2239818,Presencial,No,22,Técnico,17,1212.26,1,Insatisfecho,1
+Comuna 8,Sin Acceso,7.96,Alto,825567,Digital,Sí,31,Técnico,10,19748.96,3,Satisfecho,1
+Zona Rural,Sin Acceso,3.53,Medio,1097625,Presencial,No,43,Secundaria,26,19760.48,1,Satisfecho,1
+Comuna 5,Cuenta Bancaria,1.86,Medio,2789098,Presencial,Sí,21,Universitario,2,18545.26,3,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,2.22,Bajo,2433621,Presencial,No,39,Universitario,5,2234.14,2,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.87,Alto,2432278,Presencial,No,59,Primaria,39,15422.57,2,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,1.61,Medio,2543944,Digital,No,19,Técnico,39,12342.78,0,Neutral,0
+Comuna 10,Billetera Movil,7.98,Bajo,1943327,Presencial,Sí,34,Técnico,7,12115.28,1,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,3.22,Bajo,2104192,Digital,Sí,29,Técnico,49,4366.22,3,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.92,Bajo,1843675,Digital,Sí,49,Primaria,6,7974.6,1,Insatisfecho,0
+Comuna 13,Sin Acceso,0.53,Alto,1669838,Presencial,Sí,29,Técnico,33,6102.09,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,2.7,Alto,1841448,Digital,No,39,Primaria,11,13497.94,1,Muy Insatisfecho,3
+Comuna 8,Cuenta Bancaria,7.15,Medio,2775376,Presencial,No,41,Universitario,35,18714.46,3,Insatisfecho,3
+Comuna 13,Cuenta Bancaria,6.44,Bajo,504857,Digital,Sí,56,Secundaria,38,14417.63,2,Muy Satisfecho,0
+Zona Rural,Sin Acceso,3.65,Alto,1362523,Presencial,Sí,36,Primaria,17,8991.17,0,Insatisfecho,2
+Comuna 13,Billetera Movil,6.5,Medio,710174,Digital,Sí,21,Primaria,38,3608.21,0,Neutral,0
+Comuna 5,Sin Acceso,1.94,Medio,2940974,Presencial,Sí,19,Técnico,50,4570.4,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,6.03,Bajo,1971047,Digital,Sí,49,Secundaria,30,10532.25,0,Satisfecho,1
+Comuna 8,Cuenta Bancaria,6.07,Bajo,1416394,Digital,Sí,30,Técnico,28,13832.2,1,Satisfecho,2
+Comuna 8,Cuenta Bancaria,7.86,Medio,1281201,Digital,No,33,Secundaria,20,13025.92,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,5.24,Medio,842920,Presencial,Sí,69,Primaria,7,19635.72,3,Muy Satisfecho,1
+Comuna 10,Cuenta Bancaria,6.07,Medio,883590,Digital,Sí,37,Primaria,25,9203.68,3,Satisfecho,0
+Comuna 8,Cuenta Bancaria,4.49,Bajo,509351,Digital,No,57,Universitario,31,10775.78,1,Muy Satisfecho,3
+Comuna 13,Billetera Movil,7.17,Bajo,2540093,Presencial,Sí,24,Técnico,48,2913.92,2,Satisfecho,3
+Comuna 5,Cuenta Bancaria,7.25,Medio,2922411,Presencial,No,43,Universitario,28,8145.97,3,Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.18,Bajo,1106573,Digital,No,25,Técnico,38,6962.74,0,Muy Satisfecho,0
+Comuna 5,Sin Acceso,7.91,Alto,1334641,Digital,Sí,24,Primaria,29,3949.3,2,Satisfecho,2
+Comuna 13,Billetera Movil,5.98,Medio,2260463,Presencial,Sí,56,Universitario,33,5935.92,0,Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.01,Alto,981336,Digital,Sí,35,Técnico,26,6878.94,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,1.51,Bajo,2885662,Presencial,Sí,40,Secundaria,31,11984.75,2,Satisfecho,0
+Zona Rural,Billetera Movil,1.7,Alto,2903803,Digital,Sí,26,Secundaria,25,5618.29,0,Muy Insatisfecho,2
+Zona Rural,Cuenta Bancaria,2.43,Alto,2338034,Digital,No,34,Secundaria,7,1117.24,0,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.9,Bajo,2407258,Digital,Sí,45,Técnico,27,15346.33,1,Muy Insatisfecho,3
+Zona Rural,Cuenta Bancaria,0.88,Alto,2652118,Presencial,Sí,24,Técnico,41,14741.87,1,Insatisfecho,1
+Comuna 8,Sin Acceso,1.72,Medio,2826056,Digital,Sí,22,Primaria,19,9312.62,0,Muy Satisfecho,1
+Comuna 5,Sin Acceso,5.45,Medio,1009188,Presencial,No,41,Secundaria,32,13576.49,0,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,2.51,Medio,1043711,Digital,No,60,Secundaria,34,7101.72,2,Insatisfecho,1
+Comuna 13,Billetera Movil,5.82,Alto,1386930,Digital,No,39,Primaria,24,13394.81,2,Insatisfecho,0
+Comuna 5,Billetera Movil,4.98,Bajo,818737,Presencial,No,27,Secundaria,48,12882.77,1,Satisfecho,2
+Zona Rural,Sin Acceso,3.49,Alto,592661,Presencial,Sí,60,Secundaria,14,12383.82,3,Insatisfecho,0
+Comuna 8,Sin Acceso,7.89,Alto,1595821,Presencial,No,40,Universitario,10,1734.09,1,Satisfecho,0
+Comuna 13,Sin Acceso,5.1,Alto,625912,Digital,No,32,Técnico,17,3575.36,2,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.07,Medio,1186901,Digital,Sí,60,Primaria,37,9708.7,2,Muy Insatisfecho,1
+Comuna 8,Cuenta Bancaria,7.9,Alto,2296236,Digital,Sí,69,Técnico,10,2334.01,2,Insatisfecho,3
+Comuna 13,Sin Acceso,1.28,Bajo,1255697,Presencial,Sí,44,Secundaria,39,14451.79,1,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,3.49,Bajo,1793897,Presencial,No,19,Secundaria,33,7482.45,3,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,7.92,Medio,859394,Digital,No,60,Universitario,5,13688.26,2,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,7.03,Alto,2204659,Digital,Sí,68,Técnico,48,12170.92,2,Muy Satisfecho,1
+Comuna 10,Sin Acceso,7.92,Medio,2853244,Digital,No,47,Primaria,14,18719.27,3,Insatisfecho,3
+Comuna 5,Sin Acceso,1.84,Medio,2229886,Digital,No,29,Primaria,36,19637.1,3,Satisfecho,3
+Zona Rural,Sin Acceso,2.71,Medio,1979666,Digital,Sí,66,Primaria,8,1462.09,1,Insatisfecho,1
+Zona Rural,Sin Acceso,2.97,Medio,2827552,Presencial,Sí,45,Secundaria,10,4454.14,2,Insatisfecho,0
+Comuna 13,Billetera Movil,1.11,Alto,2882726,Presencial,No,39,Primaria,35,15680.16,2,Neutral,2
+Zona Rural,Sin Acceso,4.19,Alto,919660,Digital,No,57,Secundaria,36,17866.17,3,Insatisfecho,0
+Zona Rural,Billetera Movil,1.97,Medio,1892607,Digital,No,63,Secundaria,20,11796.41,2,Neutral,0
+Comuna 10,Sin Acceso,1.12,Medio,1550319,Presencial,No,50,Técnico,32,5135.18,3,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,3.23,Bajo,2774928,Digital,Sí,21,Técnico,18,9161.79,2,Satisfecho,1
+Comuna 5,Cuenta Bancaria,0.69,Bajo,2105417,Digital,Sí,22,Secundaria,7,2562.14,0,Satisfecho,0
+Zona Rural,Billetera Movil,2.41,Alto,1593485,Presencial,Sí,40,Primaria,20,3896.2,0,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,2.09,Medio,2539888,Digital,Sí,28,Secundaria,7,18735.68,1,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,7.72,Medio,1502982,Digital,No,24,Técnico,1,12774.6,0,Satisfecho,0
+Comuna 10,Sin Acceso,7.1,Medio,670701,Presencial,Sí,62,Técnico,50,19513.7,2,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,2.38,Alto,1900476,Digital,Sí,57,Secundaria,33,6934.32,1,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,3.74,Alto,2826150,Presencial,No,50,Secundaria,44,10241.08,1,Satisfecho,0
+Comuna 8,Billetera Movil,7.01,Bajo,2250719,Digital,Sí,60,Secundaria,37,9941.85,0,Satisfecho,0
+Comuna 5,Sin Acceso,7.76,Bajo,2695992,Digital,Sí,56,Universitario,16,9562.72,1,Neutral,2
+Comuna 10,Billetera Movil,2.8,Medio,1639047,Digital,Sí,70,Universitario,50,17699.75,2,Satisfecho,0
+Zona Rural,Billetera Movil,3.25,Medio,1208610,Digital,Sí,25,Técnico,11,7076.62,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,4.15,Medio,2525265,Digital,No,63,Primaria,9,16242.34,3,Satisfecho,1
+Comuna 5,Sin Acceso,5.77,Bajo,2555239,Presencial,No,59,Universitario,32,8521.59,0,Insatisfecho,2
+Comuna 8,Sin Acceso,7.39,Bajo,1654968,Presencial,Sí,38,Primaria,18,8692.57,2,Muy Satisfecho,1
+Comuna 10,Billetera Movil,3.5,Bajo,2757046,Digital,No,65,Universitario,1,8380.05,2,Satisfecho,2
+Zona Rural,Cuenta Bancaria,6.66,Alto,1724035,Digital,No,26,Universitario,33,19750.8,2,Muy Insatisfecho,1
+Comuna 5,Billetera Movil,3.71,Bajo,636917,Presencial,No,37,Técnico,13,8250.3,3,Muy Satisfecho,0
+Comuna 13,Billetera Movil,4.4,Alto,2608162,Digital,Sí,63,Técnico,8,11156.56,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.6,Bajo,1661545,Digital,No,31,Primaria,46,3093.99,1,Muy Satisfecho,0
+Comuna 10,Sin Acceso,6.82,Medio,773240,Digital,Sí,53,Secundaria,40,6584.34,2,Insatisfecho,0
+Comuna 5,Billetera Movil,0.81,Alto,1002706,Presencial,Sí,59,Secundaria,15,15249.13,1,Insatisfecho,0
+Comuna 5,Sin Acceso,1.45,Bajo,1753446,Digital,No,40,Secundaria,39,17806.63,0,Muy Satisfecho,0
+Comuna 5,Sin Acceso,6.4,Bajo,2844334,Presencial,Sí,45,Universitario,14,16641.91,3,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,0.69,Medio,1128106,Digital,No,23,Técnico,43,6312.51,2,Muy Satisfecho,0
+Comuna 5,Sin Acceso,7.39,Bajo,1064515,Digital,Sí,58,Primaria,6,1666.58,1,Insatisfecho,1
+Comuna 13,Billetera Movil,5.57,Bajo,1958276,Digital,Sí,52,Secundaria,35,14601.8,0,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,6.73,Medio,2250821,Digital,No,43,Técnico,8,8297.79,3,Neutral,0
+Comuna 8,Sin Acceso,4.24,Alto,2350101,Presencial,No,45,Técnico,11,13500.05,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,2.32,Alto,1365075,Digital,No,40,Secundaria,49,5411.01,0,Neutral,0
+Comuna 13,Billetera Movil,1.6,Medio,899064,Presencial,No,29,Primaria,2,5381.15,0,Muy Satisfecho,0
+Comuna 10,Sin Acceso,5.7,Medio,1153806,Presencial,Sí,44,Universitario,37,9443.3,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,6.91,Medio,2654684,Digital,No,30,Primaria,15,13039.23,3,Satisfecho,3
+Zona Rural,Sin Acceso,6.45,Alto,1285555,Presencial,No,62,Primaria,31,19950.78,0,Satisfecho,1
+Comuna 13,Sin Acceso,5.96,Medio,1816387,Digital,No,25,Técnico,1,3991.48,3,Satisfecho,2
+Comuna 10,Cuenta Bancaria,7.83,Bajo,2322969,Presencial,No,27,Técnico,40,7043.62,1,Neutral,1
+Comuna 8,Cuenta Bancaria,3.34,Medio,1712473,Digital,No,38,Secundaria,29,13200.23,2,Muy Satisfecho,0
+Comuna 8,Sin Acceso,3.61,Alto,1682510,Digital,Sí,24,Secundaria,49,7046.91,2,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,3.18,Bajo,2500544,Presencial,Sí,36,Secundaria,19,15114.72,2,Muy Satisfecho,2
+Zona Rural,Billetera Movil,0.89,Medio,1322366,Digital,Sí,57,Primaria,41,7606.81,2,Neutral,0
+Comuna 8,Cuenta Bancaria,6.89,Alto,818726,Digital,No,61,Primaria,27,19888.18,3,Satisfecho,1
+Comuna 13,Cuenta Bancaria,7.94,Medio,1873040,Presencial,No,59,Técnico,28,3494.65,2,Insatisfecho,0
+Comuna 10,Sin Acceso,4.4,Bajo,896129,Presencial,No,41,Primaria,20,14552.28,1,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,1.21,Alto,830009,Presencial,No,54,Universitario,3,1191.17,0,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,6.54,Bajo,2137410,Presencial,Sí,62,Primaria,27,15267.72,2,Satisfecho,0
+Comuna 10,Cuenta Bancaria,4.78,Medio,1828561,Presencial,No,67,Universitario,18,14073.4,0,Muy Satisfecho,0
+Comuna 5,Billetera Movil,6.24,Bajo,2475421,Digital,No,58,Primaria,28,10785.63,1,Insatisfecho,0
+Zona Rural,Sin Acceso,6.51,Medio,553706,Digital,Sí,47,Primaria,47,9429.77,3,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,7.75,Alto,1023557,Digital,No,38,Universitario,21,19113.83,3,Muy Satisfecho,2
+Zona Rural,Cuenta Bancaria,1.95,Alto,1916990,Presencial,Sí,21,Secundaria,36,9215.9,3,Insatisfecho,3
+Comuna 10,Cuenta Bancaria,7.88,Medio,1917117,Presencial,No,59,Secundaria,5,3840.83,3,Neutral,0
+Comuna 5,Cuenta Bancaria,4.53,Medio,1238419,Presencial,No,64,Secundaria,45,18858.58,2,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,3.17,Alto,2784570,Presencial,Sí,44,Secundaria,23,11366.63,2,Muy Insatisfecho,2
+Comuna 10,Billetera Movil,3.4,Medio,2997370,Presencial,No,31,Universitario,4,11248.63,1,Neutral,0
+Comuna 10,Sin Acceso,7.1,Bajo,2003716,Digital,Sí,54,Primaria,47,4595.86,3,Muy Insatisfecho,1
+Comuna 8,Cuenta Bancaria,5.73,Bajo,2354400,Presencial,No,52,Técnico,40,14041.59,2,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,5.11,Alto,522652,Presencial,Sí,67,Universitario,6,1708.59,1,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,4.3,Bajo,1764002,Digital,No,62,Secundaria,14,11190.22,3,Satisfecho,2
+Comuna 8,Sin Acceso,4.47,Medio,1850334,Digital,Sí,40,Universitario,35,19421.7,0,Neutral,1
+Zona Rural,Cuenta Bancaria,4.22,Alto,1405443,Presencial,No,36,Secundaria,24,16193.11,3,Neutral,0
+Comuna 13,Sin Acceso,0.95,Medio,2412354,Presencial,Sí,30,Primaria,43,13512.93,0,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,6.64,Medio,2277008,Digital,Sí,21,Universitario,19,13827.78,0,Muy Satisfecho,0
+Comuna 13,Billetera Movil,2.98,Bajo,1535697,Digital,Sí,19,Universitario,38,14643.6,3,Insatisfecho,3
+Comuna 13,Billetera Movil,2.84,Medio,593038,Digital,Sí,23,Primaria,36,9242.52,0,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,7.29,Bajo,2725292,Digital,No,60,Técnico,45,8914.02,2,Neutral,1
+Comuna 8,Billetera Movil,2.71,Alto,1256991,Presencial,Sí,60,Técnico,3,15164.02,2,Insatisfecho,1
+Comuna 13,Sin Acceso,0.54,Medio,2150791,Digital,No,68,Universitario,48,3096.85,2,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,1.03,Medio,1882957,Digital,No,39,Primaria,29,19211.2,1,Neutral,0
+Zona Rural,Cuenta Bancaria,5.73,Medio,2285180,Presencial,No,34,Técnico,45,10349.1,2,Insatisfecho,0
+Comuna 5,Sin Acceso,3.71,Bajo,2927870,Presencial,No,18,Técnico,45,7199.3,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,2.94,Medio,2797294,Presencial,No,18,Secundaria,27,17384.81,2,Neutral,1
+Comuna 5,Billetera Movil,2.4,Bajo,723730,Digital,Sí,45,Secundaria,34,8029.56,3,Satisfecho,1
+Zona Rural,Cuenta Bancaria,0.73,Bajo,1471544,Digital,Sí,54,Secundaria,13,5841.63,0,Muy Satisfecho,0
+Comuna 8,Sin Acceso,5.74,Alto,511234,Presencial,Sí,19,Secundaria,36,8800.23,1,Satisfecho,0
+Zona Rural,Sin Acceso,3.77,Alto,2577815,Presencial,No,65,Secundaria,5,3967.63,0,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,4.14,Bajo,2861572,Presencial,No,34,Primaria,35,7955.24,0,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.95,Bajo,2550836,Presencial,No,46,Técnico,12,2411.51,1,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.29,Alto,1828846,Presencial,No,27,Secundaria,23,5444.44,2,Satisfecho,0
+Zona Rural,Sin Acceso,0.9,Bajo,703407,Presencial,No,48,Universitario,12,6847.08,2,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,7.78,Medio,1472163,Presencial,Sí,50,Primaria,34,12254.05,2,Neutral,2
+Comuna 8,Cuenta Bancaria,7.51,Bajo,1981805,Presencial,Sí,21,Secundaria,1,14270.81,3,Insatisfecho,0
+Zona Rural,Sin Acceso,6.35,Bajo,2111411,Presencial,No,33,Universitario,2,7795.79,1,Muy Satisfecho,3
+Comuna 10,Billetera Movil,3.47,Alto,748188,Presencial,No,47,Primaria,43,3589.77,0,Satisfecho,1
+Comuna 13,Sin Acceso,2.34,Alto,1513006,Presencial,No,65,Secundaria,26,4795.56,0,Insatisfecho,1
+Comuna 8,Billetera Movil,3.68,Medio,2881419,Presencial,Sí,18,Primaria,48,15433.93,3,Insatisfecho,3
+Zona Rural,Billetera Movil,4.87,Bajo,2593449,Presencial,No,27,Secundaria,1,12185.69,3,Neutral,0
+Comuna 8,Sin Acceso,3.74,Alto,2845966,Digital,Sí,34,Técnico,6,2924.83,1,Muy Insatisfecho,3
+Comuna 5,Sin Acceso,0.96,Alto,612372,Presencial,No,46,Secundaria,30,4579.89,2,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.09,Alto,1936074,Presencial,No,27,Universitario,22,17272.59,0,Satisfecho,3
+Comuna 10,Billetera Movil,1.8,Medio,1596804,Presencial,No,65,Técnico,11,1457.14,2,Muy Satisfecho,3
+Comuna 8,Billetera Movil,1.84,Medio,2683402,Presencial,No,49,Técnico,50,1797.22,2,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,5.76,Alto,2112481,Digital,No,24,Primaria,13,8793.07,2,Insatisfecho,1
+Comuna 10,Billetera Movil,2.4,Alto,2332046,Digital,Sí,53,Secundaria,5,11672.42,2,Satisfecho,0
+Comuna 10,Cuenta Bancaria,7.51,Alto,750832,Digital,No,35,Técnico,27,12989.33,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,6.85,Bajo,2617625,Presencial,No,67,Secundaria,7,3743.7,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,6.14,Bajo,2178731,Digital,Sí,45,Técnico,5,14622.43,1,Satisfecho,0
+Comuna 10,Cuenta Bancaria,3.33,Bajo,2314062,Digital,No,30,Universitario,43,4704.3,3,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,6.79,Medio,1154364,Presencial,Sí,30,Técnico,39,4799.17,3,Satisfecho,0
+Zona Rural,Billetera Movil,7.83,Alto,1486520,Presencial,No,66,Secundaria,23,15437.09,1,Insatisfecho,2
+Comuna 13,Billetera Movil,1.73,Medio,1694611,Digital,No,33,Técnico,5,17684.07,3,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,7.78,Alto,1522096,Presencial,No,44,Técnico,47,17981.89,2,Satisfecho,0
+Comuna 10,Sin Acceso,2.36,Alto,1141718,Digital,Sí,22,Universitario,33,14125.28,3,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,4.4,Bajo,856942,Presencial,No,56,Técnico,3,11197.06,3,Insatisfecho,3
+Comuna 5,Cuenta Bancaria,5.14,Medio,2196080,Digital,Sí,32,Técnico,16,10100.37,2,Insatisfecho,1
+Comuna 8,Billetera Movil,3.95,Bajo,1179436,Presencial,No,32,Técnico,48,14302.68,2,Insatisfecho,3
+Comuna 10,Cuenta Bancaria,4.75,Alto,1202036,Digital,Sí,63,Primaria,26,7543.82,1,Insatisfecho,1
+Comuna 13,Sin Acceso,2.54,Medio,2042722,Presencial,No,44,Universitario,25,19473.81,1,Neutral,0
+Comuna 8,Cuenta Bancaria,5.2,Medio,1392812,Presencial,No,55,Primaria,38,5573.5,3,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,6.61,Alto,2038382,Digital,No,32,Técnico,21,14072.18,3,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,2.75,Alto,2078470,Presencial,No,41,Secundaria,16,6742.78,2,Insatisfecho,1
+Zona Rural,Billetera Movil,6.13,Medio,1507713,Presencial,No,21,Técnico,6,5445.34,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.73,Alto,1451363,Digital,Sí,46,Primaria,2,16614.92,0,Muy Satisfecho,3
+Comuna 5,Cuenta Bancaria,6.94,Medio,1761540,Presencial,No,69,Primaria,35,5944.32,1,Insatisfecho,3
+Comuna 8,Cuenta Bancaria,2.63,Bajo,2520525,Presencial,Sí,64,Técnico,13,14327.9,0,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,5.97,Medio,2528006,Digital,Sí,40,Técnico,29,1633.9,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,3.45,Medio,1770379,Digital,No,50,Secundaria,49,11457.53,3,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,4.49,Medio,2791692,Digital,Sí,21,Técnico,31,11602.74,3,Insatisfecho,0
+Comuna 8,Sin Acceso,2.52,Bajo,2507161,Presencial,Sí,23,Técnico,38,9212.02,0,Satisfecho,1
+Comuna 10,Billetera Movil,4.99,Alto,2582656,Presencial,No,69,Secundaria,20,17132.9,0,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,3.39,Bajo,1327736,Presencial,Sí,20,Universitario,1,13981.52,1,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,0.99,Alto,2768489,Presencial,Sí,53,Técnico,9,19338.67,0,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.19,Bajo,1384901,Presencial,No,58,Técnico,23,14838.66,3,Neutral,1
+Zona Rural,Sin Acceso,6.88,Medio,1475754,Digital,No,70,Universitario,43,6202.31,3,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,6.08,Bajo,2899567,Presencial,Sí,19,Técnico,12,13859.55,1,Insatisfecho,0
+Comuna 8,Sin Acceso,5.38,Alto,1491263,Presencial,Sí,23,Universitario,35,6101.45,2,Insatisfecho,0
+Comuna 13,Sin Acceso,5.84,Medio,1203793,Digital,No,21,Secundaria,2,17579.24,2,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,1.68,Alto,1858496,Presencial,Sí,66,Técnico,45,15541.53,0,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,6.92,Medio,2379667,Digital,Sí,25,Universitario,11,4522.72,0,Neutral,0
+Comuna 13,Sin Acceso,6.06,Medio,905512,Digital,No,44,Secundaria,35,17843.87,2,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,6.99,Medio,1906069,Digital,No,45,Primaria,3,10504.68,0,Muy Satisfecho,0
+Comuna 5,Sin Acceso,3.26,Medio,846022,Presencial,No,37,Técnico,3,7402.64,3,Insatisfecho,1
+Comuna 8,Billetera Movil,2.92,Alto,2614927,Presencial,No,51,Primaria,15,6548.3,0,Satisfecho,1
+Comuna 5,Billetera Movil,6.92,Alto,615917,Presencial,No,30,Secundaria,19,2619.51,0,Neutral,1
+Comuna 8,Cuenta Bancaria,3.42,Alto,614923,Presencial,Sí,65,Universitario,4,13323.19,0,Muy Satisfecho,0
+Comuna 10,Billetera Movil,1.66,Medio,907354,Presencial,Sí,18,Primaria,46,3986.04,0,Neutral,2
+Comuna 13,Billetera Movil,2.49,Bajo,2284745,Presencial,No,45,Secundaria,43,5454.27,0,Neutral,1
+Comuna 5,Cuenta Bancaria,3.2,Bajo,1300010,Presencial,No,31,Primaria,39,17781.39,1,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,7.22,Alto,1639914,Digital,No,51,Primaria,14,7399.89,3,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,5.18,Medio,2967579,Presencial,Sí,67,Secundaria,31,7286.55,1,Satisfecho,0
+Zona Rural,Cuenta Bancaria,2.13,Alto,560751,Digital,Sí,25,Secundaria,6,16440.16,2,Neutral,1
+Comuna 13,Billetera Movil,5.33,Bajo,1142050,Digital,No,38,Universitario,5,1439.87,2,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,5.04,Bajo,2555725,Presencial,Sí,55,Secundaria,24,15404.33,2,Neutral,0
+Comuna 13,Cuenta Bancaria,2.91,Alto,633705,Presencial,Sí,28,Técnico,48,5880.47,0,Insatisfecho,0
+Comuna 8,Billetera Movil,2.04,Bajo,1263638,Presencial,Sí,61,Primaria,7,1709.8,3,Insatisfecho,0
+Comuna 8,Sin Acceso,6.89,Alto,560187,Digital,Sí,63,Universitario,37,9957.58,1,Muy Satisfecho,0
+Zona Rural,Billetera Movil,0.53,Medio,1455426,Digital,Sí,18,Primaria,46,14003.73,0,Satisfecho,3
+Comuna 5,Cuenta Bancaria,2.7,Alto,2851894,Digital,No,28,Secundaria,2,14184.74,2,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,4.45,Medio,1395331,Presencial,Sí,40,Primaria,34,17167.23,1,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,3.89,Medio,1313019,Digital,Sí,51,Primaria,45,10483.52,2,Muy Satisfecho,1
+Comuna 5,Sin Acceso,5.75,Bajo,2966048,Digital,Sí,57,Secundaria,24,5174.99,3,Insatisfecho,0
+Comuna 8,Billetera Movil,5.29,Alto,2631494,Digital,Sí,20,Secundaria,33,19076.41,3,Muy Satisfecho,1
+Zona Rural,Sin Acceso,7.34,Bajo,782980,Presencial,Sí,66,Secundaria,32,9799.41,3,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,3.58,Bajo,1971654,Presencial,Sí,47,Primaria,26,1648.22,0,Insatisfecho,1
+Comuna 8,Sin Acceso,5.89,Bajo,2836038,Presencial,Sí,25,Universitario,39,6567.68,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,5.83,Alto,767815,Presencial,Sí,59,Secundaria,42,5882.13,1,Insatisfecho,3
+Comuna 13,Billetera Movil,7.12,Bajo,1564750,Digital,Sí,64,Primaria,34,8245.13,3,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,7.99,Medio,846778,Presencial,No,63,Primaria,10,19407.25,2,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,7.81,Bajo,534836,Presencial,No,21,Secundaria,29,7068.93,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.2,Alto,823276,Presencial,No,65,Universitario,1,17721.09,2,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,6.23,Alto,1733727,Digital,No,27,Primaria,46,19895.85,1,Satisfecho,0
+Comuna 13,Cuenta Bancaria,0.87,Bajo,1118329,Digital,No,24,Universitario,10,9567.43,2,Muy Satisfecho,1
+Comuna 8,Sin Acceso,4.64,Bajo,1940297,Digital,Sí,57,Primaria,14,18050.4,2,Satisfecho,3
+Comuna 13,Billetera Movil,3.05,Bajo,1175391,Presencial,No,40,Técnico,19,14344.49,3,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.93,Alto,1474206,Presencial,Sí,26,Universitario,27,3172.79,3,Muy Insatisfecho,3
+Zona Rural,Billetera Movil,2.85,Bajo,915783,Digital,No,46,Secundaria,20,7052.8,1,Neutral,0
+Comuna 13,Sin Acceso,4.64,Bajo,1335879,Digital,No,25,Secundaria,18,6486.98,3,Neutral,0
+Zona Rural,Cuenta Bancaria,5.85,Bajo,2425855,Presencial,Sí,38,Secundaria,46,17758.29,1,Satisfecho,0
+Comuna 10,Cuenta Bancaria,1.9,Medio,2932864,Digital,Sí,25,Técnico,41,4634.67,1,Insatisfecho,0
+Comuna 8,Sin Acceso,1.91,Alto,2119334,Presencial,No,49,Técnico,44,18936.09,3,Muy Satisfecho,1
+Comuna 5,Sin Acceso,7.62,Alto,827003,Digital,No,42,Secundaria,24,13056.42,2,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,1.43,Medio,1807076,Presencial,No,26,Técnico,5,2886.32,1,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,2.78,Alto,2025481,Presencial,No,66,Primaria,40,2435.44,3,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,4.0,Alto,1753797,Presencial,Sí,49,Primaria,31,16213.7,1,Satisfecho,3
+Zona Rural,Cuenta Bancaria,2.38,Alto,1658499,Digital,Sí,64,Técnico,28,1112.82,3,Insatisfecho,3
+Zona Rural,Cuenta Bancaria,0.8,Alto,1311756,Digital,No,55,Universitario,33,7319.8,1,Muy Insatisfecho,2
+Comuna 5,Cuenta Bancaria,3.6,Medio,2136330,Presencial,Sí,39,Universitario,49,4830.42,2,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,4.6,Medio,1783948,Presencial,No,24,Universitario,36,3541.28,0,Satisfecho,2
+Comuna 13,Cuenta Bancaria,7.67,Bajo,1616057,Presencial,Sí,60,Técnico,24,9925.59,2,Insatisfecho,1
+Comuna 5,Sin Acceso,2.89,Alto,1027101,Digital,Sí,70,Secundaria,25,2070.69,1,Insatisfecho,0
+Comuna 8,Billetera Movil,1.13,Alto,1223146,Presencial,Sí,68,Universitario,32,13720.6,2,Neutral,0
+Comuna 13,Billetera Movil,5.25,Medio,984005,Digital,No,23,Universitario,7,8518.9,2,Neutral,2
+Comuna 10,Cuenta Bancaria,7.47,Alto,972791,Digital,Sí,35,Técnico,45,18240.94,3,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,4.97,Bajo,2590002,Presencial,Sí,41,Técnico,25,12618.75,3,Neutral,0
+Comuna 8,Sin Acceso,5.71,Alto,1764958,Digital,No,20,Técnico,27,6582.2,3,Insatisfecho,2
+Comuna 5,Cuenta Bancaria,2.49,Medio,802454,Digital,Sí,56,Primaria,42,11886.32,0,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.85,Bajo,797658,Presencial,No,42,Secundaria,49,17864.08,1,Insatisfecho,0
+Zona Rural,Billetera Movil,5.02,Bajo,2446164,Digital,No,40,Primaria,16,11886.57,3,Insatisfecho,0
+Comuna 13,Sin Acceso,3.59,Bajo,2950251,Digital,Sí,50,Secundaria,21,5086.08,0,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,0.68,Medio,1639273,Presencial,No,34,Secundaria,26,12302.56,1,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,4.41,Bajo,912862,Presencial,No,54,Técnico,3,19499.01,3,Muy Satisfecho,0
+Zona Rural,Sin Acceso,2.06,Alto,1337546,Digital,No,56,Primaria,5,15217.45,3,Insatisfecho,3
+Comuna 8,Cuenta Bancaria,5.88,Alto,2335580,Digital,No,20,Universitario,22,14742.02,1,Neutral,0
+Comuna 10,Sin Acceso,5.57,Medio,2283113,Presencial,Sí,55,Técnico,33,15320.72,3,Neutral,0
+Comuna 10,Billetera Movil,2.74,Alto,1855956,Digital,Sí,23,Técnico,46,19965.33,0,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,3.45,Bajo,1639611,Presencial,Sí,56,Técnico,4,19870.07,0,Muy Insatisfecho,1
+Comuna 5,Billetera Movil,6.07,Alto,1050447,Digital,Sí,23,Técnico,1,3900.67,2,Muy Satisfecho,1
+Comuna 5,Sin Acceso,6.51,Bajo,2744706,Presencial,No,48,Técnico,5,15630.57,2,Neutral,0
+Comuna 13,Billetera Movil,6.96,Alto,2128401,Digital,Sí,39,Universitario,4,15155.01,2,Muy Satisfecho,0
+Comuna 8,Billetera Movil,2.63,Medio,668362,Digital,No,55,Secundaria,1,13557.37,3,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,6.75,Alto,664450,Digital,Sí,39,Secundaria,13,10554.4,2,Satisfecho,0
+Zona Rural,Sin Acceso,7.28,Medio,1878082,Digital,Sí,41,Primaria,29,14183.42,3,Satisfecho,0
+Zona Rural,Cuenta Bancaria,5.62,Bajo,1440500,Digital,No,25,Universitario,47,7947.33,3,Muy Satisfecho,2
+Zona Rural,Sin Acceso,5.33,Alto,1598544,Presencial,No,21,Secundaria,2,2267.1,2,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.41,Bajo,1816965,Digital,No,67,Técnico,24,19185.41,2,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,7.93,Alto,2357598,Presencial,Sí,63,Secundaria,4,9291.44,2,Insatisfecho,3
+Comuna 10,Billetera Movil,4.39,Bajo,2872899,Presencial,No,56,Técnico,12,10871.57,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,3.33,Alto,2204932,Digital,Sí,23,Secundaria,10,3225.5,1,Muy Insatisfecho,3
+Comuna 10,Cuenta Bancaria,0.95,Medio,775587,Presencial,Sí,53,Secundaria,47,12339.04,0,Insatisfecho,0
+Comuna 8,Sin Acceso,6.34,Medio,2562542,Presencial,Sí,25,Primaria,25,14472.54,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,2.09,Alto,2664701,Digital,Sí,56,Primaria,15,18352.56,2,Satisfecho,1
+Zona Rural,Sin Acceso,2.14,Medio,2544183,Digital,Sí,59,Técnico,45,13219.69,2,Satisfecho,0
+Comuna 5,Billetera Movil,2.09,Bajo,1994721,Presencial,Sí,26,Universitario,38,2171.14,2,Muy Satisfecho,1
+Comuna 13,Sin Acceso,6.85,Bajo,2544695,Presencial,No,45,Universitario,43,18151.19,2,Satisfecho,3
+Comuna 5,Sin Acceso,2.23,Bajo,1387719,Presencial,Sí,26,Universitario,45,18278.18,3,Muy Satisfecho,1
+Comuna 10,Billetera Movil,7.04,Bajo,1399576,Presencial,Sí,40,Técnico,9,8763.38,1,Insatisfecho,0
+Comuna 10,Sin Acceso,3.64,Medio,1557714,Digital,Sí,37,Técnico,5,17273.9,0,Muy Satisfecho,1
+Zona Rural,Billetera Movil,1.99,Alto,1419613,Presencial,No,44,Primaria,14,6430.95,1,Satisfecho,1
+Comuna 8,Cuenta Bancaria,2.55,Bajo,713614,Presencial,No,25,Universitario,9,17097.7,1,Neutral,0
+Zona Rural,Cuenta Bancaria,4.68,Bajo,2476288,Presencial,Sí,50,Técnico,42,1663.91,1,Satisfecho,1
+Comuna 8,Sin Acceso,2.23,Medio,2082752,Presencial,Sí,53,Universitario,12,7512.9,0,Neutral,0
+Comuna 8,Sin Acceso,0.98,Bajo,1152390,Digital,No,36,Primaria,25,6747.28,1,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,3.97,Bajo,624845,Presencial,No,40,Primaria,39,3901.84,1,Neutral,2
+Zona Rural,Billetera Movil,6.98,Alto,2761388,Presencial,Sí,21,Universitario,5,10187.07,2,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,1.4,Bajo,2179402,Digital,No,64,Técnico,6,12888.56,1,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,5.16,Medio,2797214,Digital,No,49,Primaria,29,7312.18,0,Neutral,0
+Comuna 10,Billetera Movil,1.92,Bajo,2307480,Presencial,Sí,18,Técnico,34,9069.02,0,Neutral,1
+Comuna 5,Cuenta Bancaria,5.01,Bajo,1992824,Presencial,Sí,47,Secundaria,42,10058.66,3,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,4.54,Medio,870030,Presencial,Sí,51,Universitario,9,8414.09,0,Neutral,0
+Zona Rural,Billetera Movil,1.18,Alto,2196552,Presencial,Sí,57,Secundaria,27,13100.96,0,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.11,Alto,2378190,Digital,No,69,Primaria,14,12969.07,1,Insatisfecho,2
+Zona Rural,Cuenta Bancaria,5.66,Medio,829698,Digital,Sí,24,Universitario,22,3746.42,3,Insatisfecho,0
+Comuna 10,Billetera Movil,7.51,Bajo,2166686,Presencial,No,43,Técnico,24,19523.76,2,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,3.59,Alto,1860890,Presencial,Sí,28,Primaria,21,9822.05,3,Neutral,0
+Zona Rural,Cuenta Bancaria,4.25,Alto,955176,Digital,No,37,Universitario,29,15430.52,2,Neutral,1
+Comuna 10,Sin Acceso,7.56,Alto,1042713,Digital,Sí,33,Técnico,37,12527.3,2,Satisfecho,0
+Zona Rural,Sin Acceso,4.37,Alto,1042790,Presencial,Sí,20,Secundaria,22,14783.85,3,Neutral,0
+Comuna 5,Billetera Movil,6.82,Bajo,1432362,Presencial,No,52,Primaria,22,15858.61,2,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.07,Medio,1081382,Digital,No,27,Secundaria,30,14436.24,1,Satisfecho,1
+Comuna 8,Billetera Movil,2.54,Alto,2069740,Presencial,Sí,38,Técnico,33,11906.9,2,Satisfecho,0
+Comuna 5,Sin Acceso,7.48,Bajo,874015,Digital,Sí,19,Universitario,42,6826.5,2,Insatisfecho,3
+Comuna 8,Cuenta Bancaria,3.43,Medio,1718423,Digital,Sí,26,Secundaria,4,1330.35,0,Muy Satisfecho,1
+Comuna 13,Billetera Movil,1.68,Bajo,2046289,Digital,Sí,60,Técnico,25,14888.91,0,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,2.2,Bajo,1836971,Digital,Sí,62,Universitario,24,4663.97,0,Insatisfecho,0
+Comuna 13,Billetera Movil,1.87,Alto,1206546,Digital,Sí,40,Secundaria,17,19043.99,2,Satisfecho,0
+Comuna 5,Sin Acceso,3.66,Medio,2880539,Presencial,Sí,25,Primaria,37,1128.52,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,4.2,Bajo,2144407,Presencial,Sí,25,Primaria,20,14490.96,0,Neutral,1
+Zona Rural,Billetera Movil,5.2,Medio,1497432,Presencial,No,67,Técnico,13,3169.11,3,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,5.56,Alto,521864,Digital,No,22,Secundaria,25,14964.64,2,Satisfecho,1
+Comuna 10,Cuenta Bancaria,2.79,Alto,1149797,Digital,No,29,Secundaria,44,4223.52,0,Neutral,0
+Comuna 5,Sin Acceso,5.92,Bajo,805149,Presencial,Sí,65,Primaria,24,15851.42,0,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,1.8,Medio,2838745,Presencial,No,41,Universitario,31,15400.4,2,Neutral,0
+Comuna 13,Billetera Movil,3.47,Alto,2403087,Digital,No,64,Universitario,29,19734.85,1,Satisfecho,0
+Comuna 13,Sin Acceso,2.05,Bajo,593506,Presencial,Sí,26,Secundaria,17,7055.74,1,Satisfecho,1
+Comuna 10,Billetera Movil,3.16,Bajo,950026,Digital,No,47,Universitario,32,7656.96,2,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,4.84,Bajo,2733932,Presencial,Sí,67,Técnico,21,6682.04,0,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,3.8,Medio,2400182,Presencial,No,24,Técnico,48,17291.37,0,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,6.59,Bajo,2062409,Digital,Sí,65,Técnico,40,17590.45,3,Muy Satisfecho,2
+Comuna 13,Cuenta Bancaria,0.53,Alto,2871486,Presencial,No,54,Secundaria,30,17829.45,2,Satisfecho,3
+Comuna 10,Sin Acceso,3.44,Bajo,2294453,Presencial,No,69,Universitario,28,3617.53,2,Muy Satisfecho,1
+Comuna 10,Sin Acceso,0.82,Medio,2027268,Digital,Sí,68,Primaria,23,17960.98,0,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,6.87,Medio,2995051,Presencial,Sí,47,Primaria,6,18227.32,2,Insatisfecho,2
+Comuna 13,Cuenta Bancaria,4.21,Alto,2601961,Digital,No,20,Secundaria,35,2828.78,0,Satisfecho,0
+Comuna 13,Sin Acceso,2.5,Alto,562752,Digital,Sí,45,Primaria,22,14663.61,1,Neutral,0
+Comuna 13,Cuenta Bancaria,6.64,Bajo,2835794,Presencial,Sí,39,Técnico,5,2072.06,0,Insatisfecho,0
+Zona Rural,Sin Acceso,7.72,Alto,699432,Presencial,Sí,40,Secundaria,13,1048.72,0,Muy Satisfecho,3
+Comuna 5,Cuenta Bancaria,7.03,Medio,1626117,Presencial,No,29,Técnico,44,1270.74,2,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,3.06,Alto,1946472,Presencial,Sí,30,Secundaria,1,4760.14,3,Neutral,0
+Comuna 13,Cuenta Bancaria,6.4,Bajo,1422492,Digital,No,31,Universitario,16,9704.89,2,Insatisfecho,0
+Zona Rural,Billetera Movil,2.77,Bajo,852500,Presencial,No,67,Universitario,23,16530.71,1,Insatisfecho,0
+Comuna 8,Sin Acceso,2.32,Alto,895882,Presencial,No,46,Técnico,43,2569.64,1,Muy Insatisfecho,1
+Comuna 8,Cuenta Bancaria,4.72,Medio,1352646,Digital,No,34,Técnico,11,2626.79,1,Neutral,2
+Zona Rural,Sin Acceso,4.55,Medio,797102,Digital,Sí,28,Secundaria,25,18904.64,0,Neutral,0
+Comuna 10,Billetera Movil,7.87,Bajo,1229087,Presencial,Sí,34,Primaria,22,17779.18,1,Neutral,0
+Comuna 5,Sin Acceso,2.13,Bajo,2682581,Presencial,Sí,37,Secundaria,30,12394.44,1,Insatisfecho,0
+Comuna 8,Sin Acceso,4.27,Medio,600993,Presencial,Sí,43,Técnico,47,8116.42,2,Satisfecho,1
+Comuna 8,Billetera Movil,7.88,Alto,1772612,Digital,Sí,57,Primaria,34,4054.79,2,Muy Insatisfecho,3
+Comuna 8,Billetera Movil,5.76,Alto,1651068,Presencial,Sí,47,Secundaria,15,7852.2,2,Neutral,2
+Comuna 8,Billetera Movil,2.44,Medio,2540367,Digital,No,21,Universitario,3,12113.53,0,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,6.86,Medio,1816582,Presencial,Sí,64,Universitario,1,6310.07,1,Insatisfecho,3
+Comuna 10,Cuenta Bancaria,6.75,Bajo,2324036,Presencial,Sí,64,Técnico,45,11306.29,3,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,4.7,Bajo,1753267,Digital,No,61,Técnico,30,18758.34,1,Satisfecho,0
+Zona Rural,Billetera Movil,4.94,Alto,2029317,Presencial,No,68,Secundaria,39,11807.65,3,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,2.19,Alto,2684414,Digital,Sí,45,Primaria,33,19593.53,1,Muy Satisfecho,0
+Comuna 5,Billetera Movil,0.96,Bajo,2182880,Presencial,No,23,Secundaria,29,4979.3,2,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,4.12,Medio,1065759,Digital,Sí,66,Primaria,20,8678.25,1,Muy Satisfecho,1
+Comuna 10,Billetera Movil,6.53,Alto,985962,Digital,Sí,60,Primaria,3,7442.14,0,Insatisfecho,3
+Comuna 13,Billetera Movil,3.24,Alto,704983,Presencial,No,63,Universitario,28,12736.63,3,Muy Satisfecho,1
+Comuna 10,Billetera Movil,3.96,Bajo,2500032,Presencial,No,36,Universitario,8,17135.78,1,Muy Satisfecho,1
+Comuna 5,Billetera Movil,1.38,Alto,1866156,Presencial,Sí,18,Técnico,35,16001.13,3,Neutral,0
+Comuna 8,Cuenta Bancaria,6.33,Bajo,537813,Presencial,Sí,33,Primaria,47,1834.85,0,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.49,Bajo,2012496,Presencial,No,65,Secundaria,46,17783.15,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,5.75,Alto,2156719,Digital,Sí,48,Universitario,44,16108.14,1,Satisfecho,2
+Comuna 8,Sin Acceso,2.29,Medio,1048851,Digital,Sí,68,Primaria,11,16679.72,2,Neutral,0
+Comuna 13,Cuenta Bancaria,4.14,Alto,2156260,Presencial,Sí,32,Secundaria,20,16314.8,1,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,5.79,Medio,1860749,Digital,Sí,43,Primaria,39,9577.72,2,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,3.07,Bajo,1273670,Digital,Sí,30,Técnico,25,17859.75,0,Muy Insatisfecho,2
+Comuna 13,Cuenta Bancaria,0.81,Bajo,1696244,Digital,Sí,62,Técnico,30,7385.53,3,Satisfecho,3
+Comuna 8,Cuenta Bancaria,2.98,Bajo,2103763,Digital,No,38,Universitario,5,13122.18,0,Insatisfecho,0
+Comuna 8,Sin Acceso,2.62,Bajo,2862449,Presencial,No,45,Universitario,7,6741.02,3,Satisfecho,0
+Comuna 10,Sin Acceso,7.81,Medio,1885370,Digital,No,39,Secundaria,29,4724.91,1,Satisfecho,0
+Comuna 10,Sin Acceso,6.2,Bajo,1620103,Digital,Sí,62,Técnico,26,11676.64,3,Muy Satisfecho,1
+Comuna 13,Billetera Movil,7.83,Medio,1734456,Digital,Sí,61,Primaria,5,6002.5,1,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,1.74,Bajo,2059840,Presencial,No,55,Primaria,46,4148.26,2,Neutral,0
+Comuna 13,Billetera Movil,5.79,Medio,2807592,Digital,No,54,Primaria,30,1773.02,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.79,Medio,981090,Digital,No,28,Secundaria,9,13868.51,0,Satisfecho,1
+Zona Rural,Sin Acceso,3.64,Alto,1526931,Presencial,Sí,56,Secundaria,15,1241.62,2,Satisfecho,0
+Comuna 5,Billetera Movil,3.88,Alto,1464582,Presencial,Sí,53,Universitario,30,16767.56,3,Insatisfecho,1
+Comuna 8,Billetera Movil,6.18,Bajo,1126937,Digital,No,25,Primaria,39,7607.98,1,Satisfecho,0
+Comuna 8,Cuenta Bancaria,7.41,Medio,1455441,Digital,No,31,Primaria,25,12721.94,0,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.8,Bajo,1757213,Digital,Sí,68,Primaria,5,14840.39,0,Neutral,0
+Comuna 13,Billetera Movil,4.95,Medio,2322875,Presencial,Sí,41,Técnico,10,13029.61,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,7.54,Medio,690493,Digital,Sí,39,Primaria,19,12624.79,3,Neutral,3
+Comuna 5,Billetera Movil,4.58,Alto,2057086,Presencial,No,30,Primaria,40,11564.01,2,Insatisfecho,0
+Comuna 5,Sin Acceso,1.86,Medio,1096511,Digital,Sí,61,Secundaria,35,13122.34,2,Muy Insatisfecho,3
+Comuna 10,Billetera Movil,7.64,Medio,1568553,Presencial,No,67,Primaria,22,9841.6,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,6.19,Alto,1409289,Digital,Sí,25,Técnico,18,3767.04,1,Satisfecho,3
+Comuna 5,Sin Acceso,4.83,Medio,829886,Digital,Sí,67,Primaria,4,7756.99,0,Insatisfecho,0
+Comuna 5,Billetera Movil,5.88,Medio,1107239,Presencial,Sí,43,Primaria,26,16731.95,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,5.4,Medio,2668096,Digital,No,33,Primaria,19,10722.1,3,Neutral,0
+Comuna 10,Sin Acceso,6.02,Bajo,2221352,Presencial,No,57,Universitario,42,13628.82,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,2.85,Medio,2779728,Presencial,No,43,Técnico,29,17048.54,2,Satisfecho,0
+Comuna 5,Sin Acceso,3.1,Medio,1085172,Presencial,No,70,Técnico,23,6029.46,3,Neutral,1
+Comuna 8,Cuenta Bancaria,5.98,Medio,2335058,Presencial,No,25,Técnico,13,13651.59,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.39,Alto,2398795,Digital,No,62,Universitario,3,4044.67,2,Neutral,0
+Zona Rural,Sin Acceso,1.34,Medio,1727731,Presencial,No,35,Primaria,34,17044.3,0,Muy Insatisfecho,3
+Comuna 5,Sin Acceso,4.63,Medio,2886801,Presencial,No,32,Universitario,24,12431.66,3,Neutral,2
+Comuna 8,Sin Acceso,6.13,Alto,1385732,Presencial,No,69,Primaria,36,1397.99,2,Muy Satisfecho,0
+Zona Rural,Sin Acceso,5.48,Medio,2991556,Digital,Sí,66,Secundaria,42,2662.43,1,Neutral,1
+Comuna 10,Cuenta Bancaria,2.24,Medio,2495137,Digital,Sí,36,Técnico,44,2948.94,1,Neutral,1
+Comuna 10,Cuenta Bancaria,5.97,Medio,1274187,Digital,Sí,50,Primaria,8,11622.77,3,Insatisfecho,0
+Comuna 8,Billetera Movil,7.83,Medio,1039243,Presencial,No,44,Técnico,18,7678.04,1,Insatisfecho,2
+Comuna 10,Sin Acceso,5.23,Bajo,2541412,Digital,Sí,21,Primaria,24,3686.26,3,Muy Insatisfecho,2
+Comuna 13,Billetera Movil,7.53,Bajo,2703514,Digital,No,43,Universitario,37,5739.87,3,Muy Satisfecho,2
+Comuna 10,Sin Acceso,0.68,Medio,1215427,Presencial,No,18,Técnico,10,16082.81,1,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,4.57,Bajo,2065519,Presencial,No,39,Secundaria,17,2766.89,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,7.79,Alto,847715,Digital,No,50,Técnico,26,13602.11,3,Insatisfecho,0
+Comuna 8,Sin Acceso,6.44,Bajo,1399323,Digital,No,44,Universitario,38,19848.8,2,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,4.08,Alto,671337,Digital,Sí,26,Primaria,43,8987.3,0,Satisfecho,0
+Comuna 10,Billetera Movil,5.64,Medio,706432,Presencial,Sí,23,Universitario,1,7977.7,1,Neutral,3
+Comuna 13,Billetera Movil,0.73,Medio,1490468,Digital,No,65,Técnico,42,1104.25,2,Insatisfecho,0
+Comuna 5,Billetera Movil,2.24,Medio,610608,Digital,No,45,Secundaria,33,5624.66,1,Satisfecho,0
+Comuna 10,Cuenta Bancaria,6.28,Medio,918281,Digital,No,30,Secundaria,40,9909.33,1,Neutral,0
+Zona Rural,Cuenta Bancaria,3.97,Alto,2055101,Presencial,Sí,23,Primaria,42,13734.73,0,Satisfecho,2
+Comuna 8,Sin Acceso,3.09,Bajo,2837591,Presencial,Sí,59,Universitario,31,18433.62,3,Muy Satisfecho,1
+Comuna 10,Sin Acceso,0.94,Alto,2679111,Digital,Sí,49,Universitario,32,12805.35,2,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,6.77,Bajo,2790365,Presencial,No,64,Primaria,22,8543.42,1,Muy Satisfecho,0
+Comuna 5,Sin Acceso,2.33,Medio,553926,Presencial,No,37,Secundaria,2,18026.6,1,Neutral,2
+Comuna 13,Sin Acceso,2.96,Bajo,1483180,Digital,Sí,27,Secundaria,4,14180.44,3,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,2.11,Alto,2137953,Digital,Sí,54,Técnico,19,1551.67,0,Neutral,0
+Comuna 13,Billetera Movil,3.32,Alto,1579060,Presencial,No,31,Secundaria,30,12209.46,0,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,2.63,Alto,1933879,Digital,No,27,Universitario,36,3837.58,0,Insatisfecho,0
+Comuna 8,Billetera Movil,6.97,Bajo,1006139,Digital,Sí,68,Técnico,13,8266.18,1,Neutral,0
+Comuna 10,Billetera Movil,2.15,Medio,2684419,Digital,No,49,Secundaria,12,14346.62,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,1.95,Alto,1438426,Presencial,Sí,40,Primaria,45,10447.74,1,Insatisfecho,1
+Comuna 8,Billetera Movil,5.41,Bajo,2489217,Digital,No,51,Primaria,45,7096.83,2,Muy Satisfecho,0
+Comuna 10,Billetera Movil,4.37,Alto,2206486,Presencial,Sí,52,Secundaria,1,7463.55,3,Insatisfecho,0
+Zona Rural,Billetera Movil,7.61,Bajo,1682210,Presencial,Sí,42,Primaria,10,12465.06,0,Neutral,0
+Comuna 8,Billetera Movil,4.49,Medio,854252,Digital,Sí,24,Universitario,44,19230.72,3,Satisfecho,1
+Zona Rural,Billetera Movil,6.19,Bajo,2955702,Digital,No,67,Técnico,3,15586.88,1,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,4.55,Alto,950286,Digital,Sí,54,Técnico,44,8943.56,1,Neutral,2
+Comuna 10,Billetera Movil,6.58,Bajo,596117,Presencial,No,31,Primaria,11,10921.84,3,Neutral,3
+Zona Rural,Billetera Movil,4.89,Medio,2761373,Digital,No,49,Universitario,9,14088.59,1,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,7.4,Alto,642138,Digital,Sí,36,Técnico,47,8959.97,3,Satisfecho,0
+Comuna 5,Billetera Movil,5.34,Bajo,2727797,Digital,No,39,Técnico,16,10361.49,3,Satisfecho,1
+Comuna 5,Sin Acceso,1.73,Medio,2452304,Presencial,No,69,Secundaria,29,16267.24,1,Neutral,0
+Comuna 8,Cuenta Bancaria,5.02,Alto,1270008,Digital,Sí,27,Secundaria,19,18325.89,2,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,6.52,Medio,1719842,Presencial,No,20,Primaria,16,10040.67,3,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,6.47,Medio,2842588,Presencial,No,47,Universitario,36,19400.43,0,Insatisfecho,1
+Comuna 5,Billetera Movil,3.14,Alto,1527478,Presencial,Sí,31,Secundaria,35,9199.37,0,Satisfecho,0
+Zona Rural,Sin Acceso,1.5,Alto,2181020,Digital,No,28,Secundaria,16,7935.3,3,Satisfecho,1
+Comuna 13,Sin Acceso,6.29,Bajo,2651849,Digital,Sí,49,Técnico,18,11844.16,3,Neutral,0
+Comuna 8,Billetera Movil,6.79,Alto,1027360,Presencial,No,30,Secundaria,33,14824.91,3,Satisfecho,1
+Comuna 5,Cuenta Bancaria,7.7,Medio,1322497,Digital,No,53,Secundaria,40,8402.23,3,Neutral,1
+Comuna 13,Cuenta Bancaria,1.32,Medio,2656386,Presencial,Sí,19,Universitario,3,17526.88,2,Insatisfecho,0
+Comuna 5,Sin Acceso,2.01,Medio,1368055,Digital,No,56,Universitario,22,10032.77,3,Satisfecho,2
+Comuna 8,Cuenta Bancaria,6.56,Alto,1361271,Presencial,Sí,64,Secundaria,7,12903.22,1,Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.08,Bajo,1019304,Presencial,No,40,Primaria,7,9898.2,0,Neutral,3
+Comuna 8,Cuenta Bancaria,3.51,Medio,2517561,Presencial,Sí,60,Secundaria,35,6576.38,2,Neutral,1
+Comuna 13,Sin Acceso,2.49,Bajo,2720279,Presencial,No,28,Primaria,23,18177.15,2,Muy Satisfecho,1
+Comuna 10,Sin Acceso,5.88,Bajo,1932386,Digital,No,37,Primaria,49,4721.37,3,Muy Satisfecho,2
+Comuna 8,Cuenta Bancaria,1.25,Medio,1142627,Presencial,Sí,67,Secundaria,20,12823.04,2,Satisfecho,0
+Comuna 10,Billetera Movil,2.87,Alto,958562,Presencial,Sí,20,Técnico,33,5537.66,3,Satisfecho,1
+Zona Rural,Sin Acceso,7.22,Medio,966893,Digital,Sí,69,Universitario,44,19862.12,1,Neutral,1
+Comuna 10,Billetera Movil,1.43,Medio,802043,Digital,No,46,Técnico,4,18255.58,3,Neutral,0
+Comuna 8,Cuenta Bancaria,4.03,Alto,1370658,Presencial,No,70,Universitario,20,12383.45,3,Muy Satisfecho,0
+Comuna 8,Sin Acceso,5.86,Alto,1929825,Digital,Sí,62,Universitario,48,4772.87,3,Neutral,1
+Zona Rural,Sin Acceso,1.67,Bajo,2545750,Presencial,Sí,34,Secundaria,26,12310.55,0,Insatisfecho,1
+Comuna 8,Billetera Movil,5.78,Alto,1685806,Digital,Sí,53,Universitario,28,6425.69,2,Satisfecho,1
+Comuna 8,Cuenta Bancaria,1.86,Medio,780186,Digital,No,23,Técnico,25,6467.63,3,Neutral,2
+Zona Rural,Cuenta Bancaria,1.41,Alto,565508,Digital,No,63,Universitario,6,12703.37,3,Neutral,2
+Comuna 5,Billetera Movil,4.42,Bajo,2833243,Presencial,No,47,Secundaria,9,10095.31,2,Insatisfecho,3
+Comuna 8,Cuenta Bancaria,3.91,Alto,1841920,Presencial,Sí,43,Primaria,16,9307.58,0,Satisfecho,0
+Comuna 13,Billetera Movil,7.6,Bajo,1235028,Presencial,No,45,Secundaria,6,12833.77,3,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,3.82,Bajo,2271320,Digital,No,30,Primaria,39,11444.38,3,Neutral,1
+Comuna 13,Billetera Movil,7.68,Bajo,1970386,Presencial,No,42,Universitario,1,4784.22,3,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,2.07,Alto,2020602,Presencial,No,65,Universitario,33,12942.04,1,Insatisfecho,0
+Zona Rural,Sin Acceso,4.15,Medio,1125536,Presencial,Sí,38,Primaria,32,9803.32,3,Neutral,1
+Comuna 5,Billetera Movil,2.22,Alto,1076699,Presencial,Sí,69,Técnico,36,8934.04,0,Satisfecho,1
+Zona Rural,Sin Acceso,4.81,Medio,2707097,Digital,No,51,Técnico,32,19916.94,3,Neutral,1
+Comuna 10,Cuenta Bancaria,6.17,Bajo,1980827,Digital,Sí,42,Técnico,30,7258.41,2,Insatisfecho,0
+Comuna 13,Billetera Movil,7.07,Bajo,1878863,Presencial,Sí,21,Primaria,33,11761.27,1,Muy Satisfecho,1
+Comuna 10,Cuenta Bancaria,2.71,Medio,1048813,Digital,Sí,33,Universitario,44,6788.02,3,Satisfecho,0
+Comuna 10,Sin Acceso,6.58,Medio,2232540,Digital,No,30,Primaria,14,17043.91,0,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,3.78,Alto,2949121,Presencial,Sí,18,Técnico,17,13115.29,2,Satisfecho,1
+Comuna 5,Cuenta Bancaria,2.36,Medio,2444389,Presencial,Sí,19,Universitario,4,9228.49,1,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,6.33,Alto,862712,Presencial,Sí,44,Primaria,33,12189.06,3,Insatisfecho,1
+Comuna 5,Sin Acceso,7.82,Medio,1912938,Digital,No,45,Universitario,21,1652.72,1,Neutral,0
+Comuna 8,Billetera Movil,7.74,Alto,1700427,Presencial,Sí,61,Universitario,10,4974.97,3,Insatisfecho,0
+Comuna 13,Sin Acceso,6.13,Bajo,1063443,Presencial,Sí,52,Secundaria,31,5986.66,1,Insatisfecho,0
+Comuna 5,Sin Acceso,3.87,Bajo,1623486,Presencial,Sí,27,Universitario,29,12654.91,2,Muy Satisfecho,2
+Comuna 13,Sin Acceso,2.34,Bajo,1513085,Presencial,Sí,63,Técnico,4,11798.53,1,Muy Satisfecho,0
+Comuna 10,Billetera Movil,4.22,Medio,629923,Digital,No,68,Universitario,1,11727.52,3,Muy Satisfecho,2
+Comuna 8,Sin Acceso,2.21,Bajo,1788246,Digital,No,49,Técnico,34,12468.19,1,Muy Insatisfecho,3
+Comuna 10,Billetera Movil,0.73,Bajo,1931634,Presencial,No,35,Secundaria,5,18373.01,0,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,2.52,Alto,1190813,Digital,Sí,45,Primaria,8,3882.31,3,Neutral,0
+Comuna 10,Cuenta Bancaria,1.81,Alto,1972039,Digital,Sí,20,Universitario,3,9870.79,3,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,6.53,Medio,1071032,Digital,No,41,Primaria,48,16442.33,2,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,0.94,Bajo,710696,Digital,Sí,47,Universitario,14,12336.32,3,Muy Satisfecho,0
+Comuna 13,Billetera Movil,3.68,Alto,851271,Presencial,No,40,Secundaria,11,18198.57,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,3.8,Medio,2957333,Digital,Sí,50,Universitario,5,16011.02,2,Muy Satisfecho,3
+Comuna 10,Billetera Movil,7.74,Medio,2768595,Digital,Sí,38,Técnico,13,15878.89,0,Neutral,3
+Comuna 10,Billetera Movil,7.31,Alto,1277715,Digital,Sí,63,Secundaria,34,19840.31,1,Neutral,1
+Comuna 10,Sin Acceso,6.63,Medio,1459942,Digital,No,64,Secundaria,6,2547.89,2,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,0.73,Medio,1738011,Presencial,Sí,43,Primaria,36,15270.56,1,Insatisfecho,0
+Comuna 13,Sin Acceso,5.94,Bajo,1785008,Presencial,Sí,18,Secundaria,16,5020.66,1,Neutral,0
+Comuna 10,Cuenta Bancaria,5.33,Alto,962540,Presencial,Sí,44,Técnico,49,8915.16,3,Satisfecho,2
+Comuna 8,Sin Acceso,2.46,Medio,1868079,Presencial,Sí,69,Primaria,30,11703.52,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,6.11,Medio,1790210,Presencial,No,31,Técnico,7,12580.07,3,Satisfecho,0
+Comuna 8,Billetera Movil,3.67,Medio,2242479,Presencial,No,66,Universitario,12,8187.21,1,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.18,Alto,2730426,Digital,Sí,52,Secundaria,2,5169.8,2,Insatisfecho,1
+Comuna 5,Billetera Movil,2.51,Alto,2748104,Digital,No,70,Primaria,40,6810.98,1,Satisfecho,0
+Comuna 5,Billetera Movil,5.51,Alto,2535558,Digital,No,68,Técnico,33,6673.0,2,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,3.49,Bajo,1491526,Digital,No,21,Primaria,10,9263.98,2,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,0.51,Alto,1344928,Digital,No,30,Universitario,50,14455.11,2,Insatisfecho,3
+Comuna 13,Cuenta Bancaria,6.98,Alto,1318529,Presencial,No,22,Secundaria,15,6732.51,0,Neutral,0
+Comuna 10,Sin Acceso,3.08,Medio,685971,Digital,No,69,Primaria,27,9640.03,3,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.67,Bajo,2904854,Presencial,Sí,48,Primaria,34,19272.34,1,Neutral,1
+Zona Rural,Cuenta Bancaria,3.1,Bajo,1753024,Digital,Sí,64,Técnico,47,18331.98,3,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,4.65,Alto,916237,Presencial,No,40,Primaria,49,3984.58,2,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,6.28,Bajo,980260,Presencial,No,30,Secundaria,39,6309.08,2,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,7.33,Medio,2514255,Presencial,Sí,21,Universitario,13,15065.08,2,Satisfecho,1
+Comuna 5,Sin Acceso,5.36,Bajo,1244385,Digital,No,63,Secundaria,42,13186.64,0,Insatisfecho,0
+Comuna 13,Billetera Movil,3.89,Bajo,2435866,Presencial,No,39,Primaria,35,3166.67,1,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,7.29,Bajo,513158,Presencial,No,47,Universitario,33,19943.71,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,7.17,Bajo,1229296,Digital,No,54,Primaria,9,10520.78,1,Muy Satisfecho,2
+Comuna 8,Sin Acceso,6.47,Medio,2467905,Presencial,No,66,Secundaria,7,9797.46,2,Neutral,1
+Comuna 8,Cuenta Bancaria,4.96,Bajo,2910193,Digital,No,49,Universitario,39,19086.01,3,Insatisfecho,2
+Comuna 5,Billetera Movil,1.09,Medio,2409877,Digital,Sí,38,Técnico,31,6184.9,0,Muy Satisfecho,2
+Zona Rural,Billetera Movil,2.99,Alto,1488852,Digital,No,30,Primaria,35,13479.36,0,Neutral,1
+Comuna 5,Cuenta Bancaria,6.5,Medio,2979304,Digital,No,31,Técnico,33,12793.61,2,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,2.31,Bajo,1390125,Digital,Sí,22,Primaria,14,3314.1,0,Muy Satisfecho,1
+Comuna 8,Billetera Movil,6.75,Medio,1122321,Digital,No,22,Secundaria,20,18749.14,3,Insatisfecho,3
+Comuna 5,Sin Acceso,1.65,Alto,1882516,Presencial,Sí,51,Técnico,29,1657.22,1,Satisfecho,1
+Comuna 13,Sin Acceso,1.98,Alto,2852269,Presencial,No,34,Primaria,45,14006.6,1,Neutral,1
+Comuna 5,Cuenta Bancaria,3.94,Alto,1563866,Digital,Sí,24,Técnico,36,3728.05,2,Satisfecho,2
+Comuna 13,Cuenta Bancaria,4.12,Alto,720265,Digital,Sí,60,Secundaria,27,4507.28,2,Insatisfecho,1
+Comuna 8,Cuenta Bancaria,4.63,Alto,2094980,Presencial,Sí,22,Primaria,21,15471.06,3,Muy Insatisfecho,3
+Zona Rural,Billetera Movil,7.26,Bajo,1765500,Digital,No,39,Primaria,29,11878.44,1,Muy Insatisfecho,3
+Comuna 13,Billetera Movil,1.19,Alto,2724233,Digital,Sí,26,Secundaria,4,2260.66,3,Muy Satisfecho,3
+Comuna 10,Cuenta Bancaria,2.96,Medio,512219,Digital,Sí,46,Primaria,37,13995.12,1,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,3.81,Alto,1147100,Digital,Sí,56,Primaria,32,14072.85,0,Neutral,1
+Zona Rural,Cuenta Bancaria,0.82,Alto,1195426,Presencial,Sí,54,Universitario,30,7227.89,0,Insatisfecho,1
+Comuna 13,Billetera Movil,5.11,Alto,1992117,Digital,Sí,56,Universitario,42,2933.17,3,Satisfecho,0
+Comuna 5,Billetera Movil,4.16,Alto,1837173,Presencial,No,37,Técnico,2,7078.0,3,Insatisfecho,2
+Zona Rural,Sin Acceso,5.49,Medio,677015,Presencial,No,49,Secundaria,9,7831.15,3,Satisfecho,1
+Comuna 8,Cuenta Bancaria,2.65,Bajo,1585003,Digital,Sí,36,Secundaria,30,10565.45,0,Neutral,0
+Zona Rural,Sin Acceso,6.99,Bajo,2931413,Presencial,No,31,Primaria,38,5110.56,3,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,2.05,Medio,1470286,Presencial,No,35,Universitario,49,18715.05,2,Satisfecho,0
+Comuna 10,Billetera Movil,3.72,Medio,2415395,Presencial,Sí,19,Primaria,44,3574.99,0,Muy Satisfecho,1
+Comuna 10,Sin Acceso,5.12,Alto,2373832,Digital,Sí,58,Secundaria,43,15295.01,0,Satisfecho,0
+Comuna 13,Billetera Movil,4.73,Alto,1570126,Presencial,No,53,Universitario,49,13233.4,2,Insatisfecho,0
+Comuna 5,Billetera Movil,7.42,Medio,1417761,Digital,Sí,53,Universitario,17,6140.66,2,Muy Insatisfecho,2
+Comuna 10,Cuenta Bancaria,4.11,Medio,825488,Digital,No,33,Universitario,44,4330.7,2,Insatisfecho,1
+Comuna 5,Sin Acceso,5.52,Alto,531269,Digital,Sí,19,Primaria,33,4949.11,1,Insatisfecho,3
+Comuna 8,Billetera Movil,2.98,Bajo,2988297,Presencial,No,46,Primaria,30,16908.0,2,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,7.16,Medio,719636,Digital,No,21,Secundaria,23,9855.51,2,Muy Satisfecho,0
+Comuna 5,Sin Acceso,3.76,Bajo,953279,Presencial,No,32,Universitario,8,2332.49,3,Satisfecho,1
+Comuna 13,Billetera Movil,5.17,Medio,1364063,Digital,No,42,Secundaria,28,7239.66,3,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,5.22,Medio,1431339,Presencial,Sí,64,Secundaria,16,14990.68,0,Insatisfecho,3
+Comuna 10,Sin Acceso,1.9,Bajo,2286263,Digital,No,55,Secundaria,7,7445.55,1,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,5.42,Alto,2460524,Presencial,Sí,66,Secundaria,5,6352.52,0,Insatisfecho,1
+Zona Rural,Billetera Movil,7.9,Bajo,1717055,Digital,Sí,18,Secundaria,27,8832.37,0,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,6.19,Alto,1580518,Presencial,Sí,30,Primaria,47,19267.17,0,Satisfecho,1
+Zona Rural,Cuenta Bancaria,2.27,Alto,1869993,Digital,Sí,36,Secundaria,39,18422.81,2,Satisfecho,0
+Zona Rural,Billetera Movil,6.05,Medio,631813,Presencial,No,66,Primaria,40,3023.98,3,Insatisfecho,3
+Zona Rural,Sin Acceso,7.22,Medio,1561923,Digital,No,69,Secundaria,17,4791.25,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,4.69,Alto,1738174,Presencial,Sí,30,Secundaria,14,2284.1,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,2.93,Medio,2931867,Digital,No,37,Técnico,18,4868.68,2,Insatisfecho,0
+Comuna 5,Sin Acceso,2.14,Alto,1100929,Digital,Sí,62,Primaria,6,19090.34,3,Neutral,1
+Comuna 13,Billetera Movil,4.61,Medio,2636270,Presencial,Sí,27,Primaria,37,16591.24,3,Insatisfecho,1
+Comuna 10,Billetera Movil,4.11,Alto,2896060,Digital,No,29,Primaria,14,4751.52,2,Satisfecho,1
+Comuna 10,Sin Acceso,5.44,Medio,2079542,Digital,No,21,Técnico,43,2225.43,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.74,Alto,1864713,Digital,Sí,48,Universitario,9,14577.59,1,Insatisfecho,0
+Comuna 13,Sin Acceso,6.17,Alto,1499112,Digital,No,23,Secundaria,18,4593.67,3,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.75,Bajo,2531741,Presencial,Sí,59,Secundaria,22,12219.97,2,Muy Satisfecho,2
+Zona Rural,Billetera Movil,6.18,Bajo,2989052,Digital,No,19,Secundaria,23,6363.1,3,Muy Insatisfecho,2
+Comuna 5,Billetera Movil,1.78,Alto,518040,Presencial,Sí,47,Universitario,47,12773.93,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,5.44,Bajo,946307,Presencial,Sí,62,Primaria,50,3407.52,1,Muy Insatisfecho,2
+Comuna 10,Cuenta Bancaria,3.96,Bajo,658423,Digital,Sí,29,Universitario,12,2573.96,3,Satisfecho,1
+Zona Rural,Billetera Movil,3.56,Bajo,606377,Presencial,No,19,Primaria,33,14199.06,1,Neutral,1
+Comuna 10,Billetera Movil,1.7,Alto,2057796,Presencial,Sí,18,Técnico,50,12063.37,0,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,5.37,Medio,895199,Digital,Sí,46,Técnico,10,1238.56,0,Satisfecho,0
+Comuna 13,Sin Acceso,5.25,Medio,1046069,Digital,No,49,Secundaria,25,4738.01,0,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,7.43,Bajo,754442,Digital,No,63,Técnico,6,4908.4,3,Neutral,0
+Zona Rural,Sin Acceso,2.35,Bajo,2517988,Digital,No,26,Secundaria,6,7014.34,2,Muy Satisfecho,2
+Comuna 8,Billetera Movil,5.07,Medio,1048569,Digital,Sí,25,Primaria,1,9967.79,3,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.09,Medio,1041823,Digital,No,24,Secundaria,24,7182.15,1,Neutral,0
+Comuna 10,Billetera Movil,7.03,Alto,1681054,Digital,Sí,21,Secundaria,50,12991.18,2,Neutral,0
+Comuna 5,Billetera Movil,7.06,Medio,1956913,Presencial,No,49,Técnico,5,3552.41,1,Neutral,2
+Comuna 10,Cuenta Bancaria,2.6,Alto,2788329,Presencial,Sí,70,Primaria,23,19640.64,3,Neutral,1
+Comuna 10,Cuenta Bancaria,6.79,Bajo,825469,Digital,No,58,Técnico,25,19612.46,3,Insatisfecho,0
+Comuna 8,Sin Acceso,4.84,Medio,1913652,Presencial,Sí,46,Universitario,12,13477.64,2,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,2.15,Alto,1962081,Digital,Sí,32,Secundaria,3,5787.01,1,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,0.58,Medio,806799,Digital,Sí,43,Primaria,18,2605.61,0,Muy Satisfecho,1
+Zona Rural,Sin Acceso,4.1,Bajo,1006875,Presencial,Sí,70,Universitario,26,19506.44,1,Muy Insatisfecho,2
+Comuna 10,Billetera Movil,5.01,Alto,2199401,Digital,Sí,62,Secundaria,40,18731.57,1,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,4.86,Bajo,2593485,Presencial,No,60,Secundaria,26,8058.21,0,Muy Insatisfecho,2
+Comuna 13,Cuenta Bancaria,1.64,Alto,1589003,Presencial,Sí,38,Secundaria,47,1578.06,3,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,3.08,Alto,951095,Digital,No,68,Primaria,17,17204.53,0,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,3.53,Alto,2113149,Presencial,Sí,64,Universitario,35,9008.38,2,Neutral,1
+Comuna 13,Billetera Movil,7.76,Bajo,1592694,Presencial,No,41,Técnico,5,8643.97,0,Insatisfecho,0
+Comuna 10,Billetera Movil,4.78,Alto,1439339,Digital,No,41,Técnico,43,18909.84,1,Satisfecho,0
+Comuna 10,Sin Acceso,2.63,Medio,1555394,Presencial,Sí,42,Técnico,8,14985.86,1,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,1.38,Medio,2054529,Presencial,No,54,Secundaria,40,1200.74,3,Satisfecho,1
+Comuna 5,Cuenta Bancaria,6.6,Medio,2726345,Digital,No,66,Universitario,26,2246.03,1,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,2.05,Medio,2904464,Digital,Sí,44,Técnico,42,7363.46,3,Neutral,0
+Comuna 5,Cuenta Bancaria,6.02,Bajo,1285505,Digital,Sí,57,Técnico,24,13443.03,0,Satisfecho,2
+Comuna 5,Billetera Movil,5.18,Bajo,876061,Presencial,No,70,Universitario,3,17497.3,1,Muy Satisfecho,1
+Comuna 10,Billetera Movil,2.87,Bajo,1267040,Presencial,Sí,42,Universitario,37,6173.13,3,Neutral,0
+Comuna 10,Cuenta Bancaria,4.15,Bajo,1418680,Presencial,No,35,Técnico,27,2340.51,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,3.53,Medio,755808,Presencial,Sí,23,Secundaria,17,3744.09,0,Neutral,1
+Comuna 13,Billetera Movil,6.61,Bajo,858975,Digital,Sí,39,Primaria,42,10579.02,0,Satisfecho,2
+Comuna 8,Cuenta Bancaria,2.85,Alto,2528591,Digital,Sí,30,Universitario,28,12215.31,2,Insatisfecho,0
+Comuna 10,Sin Acceso,1.6,Bajo,2997663,Presencial,No,48,Universitario,18,12298.53,2,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,7.11,Medio,2125532,Digital,No,68,Universitario,29,9612.74,3,Satisfecho,3
+Comuna 13,Billetera Movil,7.89,Medio,1501969,Presencial,No,28,Técnico,50,14172.55,2,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,3.63,Bajo,2847559,Presencial,Sí,25,Universitario,21,19197.74,0,Neutral,1
+Zona Rural,Sin Acceso,7.95,Bajo,948369,Digital,Sí,38,Universitario,8,14920.09,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,6.13,Medio,1353295,Digital,Sí,21,Secundaria,6,18873.29,2,Neutral,2
+Comuna 13,Sin Acceso,4.0,Alto,1128932,Digital,Sí,33,Técnico,50,9788.47,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.42,Medio,1570613,Presencial,Sí,68,Primaria,23,13054.65,1,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,2.48,Medio,2445500,Presencial,No,42,Secundaria,25,16092.64,1,Muy Satisfecho,1
+Comuna 13,Sin Acceso,7.42,Medio,1311858,Digital,No,33,Técnico,42,5019.73,3,Satisfecho,1
+Comuna 5,Sin Acceso,3.83,Bajo,2400542,Digital,No,68,Universitario,46,8918.9,2,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.13,Bajo,1955485,Presencial,Sí,63,Primaria,3,14615.49,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,2.03,Alto,1450239,Digital,No,48,Secundaria,31,8945.25,3,Satisfecho,0
+Comuna 8,Billetera Movil,1.42,Alto,2495087,Presencial,No,25,Universitario,1,4347.99,2,Neutral,2
+Comuna 13,Cuenta Bancaria,5.83,Medio,2154463,Presencial,No,65,Primaria,40,13842.61,0,Neutral,0
+Comuna 5,Billetera Movil,7.31,Medio,1572918,Presencial,Sí,51,Primaria,30,3020.45,0,Satisfecho,1
+Comuna 13,Cuenta Bancaria,6.68,Bajo,985139,Digital,Sí,63,Universitario,41,5172.55,1,Satisfecho,0
+Comuna 8,Sin Acceso,2.29,Alto,2250803,Presencial,Sí,18,Secundaria,14,12450.72,3,Muy Satisfecho,3
+Comuna 13,Sin Acceso,0.81,Medio,2146260,Digital,Sí,69,Primaria,3,16223.82,1,Muy Insatisfecho,3
+Comuna 8,Billetera Movil,3.29,Medio,727481,Digital,No,44,Técnico,1,4582.08,1,Neutral,0
+Comuna 8,Cuenta Bancaria,2.07,Bajo,1329168,Presencial,No,43,Universitario,20,1721.63,0,Satisfecho,1
+Comuna 10,Cuenta Bancaria,3.94,Bajo,2274409,Digital,No,35,Primaria,34,17387.28,1,Muy Satisfecho,1
+Comuna 5,Sin Acceso,6.08,Medio,980333,Digital,Sí,42,Primaria,46,13429.37,3,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,3.31,Bajo,711701,Digital,Sí,64,Secundaria,36,6531.71,3,Muy Satisfecho,2
+Comuna 5,Cuenta Bancaria,1.39,Bajo,2084785,Presencial,No,31,Secundaria,50,9879.98,1,Neutral,1
+Comuna 13,Cuenta Bancaria,7.42,Alto,1348985,Presencial,No,49,Primaria,38,6247.48,3,Muy Satisfecho,1
+Comuna 5,Sin Acceso,1.27,Alto,972030,Presencial,Sí,39,Primaria,6,12591.84,0,Insatisfecho,1
+Comuna 10,Billetera Movil,1.2,Bajo,1305350,Digital,Sí,21,Primaria,25,1021.54,1,Muy Satisfecho,0
+Comuna 10,Billetera Movil,5.67,Bajo,2971685,Presencial,Sí,60,Técnico,26,9565.71,3,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,3.78,Bajo,2532413,Digital,Sí,69,Primaria,23,15893.36,1,Neutral,0
+Comuna 10,Cuenta Bancaria,3.13,Bajo,1841178,Digital,Sí,53,Técnico,9,16673.53,3,Muy Satisfecho,1
+Comuna 13,Sin Acceso,1.95,Medio,1107751,Presencial,Sí,57,Universitario,22,16110.79,1,Insatisfecho,3
+Comuna 10,Cuenta Bancaria,5.63,Medio,1188282,Presencial,Sí,65,Universitario,11,10875.28,1,Muy Insatisfecho,3
+Zona Rural,Cuenta Bancaria,5.1,Medio,1602563,Presencial,Sí,54,Secundaria,49,2015.13,2,Insatisfecho,2
+Comuna 8,Sin Acceso,2.08,Bajo,2509774,Presencial,Sí,41,Universitario,38,11475.08,2,Neutral,2
+Zona Rural,Cuenta Bancaria,5.94,Alto,2007120,Digital,Sí,22,Técnico,17,3757.66,3,Neutral,0
+Zona Rural,Billetera Movil,6.4,Alto,2780496,Presencial,No,49,Primaria,43,16255.24,2,Satisfecho,2
+Comuna 8,Cuenta Bancaria,4.23,Medio,1799577,Digital,No,42,Primaria,8,4123.31,1,Muy Satisfecho,2
+Comuna 8,Billetera Movil,2.25,Alto,1869540,Digital,Sí,18,Universitario,12,6061.97,2,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,4.23,Bajo,2214717,Presencial,No,23,Primaria,4,10081.65,3,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,7.78,Alto,1131291,Digital,Sí,37,Secundaria,34,6871.11,0,Satisfecho,2
+Comuna 10,Billetera Movil,6.01,Medio,832675,Presencial,No,67,Universitario,28,8070.87,0,Muy Insatisfecho,2
+Comuna 5,Sin Acceso,0.62,Medio,1331878,Digital,Sí,54,Primaria,34,5308.45,3,Muy Insatisfecho,3
+Comuna 5,Billetera Movil,5.45,Alto,643008,Presencial,Sí,60,Técnico,15,1263.49,1,Satisfecho,0
+Comuna 13,Sin Acceso,2.35,Medio,2901747,Presencial,No,57,Universitario,28,3810.18,0,Satisfecho,0
+Comuna 5,Cuenta Bancaria,7.41,Medio,2001079,Digital,No,53,Técnico,41,9211.03,3,Neutral,3
+Comuna 8,Billetera Movil,1.62,Alto,2619239,Presencial,Sí,46,Técnico,11,10583.59,0,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,1.41,Bajo,2495418,Presencial,No,67,Universitario,4,13866.24,1,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,4.43,Bajo,886971,Digital,No,44,Técnico,43,6265.53,3,Neutral,0
+Comuna 10,Sin Acceso,7.17,Medio,1965815,Presencial,No,28,Técnico,5,12446.66,3,Neutral,0
+Comuna 13,Cuenta Bancaria,1.63,Medio,679722,Presencial,Sí,46,Universitario,49,10647.07,2,Satisfecho,1
+Zona Rural,Billetera Movil,6.57,Medio,1360693,Presencial,No,35,Técnico,22,9649.0,0,Insatisfecho,0
+Comuna 5,Sin Acceso,3.31,Medio,1577291,Presencial,No,67,Técnico,23,8270.44,1,Muy Insatisfecho,2
+Comuna 10,Billetera Movil,4.51,Medio,1093796,Presencial,Sí,21,Universitario,5,1010.97,0,Muy Satisfecho,1
+Comuna 13,Cuenta Bancaria,7.37,Alto,1664309,Presencial,No,45,Universitario,35,10588.64,2,Neutral,3
+Comuna 8,Billetera Movil,4.21,Alto,2218973,Digital,No,53,Secundaria,3,17606.25,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,6.51,Bajo,2396663,Presencial,No,42,Secundaria,40,16270.71,0,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,1.42,Alto,1802965,Presencial,No,28,Técnico,38,11320.29,1,Muy Satisfecho,1
+Zona Rural,Billetera Movil,7.57,Medio,2442819,Presencial,Sí,53,Secundaria,27,16684.79,2,Muy Satisfecho,1
+Comuna 13,Billetera Movil,5.68,Medio,1882334,Digital,Sí,51,Primaria,28,7583.35,1,Insatisfecho,2
+Comuna 10,Sin Acceso,2.58,Alto,2361010,Digital,No,43,Universitario,16,19057.02,0,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.46,Bajo,914139,Digital,No,50,Primaria,49,8765.02,1,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,2.46,Medio,2423745,Presencial,Sí,25,Primaria,14,11219.03,1,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.02,Bajo,2556508,Presencial,Sí,66,Técnico,27,2157.55,0,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,5.08,Medio,592168,Presencial,No,37,Técnico,44,1610.75,2,Satisfecho,0
+Comuna 13,Sin Acceso,4.84,Bajo,2883021,Digital,No,23,Secundaria,40,14678.98,1,Neutral,1
+Comuna 13,Billetera Movil,6.46,Alto,2745117,Presencial,Sí,28,Universitario,34,19012.98,1,Satisfecho,0
+Comuna 13,Cuenta Bancaria,0.78,Bajo,2483317,Digital,No,64,Secundaria,34,16660.4,2,Neutral,1
+Comuna 10,Sin Acceso,4.77,Alto,2367529,Digital,Sí,37,Secundaria,30,13639.61,1,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,4.75,Alto,911049,Presencial,Sí,45,Técnico,11,3348.49,2,Insatisfecho,3
+Comuna 8,Sin Acceso,3.92,Medio,1336613,Digital,No,20,Universitario,22,15850.66,1,Satisfecho,0
+Comuna 5,Sin Acceso,7.13,Alto,2196521,Digital,Sí,60,Técnico,30,10889.83,3,Muy Insatisfecho,2
+Comuna 10,Billetera Movil,3.56,Bajo,1580878,Presencial,No,30,Universitario,34,1608.93,0,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,1.16,Medio,1610694,Digital,Sí,48,Primaria,23,14957.83,3,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,2.91,Alto,606888,Presencial,Sí,44,Secundaria,17,18143.91,3,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,1.91,Alto,1460554,Digital,Sí,49,Secundaria,40,15365.52,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,6.38,Bajo,2173462,Digital,Sí,39,Secundaria,50,18289.58,0,Insatisfecho,3
+Comuna 5,Billetera Movil,2.15,Alto,747431,Presencial,No,69,Técnico,16,5101.44,1,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,3.89,Alto,1750879,Presencial,No,23,Primaria,50,19431.38,2,Satisfecho,1
+Comuna 10,Cuenta Bancaria,3.4,Alto,1725730,Digital,Sí,56,Primaria,43,11776.75,2,Muy Satisfecho,2
+Comuna 8,Sin Acceso,6.04,Bajo,1717796,Presencial,Sí,25,Universitario,8,11667.28,1,Satisfecho,0
+Zona Rural,Sin Acceso,3.51,Medio,2422482,Digital,Sí,26,Primaria,15,16416.09,3,Satisfecho,1
+Zona Rural,Cuenta Bancaria,3.78,Alto,1158052,Digital,Sí,54,Secundaria,10,18385.43,1,Neutral,1
+Comuna 10,Billetera Movil,2.93,Bajo,1732270,Presencial,No,54,Primaria,26,14897.38,3,Insatisfecho,3
+Comuna 8,Sin Acceso,3.45,Medio,801727,Digital,No,51,Técnico,32,9505.19,0,Neutral,0
+Comuna 8,Sin Acceso,5.67,Medio,2496196,Digital,Sí,59,Secundaria,25,1831.79,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,3.21,Bajo,1971697,Presencial,Sí,24,Técnico,29,15933.75,2,Insatisfecho,2
+Comuna 13,Cuenta Bancaria,7.96,Alto,2969257,Digital,No,50,Técnico,50,1246.56,1,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,7.51,Bajo,1874527,Presencial,Sí,60,Primaria,6,16910.01,3,Neutral,0
+Comuna 8,Billetera Movil,7.81,Medio,1751330,Presencial,Sí,44,Universitario,50,15331.75,0,Satisfecho,2
+Comuna 13,Cuenta Bancaria,2.08,Medio,604273,Digital,No,42,Primaria,48,5588.87,3,Muy Satisfecho,1
+Comuna 5,Billetera Movil,2.18,Alto,515084,Presencial,Sí,32,Primaria,3,13927.3,0,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,2.66,Bajo,1689030,Digital,No,26,Universitario,39,16753.13,1,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,3.59,Alto,2369464,Presencial,No,52,Secundaria,27,4787.18,0,Insatisfecho,0
+Comuna 5,Billetera Movil,4.1,Medio,2945289,Digital,No,64,Universitario,45,8428.95,2,Neutral,1
+Comuna 13,Billetera Movil,7.05,Alto,923631,Digital,No,44,Universitario,10,3587.59,1,Neutral,3
+Comuna 13,Sin Acceso,0.68,Medio,533328,Presencial,No,32,Técnico,21,12195.26,2,Neutral,0
+Comuna 13,Cuenta Bancaria,7.91,Medio,2395947,Presencial,No,37,Universitario,41,4487.56,3,Muy Satisfecho,3
+Comuna 8,Billetera Movil,4.52,Medio,2727100,Digital,No,58,Técnico,29,15939.98,2,Satisfecho,2
+Comuna 13,Sin Acceso,5.89,Bajo,1273843,Presencial,No,22,Secundaria,5,4442.23,1,Satisfecho,0
+Comuna 13,Cuenta Bancaria,7.25,Alto,1645479,Digital,Sí,26,Universitario,14,19213.96,2,Muy Satisfecho,1
+Zona Rural,Cuenta Bancaria,6.25,Alto,1816111,Presencial,No,30,Primaria,8,5682.55,2,Insatisfecho,0
+Comuna 5,Sin Acceso,0.8,Alto,2692688,Presencial,No,66,Primaria,21,3510.68,1,Muy Satisfecho,0
+Comuna 5,Billetera Movil,3.15,Bajo,1547881,Presencial,No,39,Primaria,27,11715.97,3,Neutral,0
+Comuna 13,Billetera Movil,2.46,Bajo,1438943,Digital,Sí,59,Secundaria,38,3581.03,3,Insatisfecho,2
+Comuna 13,Sin Acceso,0.95,Bajo,2753918,Presencial,No,24,Técnico,50,14852.34,3,Insatisfecho,3
+Comuna 13,Cuenta Bancaria,7.86,Medio,2850005,Digital,No,23,Primaria,44,5470.14,2,Muy Satisfecho,0
+Comuna 5,Sin Acceso,2.45,Bajo,2222160,Digital,No,34,Universitario,3,14938.85,0,Insatisfecho,1
+Comuna 5,Sin Acceso,5.73,Medio,1895774,Digital,Sí,66,Técnico,27,15057.51,1,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,4.55,Alto,1857575,Presencial,No,48,Primaria,31,19381.24,1,Neutral,1
+Comuna 10,Billetera Movil,5.93,Bajo,1818450,Presencial,Sí,31,Técnico,48,16141.82,0,Satisfecho,1
+Comuna 5,Cuenta Bancaria,4.22,Bajo,766914,Digital,No,61,Secundaria,22,18573.79,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,6.89,Alto,618739,Presencial,No,63,Técnico,43,2753.68,2,Muy Satisfecho,0
+Comuna 10,Sin Acceso,5.33,Alto,2837660,Digital,No,58,Secundaria,16,7903.74,2,Insatisfecho,0
+Zona Rural,Sin Acceso,5.13,Alto,561113,Digital,No,18,Técnico,15,12003.65,0,Neutral,0
+Comuna 8,Billetera Movil,2.83,Bajo,1427335,Digital,No,67,Primaria,3,2908.75,0,Muy Insatisfecho,1
+Comuna 8,Cuenta Bancaria,5.03,Bajo,1050324,Digital,No,28,Secundaria,12,13264.91,1,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,7.47,Alto,2314239,Presencial,Sí,26,Secundaria,39,5531.89,3,Muy Satisfecho,2
+Zona Rural,Sin Acceso,1.59,Medio,904529,Digital,Sí,65,Técnico,26,13337.07,1,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,7.87,Bajo,504853,Digital,Sí,26,Primaria,31,10320.12,1,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,5.2,Bajo,1957067,Presencial,Sí,58,Primaria,2,7095.69,0,Muy Insatisfecho,1
+Comuna 5,Billetera Movil,2.94,Alto,964977,Presencial,Sí,56,Técnico,14,13072.13,1,Insatisfecho,1
+Comuna 8,Cuenta Bancaria,0.99,Bajo,2630419,Digital,Sí,33,Secundaria,46,14813.79,2,Neutral,1
+Comuna 13,Sin Acceso,4.58,Alto,1881694,Presencial,Sí,64,Secundaria,50,17383.53,2,Insatisfecho,3
+Comuna 10,Billetera Movil,6.97,Alto,579720,Presencial,No,46,Primaria,14,13341.53,0,Neutral,2
+Zona Rural,Cuenta Bancaria,0.65,Medio,2922498,Digital,No,39,Técnico,11,19016.11,1,Insatisfecho,1
+Comuna 8,Billetera Movil,2.77,Medio,2760531,Presencial,Sí,62,Técnico,27,6801.25,1,Satisfecho,3
+Comuna 5,Billetera Movil,5.03,Alto,2482310,Digital,Sí,56,Técnico,38,19553.0,3,Neutral,2
+Zona Rural,Sin Acceso,7.52,Medio,882425,Digital,No,64,Técnico,7,9709.03,0,Satisfecho,3
+Comuna 13,Billetera Movil,7.29,Medio,1365732,Presencial,Sí,41,Secundaria,50,15476.05,1,Satisfecho,1
+Comuna 5,Billetera Movil,3.11,Bajo,2728011,Presencial,Sí,30,Primaria,16,19091.9,1,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,2.3,Alto,993550,Presencial,No,29,Secundaria,31,11379.21,2,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,7.35,Medio,2399874,Digital,No,62,Secundaria,4,13103.94,2,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,7.74,Alto,577452,Presencial,No,68,Universitario,11,13504.85,2,Muy Insatisfecho,3
+Comuna 5,Cuenta Bancaria,4.8,Alto,2781332,Digital,No,45,Secundaria,50,16613.18,2,Neutral,0
+Comuna 10,Sin Acceso,4.14,Medio,1828747,Digital,Sí,43,Técnico,12,10313.41,1,Satisfecho,1
+Comuna 13,Sin Acceso,4.14,Bajo,970103,Digital,Sí,65,Técnico,15,18118.04,3,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,1.55,Medio,2698121,Digital,Sí,20,Secundaria,36,15388.22,2,Neutral,0
+Comuna 13,Sin Acceso,2.64,Bajo,1552745,Digital,Sí,36,Primaria,12,14170.05,2,Satisfecho,0
+Comuna 5,Sin Acceso,7.89,Medio,2034085,Digital,Sí,38,Primaria,23,19861.87,0,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,2.42,Alto,2337433,Presencial,No,40,Primaria,24,18939.06,1,Satisfecho,2
+Comuna 10,Cuenta Bancaria,6.04,Bajo,505078,Digital,No,43,Primaria,31,5236.02,0,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,2.39,Medio,1089677,Presencial,No,56,Primaria,11,5756.35,1,Insatisfecho,1
+Comuna 13,Cuenta Bancaria,1.6,Alto,524981,Digital,Sí,41,Primaria,30,19153.74,0,Insatisfecho,1
+Zona Rural,Sin Acceso,3.04,Bajo,2706521,Digital,Sí,40,Primaria,30,2001.22,1,Satisfecho,0
+Zona Rural,Billetera Movil,6.07,Medio,2911827,Presencial,Sí,68,Técnico,26,17221.88,3,Muy Insatisfecho,2
+Zona Rural,Cuenta Bancaria,4.11,Alto,2784380,Presencial,No,53,Universitario,16,1162.27,3,Satisfecho,0
+Comuna 13,Sin Acceso,3.61,Medio,2186916,Presencial,Sí,25,Universitario,12,7040.56,2,Muy Satisfecho,3
+Comuna 5,Sin Acceso,4.7,Bajo,541806,Digital,No,47,Universitario,21,17452.82,0,Insatisfecho,0
+Comuna 10,Billetera Movil,0.92,Alto,1032423,Digital,No,31,Secundaria,23,10169.5,2,Satisfecho,0
+Zona Rural,Sin Acceso,2.35,Alto,1582587,Digital,No,47,Técnico,29,7495.24,3,Satisfecho,0
+Zona Rural,Billetera Movil,4.46,Bajo,2003986,Digital,Sí,43,Secundaria,45,10162.3,1,Neutral,0
+Comuna 8,Sin Acceso,3.62,Alto,790908,Presencial,No,32,Primaria,26,11240.88,0,Neutral,0
+Comuna 8,Billetera Movil,6.46,Alto,1988721,Digital,Sí,43,Primaria,22,15528.3,0,Neutral,2
+Comuna 10,Cuenta Bancaria,7.52,Medio,2620535,Digital,Sí,18,Universitario,36,8660.15,2,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,7.15,Medio,2370046,Digital,Sí,56,Secundaria,30,1062.97,2,Neutral,1
+Zona Rural,Billetera Movil,2.89,Alto,2947902,Digital,No,47,Universitario,49,15831.31,1,Satisfecho,0
+Comuna 10,Sin Acceso,1.01,Alto,725253,Presencial,Sí,33,Secundaria,31,11357.26,1,Satisfecho,1
+Zona Rural,Billetera Movil,0.62,Bajo,2561306,Presencial,Sí,31,Secundaria,39,16316.25,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,7.68,Medio,1866508,Digital,Sí,64,Primaria,22,10226.46,3,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,4.17,Alto,1601287,Presencial,Sí,63,Técnico,46,11736.71,2,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,3.24,Bajo,2831254,Presencial,No,69,Universitario,11,13964.73,2,Muy Insatisfecho,0
+Zona Rural,Sin Acceso,2.54,Medio,1500648,Presencial,Sí,27,Secundaria,46,17156.34,0,Satisfecho,0
+Comuna 8,Cuenta Bancaria,3.69,Alto,1279034,Presencial,Sí,67,Secundaria,34,6085.61,3,Muy Insatisfecho,3
+Comuna 8,Billetera Movil,6.15,Alto,2121461,Digital,Sí,28,Técnico,34,7154.29,1,Neutral,3
+Comuna 5,Billetera Movil,4.18,Alto,1858617,Presencial,No,29,Primaria,16,18752.42,1,Insatisfecho,0
+Comuna 10,Sin Acceso,7.46,Bajo,2949886,Presencial,Sí,67,Universitario,33,9784.52,2,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,6.07,Medio,1478402,Presencial,Sí,66,Secundaria,38,9985.33,0,Muy Satisfecho,1
+Comuna 5,Cuenta Bancaria,2.96,Bajo,2195280,Presencial,Sí,35,Primaria,34,14178.51,1,Insatisfecho,1
+Zona Rural,Billetera Movil,4.34,Medio,869404,Presencial,Sí,60,Técnico,4,8840.35,2,Neutral,0
+Comuna 10,Sin Acceso,5.22,Medio,1752858,Digital,No,40,Técnico,47,12807.27,3,Muy Satisfecho,0
+Zona Rural,Sin Acceso,2.14,Alto,2292622,Digital,Sí,32,Técnico,37,12150.6,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,7.54,Bajo,1828191,Digital,Sí,24,Técnico,32,4492.94,1,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.69,Bajo,1336129,Digital,No,24,Primaria,8,10042.54,0,Insatisfecho,0
+Comuna 5,Billetera Movil,5.87,Alto,2427372,Digital,No,31,Secundaria,3,16276.63,1,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,4.37,Medio,1132992,Presencial,No,22,Secundaria,33,17735.31,3,Insatisfecho,0
+Comuna 10,Billetera Movil,1.06,Medio,2736223,Digital,No,43,Universitario,15,6453.76,3,Satisfecho,1
+Comuna 5,Billetera Movil,0.7,Medio,1372739,Presencial,No,27,Secundaria,32,8177.62,1,Muy Insatisfecho,1
+Comuna 13,Sin Acceso,2.86,Bajo,1930158,Digital,No,48,Secundaria,1,9643.16,2,Muy Satisfecho,0
+Comuna 5,Sin Acceso,3.45,Medio,2230349,Digital,Sí,34,Secundaria,43,4082.03,0,Muy Satisfecho,1
+Zona Rural,Billetera Movil,4.29,Alto,2258044,Digital,No,56,Primaria,14,16009.07,3,Insatisfecho,0
+Comuna 8,Billetera Movil,2.85,Bajo,805363,Presencial,Sí,53,Técnico,19,6092.4,1,Neutral,0
+Comuna 10,Sin Acceso,6.72,Alto,2429892,Presencial,Sí,69,Técnico,18,2830.2,0,Muy Satisfecho,1
+Zona Rural,Sin Acceso,4.05,Bajo,817603,Digital,No,59,Primaria,44,18850.58,3,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,1.06,Medio,1622872,Digital,Sí,68,Primaria,42,19456.9,2,Muy Satisfecho,3
+Comuna 10,Sin Acceso,5.67,Bajo,1830178,Presencial,Sí,22,Técnico,11,17958.09,1,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.86,Alto,1211935,Presencial,Sí,50,Primaria,20,9289.56,0,Muy Satisfecho,0
+Comuna 13,Billetera Movil,5.05,Medio,873921,Presencial,Sí,55,Técnico,32,3026.88,0,Neutral,2
+Zona Rural,Sin Acceso,3.59,Medio,2499029,Presencial,No,44,Primaria,9,6450.63,2,Muy Satisfecho,1
+Comuna 10,Billetera Movil,2.07,Medio,819538,Presencial,Sí,23,Secundaria,24,12234.93,3,Satisfecho,0
+Comuna 13,Sin Acceso,3.52,Bajo,1191451,Digital,No,40,Universitario,11,11845.92,3,Insatisfecho,0
+Comuna 8,Billetera Movil,6.87,Bajo,1325722,Presencial,No,33,Primaria,3,14547.74,1,Satisfecho,1
+Comuna 10,Sin Acceso,6.64,Bajo,2945377,Presencial,Sí,64,Técnico,39,14835.77,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,6.08,Bajo,2033286,Presencial,Sí,65,Secundaria,23,19479.37,3,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,5.73,Medio,588555,Digital,No,20,Primaria,7,4420.39,1,Neutral,2
+Zona Rural,Cuenta Bancaria,2.31,Alto,2616718,Presencial,Sí,44,Universitario,10,19946.57,3,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,2.21,Medio,888315,Digital,Sí,59,Secundaria,45,8986.15,3,Insatisfecho,1
+Comuna 5,Billetera Movil,4.72,Alto,641140,Digital,No,64,Secundaria,26,6513.89,3,Satisfecho,0
+Comuna 13,Cuenta Bancaria,2.83,Alto,2436902,Digital,Sí,26,Técnico,36,9421.67,3,Satisfecho,0
+Comuna 10,Sin Acceso,7.75,Alto,514246,Presencial,Sí,62,Primaria,2,13396.38,1,Muy Satisfecho,0
+Comuna 8,Billetera Movil,1.85,Alto,2325258,Presencial,Sí,18,Universitario,42,19144.82,0,Muy Satisfecho,3
+Comuna 13,Sin Acceso,7.29,Alto,2749912,Presencial,Sí,54,Universitario,4,19807.87,1,Satisfecho,1
+Zona Rural,Cuenta Bancaria,5.5,Bajo,952851,Presencial,Sí,24,Técnico,30,12979.26,1,Satisfecho,0
+Comuna 5,Cuenta Bancaria,7.62,Alto,715156,Presencial,Sí,21,Universitario,37,10495.82,2,Muy Insatisfecho,2
+Comuna 10,Sin Acceso,4.56,Bajo,839466,Digital,No,36,Universitario,46,9071.41,3,Muy Insatisfecho,2
+Comuna 13,Cuenta Bancaria,5.07,Alto,796028,Presencial,No,69,Técnico,47,10266.59,2,Satisfecho,0
+Comuna 5,Billetera Movil,7.14,Alto,2476430,Digital,No,56,Secundaria,11,9812.86,0,Insatisfecho,0
+Comuna 5,Sin Acceso,2.59,Medio,2362401,Presencial,Sí,26,Técnico,27,13469.79,2,Satisfecho,2
+Comuna 5,Sin Acceso,7.49,Alto,2546924,Digital,Sí,35,Primaria,22,6573.08,2,Neutral,1
+Zona Rural,Cuenta Bancaria,4.76,Bajo,1699573,Presencial,Sí,55,Secundaria,45,4497.49,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,3.4,Alto,964419,Digital,No,42,Técnico,28,5118.88,3,Insatisfecho,3
+Comuna 5,Sin Acceso,7.59,Alto,1402420,Digital,Sí,69,Universitario,8,7885.09,0,Satisfecho,1
+Comuna 5,Billetera Movil,6.69,Bajo,1843807,Digital,No,27,Técnico,25,16210.78,2,Satisfecho,1
+Zona Rural,Cuenta Bancaria,7.8,Medio,1247694,Presencial,No,30,Secundaria,15,3931.85,0,Muy Satisfecho,0
+Comuna 5,Billetera Movil,7.79,Medio,2126590,Presencial,Sí,22,Universitario,34,8774.44,1,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,5.53,Bajo,1764255,Presencial,No,25,Primaria,43,13745.49,0,Satisfecho,2
+Comuna 5,Billetera Movil,3.45,Bajo,1121978,Digital,No,58,Universitario,4,3018.55,1,Satisfecho,3
+Comuna 5,Sin Acceso,4.81,Alto,1601018,Presencial,No,19,Técnico,20,6886.77,1,Neutral,0
+Comuna 5,Sin Acceso,4.02,Alto,1987728,Presencial,No,35,Secundaria,35,4671.53,1,Muy Satisfecho,0
+Comuna 5,Sin Acceso,1.64,Alto,1602718,Presencial,No,67,Secundaria,13,10931.76,1,Neutral,2
+Comuna 5,Sin Acceso,5.12,Bajo,2057516,Digital,Sí,53,Primaria,38,16437.75,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,2.08,Alto,1894423,Presencial,Sí,63,Secundaria,30,15217.15,0,Insatisfecho,0
+Zona Rural,Sin Acceso,2.07,Medio,761526,Digital,No,49,Universitario,44,6449.19,0,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.86,Alto,2168785,Presencial,Sí,31,Técnico,7,11093.76,1,Muy Insatisfecho,1
+Comuna 13,Billetera Movil,3.25,Medio,1477013,Digital,Sí,29,Universitario,18,7050.75,0,Satisfecho,0
+Zona Rural,Cuenta Bancaria,7.21,Alto,808970,Presencial,No,50,Universitario,25,17877.07,0,Muy Insatisfecho,2
+Comuna 13,Billetera Movil,6.58,Alto,2690775,Digital,Sí,21,Universitario,28,14270.26,3,Satisfecho,0
+Comuna 8,Cuenta Bancaria,0.61,Bajo,2350074,Digital,No,60,Secundaria,37,1860.33,2,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,4.47,Bajo,1829056,Presencial,No,22,Técnico,16,6478.46,1,Muy Insatisfecho,0
+Comuna 5,Billetera Movil,4.99,Medio,1994494,Presencial,Sí,66,Universitario,6,15395.49,3,Satisfecho,1
+Comuna 5,Cuenta Bancaria,1.76,Medio,1518553,Digital,Sí,55,Primaria,12,2379.99,3,Muy Satisfecho,1
+Comuna 10,Billetera Movil,2.03,Medio,2061710,Digital,Sí,45,Secundaria,3,15891.39,0,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,7.14,Bajo,2753987,Digital,No,54,Universitario,9,13561.67,3,Satisfecho,0
+Zona Rural,Sin Acceso,3.35,Bajo,1135969,Presencial,Sí,29,Universitario,22,10825.15,1,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,1.36,Alto,1693476,Digital,No,38,Secundaria,13,7044.49,1,Muy Satisfecho,0
+Comuna 10,Billetera Movil,4.18,Medio,1704603,Digital,Sí,55,Técnico,28,10000.77,1,Satisfecho,2
+Comuna 8,Cuenta Bancaria,0.57,Bajo,773388,Presencial,No,64,Técnico,30,14115.08,3,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,1.55,Medio,2991504,Presencial,No,61,Secundaria,2,8648.58,1,Muy Satisfecho,0
+Comuna 5,Billetera Movil,3.21,Alto,655607,Digital,No,62,Primaria,20,19129.29,2,Insatisfecho,0
+Comuna 10,Sin Acceso,6.4,Bajo,1250130,Digital,No,24,Universitario,24,5191.8,3,Neutral,0
+Comuna 10,Sin Acceso,2.77,Alto,1790880,Presencial,Sí,52,Universitario,50,4195.5,3,Neutral,0
+Comuna 8,Sin Acceso,7.07,Medio,585486,Digital,Sí,57,Técnico,13,8201.43,0,Muy Satisfecho,1
+Comuna 8,Cuenta Bancaria,6.17,Bajo,936828,Presencial,No,59,Primaria,11,8231.16,0,Neutral,1
+Comuna 13,Billetera Movil,3.2,Bajo,506707,Presencial,No,42,Técnico,47,14612.28,2,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,1.03,Medio,1872113,Presencial,No,32,Técnico,4,13631.01,1,Muy Satisfecho,0
+Comuna 13,Sin Acceso,5.73,Medio,2218216,Presencial,No,23,Universitario,37,6222.53,3,Muy Satisfecho,0
+Zona Rural,Sin Acceso,3.25,Medio,1843422,Digital,No,19,Secundaria,11,1791.2,3,Insatisfecho,0
+Zona Rural,Sin Acceso,7.5,Alto,1856952,Presencial,Sí,44,Primaria,20,12235.44,3,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,7.66,Bajo,2854375,Presencial,No,52,Primaria,16,2617.94,2,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,1.87,Alto,673113,Presencial,Sí,66,Técnico,29,12298.15,1,Satisfecho,3
+Comuna 8,Cuenta Bancaria,6.11,Alto,2633736,Presencial,Sí,69,Secundaria,17,19251.69,1,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,0.98,Bajo,965964,Presencial,Sí,28,Técnico,43,17207.76,2,Satisfecho,0
+Comuna 13,Sin Acceso,7.54,Alto,1525624,Presencial,No,51,Secundaria,31,11700.75,2,Neutral,0
+Zona Rural,Sin Acceso,6.97,Alto,1926499,Presencial,No,48,Técnico,10,17106.68,2,Satisfecho,3
+Comuna 13,Billetera Movil,4.98,Bajo,2725731,Digital,No,19,Primaria,14,14212.32,2,Muy Satisfecho,0
+Zona Rural,Billetera Movil,6.81,Alto,1461455,Digital,No,50,Primaria,36,11353.03,3,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,7.07,Bajo,679022,Digital,No,32,Secundaria,29,12777.6,1,Insatisfecho,1
+Comuna 5,Sin Acceso,6.39,Bajo,2456881,Presencial,Sí,63,Técnico,34,8720.9,3,Insatisfecho,1
+Zona Rural,Cuenta Bancaria,3.72,Bajo,1626840,Digital,Sí,19,Primaria,37,14781.28,0,Satisfecho,0
+Comuna 5,Billetera Movil,4.62,Medio,1728384,Digital,No,24,Universitario,35,2620.99,3,Neutral,0
+Comuna 8,Sin Acceso,5.11,Alto,2340673,Digital,Sí,64,Primaria,15,13786.95,1,Insatisfecho,3
+Zona Rural,Sin Acceso,7.93,Medio,1749598,Digital,No,31,Universitario,50,12283.37,2,Muy Satisfecho,0
+Comuna 8,Sin Acceso,7.31,Medio,1845433,Digital,No,26,Técnico,15,5738.91,2,Insatisfecho,0
+Zona Rural,Sin Acceso,3.79,Bajo,1595373,Digital,Sí,51,Técnico,24,19685.33,2,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,4.44,Bajo,1629126,Presencial,Sí,30,Técnico,35,4666.51,1,Muy Satisfecho,0
+Comuna 8,Billetera Movil,6.45,Medio,2607491,Presencial,No,18,Secundaria,38,14040.14,0,Insatisfecho,0
+Comuna 8,Sin Acceso,2.13,Medio,845806,Digital,No,24,Técnico,15,7354.21,2,Neutral,0
+Comuna 5,Billetera Movil,7.16,Bajo,2173263,Presencial,Sí,48,Secundaria,12,5042.09,3,Satisfecho,0
+Zona Rural,Sin Acceso,1.61,Bajo,1991195,Digital,No,29,Universitario,35,1940.71,0,Satisfecho,0
+Comuna 8,Cuenta Bancaria,3.58,Medio,2880031,Digital,Sí,35,Universitario,19,8959.04,0,Muy Insatisfecho,0
+Comuna 8,Cuenta Bancaria,6.09,Medio,1518372,Digital,No,25,Técnico,19,1265.05,2,Muy Satisfecho,0
+Zona Rural,Billetera Movil,2.65,Medio,1290926,Presencial,Sí,41,Técnico,12,19884.13,1,Muy Insatisfecho,2
+Comuna 5,Billetera Movil,3.24,Medio,2014762,Digital,Sí,58,Secundaria,36,8588.22,0,Muy Satisfecho,3
+Comuna 10,Sin Acceso,5.63,Bajo,534488,Digital,Sí,24,Secundaria,10,2727.25,3,Satisfecho,1
+Zona Rural,Billetera Movil,5.29,Bajo,848762,Presencial,No,36,Secundaria,16,6647.45,3,Satisfecho,1
+Comuna 10,Billetera Movil,4.77,Alto,1943337,Digital,Sí,42,Secundaria,15,5479.74,3,Muy Satisfecho,0
+Comuna 13,Sin Acceso,1.21,Alto,2865767,Presencial,Sí,34,Primaria,20,2843.23,3,Muy Insatisfecho,2
+Comuna 5,Sin Acceso,2.72,Medio,2568009,Presencial,No,44,Secundaria,44,15585.5,3,Neutral,0
+Comuna 10,Sin Acceso,6.08,Medio,531082,Digital,Sí,34,Primaria,25,18501.78,0,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,1.89,Alto,1044434,Presencial,No,66,Primaria,10,10202.51,0,Neutral,1
+Comuna 5,Billetera Movil,1.26,Bajo,1218901,Presencial,Sí,63,Primaria,32,10822.76,3,Insatisfecho,1
+Comuna 5,Sin Acceso,6.19,Alto,612301,Digital,Sí,51,Universitario,9,8762.79,2,Insatisfecho,2
+Comuna 5,Sin Acceso,6.66,Alto,582593,Presencial,No,60,Universitario,22,4299.5,3,Neutral,2
+Comuna 5,Billetera Movil,1.34,Bajo,1883652,Presencial,No,34,Universitario,28,19137.49,0,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,5.48,Bajo,919803,Presencial,No,50,Universitario,23,18745.26,0,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.72,Alto,1825091,Presencial,Sí,18,Técnico,25,9141.32,1,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,2.61,Medio,2762166,Presencial,No,25,Técnico,3,16296.52,2,Muy Satisfecho,0
+Comuna 13,Sin Acceso,4.66,Alto,538858,Digital,No,60,Primaria,18,7000.37,2,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,1.14,Medio,683484,Presencial,No,34,Secundaria,32,18427.23,2,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,3.5,Medio,922042,Digital,No,67,Secundaria,45,19224.93,3,Neutral,2
+Zona Rural,Billetera Movil,6.37,Medio,2928611,Presencial,Sí,38,Universitario,13,12955.74,0,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,5.06,Bajo,2183399,Presencial,Sí,63,Secundaria,25,7936.52,1,Muy Satisfecho,3
+Comuna 5,Billetera Movil,2.3,Alto,666142,Presencial,No,47,Primaria,11,16422.09,0,Muy Insatisfecho,2
+Comuna 5,Cuenta Bancaria,4.52,Alto,830095,Digital,Sí,64,Primaria,9,2943.75,3,Muy Satisfecho,2
+Comuna 13,Cuenta Bancaria,5.52,Alto,566444,Digital,No,31,Técnico,27,15196.02,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,1.37,Alto,975292,Presencial,No,48,Universitario,16,16536.42,0,Muy Satisfecho,2
+Zona Rural,Billetera Movil,6.31,Medio,1450789,Presencial,No,27,Secundaria,24,15176.41,0,Insatisfecho,1
+Comuna 10,Sin Acceso,1.67,Bajo,1791545,Presencial,Sí,41,Técnico,32,7051.55,2,Satisfecho,0
+Comuna 10,Billetera Movil,7.98,Medio,923049,Presencial,No,52,Universitario,28,2611.6,3,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,7.27,Medio,989962,Digital,No,66,Primaria,8,15676.27,1,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,6.55,Medio,1692341,Presencial,Sí,28,Técnico,11,12774.92,2,Satisfecho,1
+Comuna 13,Cuenta Bancaria,4.97,Medio,2243993,Presencial,No,42,Secundaria,33,8310.2,2,Insatisfecho,1
+Comuna 13,Sin Acceso,4.72,Medio,1551211,Presencial,Sí,58,Técnico,17,14695.19,3,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.91,Bajo,826906,Presencial,No,57,Universitario,48,12635.51,3,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,4.8,Medio,2148145,Presencial,No,45,Secundaria,30,18343.03,3,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,7.0,Alto,2418261,Digital,No,39,Secundaria,24,6451.88,0,Muy Satisfecho,1
+Comuna 10,Cuenta Bancaria,5.09,Medio,1457043,Presencial,No,31,Técnico,10,14451.76,0,Satisfecho,0
+Comuna 10,Sin Acceso,1.53,Bajo,2709479,Presencial,Sí,48,Secundaria,29,1637.02,0,Muy Satisfecho,3
+Comuna 13,Sin Acceso,1.13,Medio,727784,Digital,Sí,33,Primaria,5,19922.75,2,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,0.7,Medio,2347668,Digital,Sí,23,Primaria,24,5074.11,0,Insatisfecho,3
+Comuna 13,Cuenta Bancaria,2.67,Medio,1545820,Presencial,No,35,Universitario,8,18194.86,3,Neutral,0
+Comuna 5,Billetera Movil,4.86,Medio,2372715,Presencial,Sí,56,Universitario,28,11744.78,0,Insatisfecho,0
+Comuna 13,Sin Acceso,6.68,Bajo,1118054,Digital,Sí,28,Secundaria,8,1734.21,0,Muy Satisfecho,0
+Comuna 5,Billetera Movil,5.47,Bajo,2691863,Digital,Sí,34,Técnico,29,1506.04,0,Neutral,0
+Comuna 13,Billetera Movil,7.35,Medio,1216169,Digital,No,62,Técnico,31,15684.59,3,Muy Insatisfecho,1
+Comuna 5,Billetera Movil,2.55,Bajo,1321621,Digital,No,62,Secundaria,26,13623.31,2,Muy Insatisfecho,0
+Zona Rural,Cuenta Bancaria,1.3,Medio,2936137,Presencial,Sí,32,Primaria,15,14832.03,0,Neutral,3
+Comuna 10,Sin Acceso,5.82,Alto,2191880,Presencial,No,27,Secundaria,1,1518.43,3,Satisfecho,1
+Zona Rural,Sin Acceso,6.25,Alto,1226340,Presencial,Sí,35,Universitario,4,13274.84,0,Neutral,1
+Comuna 13,Billetera Movil,7.08,Bajo,523796,Digital,Sí,66,Técnico,23,12439.36,1,Muy Satisfecho,1
+Comuna 5,Sin Acceso,6.69,Alto,2778317,Digital,Sí,29,Secundaria,9,2406.66,2,Satisfecho,1
+Comuna 10,Cuenta Bancaria,1.72,Medio,1179170,Digital,No,70,Secundaria,8,1170.96,3,Satisfecho,0
+Zona Rural,Sin Acceso,5.95,Medio,967730,Digital,Sí,18,Secundaria,2,2797.19,1,Muy Satisfecho,2
+Comuna 5,Sin Acceso,3.2,Medio,2788023,Digital,No,62,Secundaria,35,17002.49,3,Satisfecho,3
+Comuna 10,Billetera Movil,7.07,Medio,2682702,Digital,Sí,36,Primaria,1,3924.46,0,Neutral,1
+Comuna 10,Billetera Movil,6.42,Medio,1770005,Digital,Sí,18,Técnico,20,4703.51,1,Muy Satisfecho,0
+Comuna 5,Billetera Movil,6.25,Bajo,677666,Presencial,No,29,Universitario,28,15533.83,1,Neutral,1
+Comuna 13,Cuenta Bancaria,7.83,Alto,2780929,Presencial,No,70,Primaria,18,9785.53,3,Insatisfecho,3
+Comuna 10,Billetera Movil,6.28,Bajo,1873510,Presencial,No,66,Técnico,18,7930.14,3,Neutral,3
+Comuna 10,Sin Acceso,1.87,Alto,1329885,Presencial,Sí,59,Universitario,34,2154.29,2,Neutral,0
+Zona Rural,Billetera Movil,2.89,Bajo,1301606,Digital,No,37,Técnico,45,19578.51,3,Satisfecho,2
+Comuna 8,Cuenta Bancaria,2.71,Medio,2835575,Presencial,Sí,47,Universitario,14,13896.73,0,Neutral,0
+Comuna 13,Billetera Movil,6.24,Bajo,1657190,Digital,Sí,63,Técnico,44,16145.84,3,Muy Insatisfecho,3
+Zona Rural,Cuenta Bancaria,7.3,Alto,1080186,Presencial,Sí,50,Primaria,38,10560.69,0,Insatisfecho,2
+Comuna 8,Sin Acceso,5.77,Bajo,1215934,Digital,Sí,20,Técnico,14,9000.53,1,Neutral,0
+Comuna 5,Cuenta Bancaria,3.51,Medio,2861246,Digital,No,29,Universitario,16,10639.41,1,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,3.71,Medio,2291026,Presencial,Sí,47,Primaria,42,3802.1,1,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,7.15,Medio,2096723,Digital,No,32,Técnico,38,9576.13,3,Satisfecho,0
+Comuna 13,Sin Acceso,1.21,Bajo,1339960,Digital,No,20,Secundaria,20,3704.32,0,Muy Insatisfecho,2
+Comuna 10,Billetera Movil,3.38,Medio,1137888,Presencial,No,59,Primaria,12,1879.15,1,Insatisfecho,0
+Comuna 8,Sin Acceso,5.38,Alto,2652582,Presencial,No,34,Primaria,29,14712.58,1,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,2.9,Medio,1321008,Digital,No,30,Técnico,24,13562.02,2,Muy Insatisfecho,2
+Comuna 13,Billetera Movil,7.49,Alto,1207954,Digital,No,23,Secundaria,17,1365.36,0,Satisfecho,1
+Comuna 5,Billetera Movil,3.65,Bajo,1540390,Presencial,No,46,Primaria,43,19479.4,1,Neutral,3
+Comuna 13,Sin Acceso,2.38,Bajo,1007564,Presencial,No,51,Técnico,14,17706.61,3,Satisfecho,2
+Comuna 5,Sin Acceso,2.56,Bajo,621193,Digital,No,36,Secundaria,48,5186.68,3,Insatisfecho,0
+Comuna 5,Billetera Movil,1.6,Alto,1871257,Presencial,No,41,Primaria,33,4591.05,2,Neutral,1
+Comuna 8,Cuenta Bancaria,5.39,Medio,2863107,Digital,Sí,29,Universitario,32,4984.63,2,Insatisfecho,2
+Zona Rural,Sin Acceso,5.15,Medio,2972314,Digital,No,55,Técnico,25,14281.63,0,Satisfecho,0
+Comuna 5,Cuenta Bancaria,2.59,Bajo,501619,Digital,No,57,Técnico,29,19688.21,2,Satisfecho,0
+Zona Rural,Sin Acceso,5.67,Bajo,2155257,Presencial,Sí,27,Técnico,6,11161.48,3,Muy Satisfecho,3
+Comuna 10,Billetera Movil,7.03,Alto,1531015,Presencial,Sí,21,Técnico,50,16959.72,3,Neutral,0
+Comuna 10,Cuenta Bancaria,6.66,Medio,1551016,Presencial,Sí,69,Secundaria,33,5749.91,0,Neutral,1
+Comuna 10,Sin Acceso,5.76,Alto,2322076,Digital,No,69,Secundaria,44,2856.02,1,Neutral,3
+Zona Rural,Sin Acceso,7.53,Alto,2526031,Digital,No,41,Universitario,44,16304.2,0,Satisfecho,1
+Comuna 10,Billetera Movil,6.15,Medio,756387,Presencial,Sí,30,Secundaria,11,16154.22,3,Neutral,2
+Comuna 10,Billetera Movil,3.98,Bajo,904037,Digital,No,28,Secundaria,28,8455.47,1,Satisfecho,1
+Comuna 10,Billetera Movil,6.2,Alto,1182095,Presencial,Sí,27,Universitario,40,11788.3,0,Satisfecho,0
+Comuna 13,Sin Acceso,1.55,Bajo,1608806,Presencial,Sí,28,Primaria,35,9769.31,2,Neutral,0
+Comuna 5,Cuenta Bancaria,7.07,Alto,2981515,Digital,No,37,Técnico,15,17590.26,1,Satisfecho,0
+Comuna 10,Billetera Movil,3.64,Alto,2709544,Presencial,Sí,25,Técnico,16,11362.23,2,Insatisfecho,0
+Comuna 8,Sin Acceso,4.61,Alto,2543962,Digital,No,50,Técnico,15,2282.14,0,Neutral,0
+Zona Rural,Billetera Movil,1.93,Alto,2206678,Presencial,Sí,67,Universitario,26,13824.68,1,Satisfecho,0
+Comuna 13,Sin Acceso,7.87,Bajo,1587260,Presencial,No,34,Secundaria,31,15237.92,0,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,6.67,Bajo,2371692,Presencial,No,35,Técnico,7,18572.37,1,Satisfecho,1
+Comuna 8,Sin Acceso,2.58,Alto,2332371,Digital,No,49,Primaria,2,2028.9,1,Neutral,3
+Comuna 5,Cuenta Bancaria,5.47,Alto,612598,Presencial,Sí,48,Universitario,31,19483.47,0,Muy Satisfecho,1
+Comuna 5,Sin Acceso,1.4,Bajo,1595456,Digital,Sí,68,Secundaria,16,6790.23,1,Muy Satisfecho,0
+Comuna 8,Billetera Movil,2.85,Bajo,1713429,Presencial,No,23,Primaria,14,1373.58,1,Muy Insatisfecho,2
+Zona Rural,Billetera Movil,2.0,Medio,1738083,Digital,No,54,Universitario,50,11925.89,2,Insatisfecho,1
+Comuna 5,Sin Acceso,4.51,Alto,1200295,Digital,Sí,32,Universitario,4,8630.38,0,Muy Satisfecho,3
+Comuna 8,Billetera Movil,1.2,Alto,2272698,Digital,Sí,55,Técnico,23,1916.78,1,Satisfecho,3
+Zona Rural,Sin Acceso,2.37,Alto,2577201,Digital,No,66,Primaria,37,9567.88,2,Neutral,0
+Zona Rural,Cuenta Bancaria,2.89,Medio,1218402,Presencial,Sí,49,Universitario,41,3060.17,3,Insatisfecho,2
+Comuna 5,Sin Acceso,3.86,Medio,1366061,Digital,Sí,38,Secundaria,4,11661.79,3,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,1.96,Medio,939684,Presencial,Sí,20,Universitario,15,7212.29,0,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,7.12,Bajo,2374102,Presencial,Sí,45,Técnico,5,5034.82,1,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,6.17,Bajo,738042,Presencial,Sí,28,Secundaria,45,11753.18,3,Insatisfecho,0
+Comuna 5,Cuenta Bancaria,0.98,Medio,1296643,Digital,No,60,Secundaria,12,19252.3,3,Satisfecho,0
+Comuna 8,Sin Acceso,5.04,Bajo,2286290,Digital,No,25,Universitario,16,18045.46,1,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,1.6,Bajo,1457606,Digital,No,19,Secundaria,47,13073.19,2,Neutral,0
+Comuna 5,Billetera Movil,7.54,Bajo,1417700,Presencial,No,69,Secundaria,40,18057.83,0,Insatisfecho,0
+Comuna 5,Sin Acceso,3.83,Medio,1586873,Presencial,Sí,64,Primaria,5,1144.37,2,Neutral,0
+Comuna 13,Cuenta Bancaria,7.64,Bajo,2772051,Digital,No,63,Secundaria,12,11635.66,2,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.81,Bajo,1750019,Presencial,No,37,Técnico,35,16222.18,2,Satisfecho,0
+Comuna 13,Cuenta Bancaria,1.77,Alto,730372,Digital,Sí,44,Técnico,1,15863.96,0,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,5.32,Medio,2756173,Digital,No,45,Primaria,44,4815.27,3,Insatisfecho,1
+Comuna 10,Cuenta Bancaria,6.2,Medio,1676820,Digital,Sí,34,Primaria,36,3217.91,0,Muy Satisfecho,1
+Zona Rural,Sin Acceso,4.3,Bajo,616920,Presencial,Sí,34,Técnico,20,15911.42,0,Neutral,1
+Comuna 10,Billetera Movil,6.47,Medio,779740,Digital,Sí,51,Técnico,15,5982.3,0,Insatisfecho,0
+Comuna 5,Sin Acceso,3.2,Bajo,528137,Presencial,No,64,Secundaria,15,16884.22,0,Satisfecho,2
+Comuna 5,Billetera Movil,3.59,Alto,1652875,Digital,Sí,25,Universitario,12,13875.38,3,Satisfecho,0
+Comuna 10,Cuenta Bancaria,1.49,Medio,2207361,Digital,No,56,Técnico,12,5794.54,2,Muy Insatisfecho,1
+Zona Rural,Billetera Movil,4.69,Bajo,1382322,Presencial,No,56,Secundaria,31,2996.88,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,5.2,Alto,1272389,Digital,No,33,Primaria,34,19536.79,0,Satisfecho,0
+Comuna 10,Billetera Movil,5.19,Medio,1090763,Digital,No,67,Técnico,32,3467.43,0,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,3.12,Alto,2908321,Presencial,No,60,Técnico,27,16823.89,1,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,6.45,Medio,1796559,Digital,Sí,44,Técnico,30,15318.17,1,Insatisfecho,0
+Comuna 10,Billetera Movil,7.38,Alto,2783280,Digital,No,52,Primaria,47,17650.08,2,Muy Satisfecho,1
+Comuna 5,Billetera Movil,4.56,Bajo,2923984,Presencial,No,33,Primaria,12,11679.37,1,Insatisfecho,0
+Comuna 13,Billetera Movil,1.83,Alto,658422,Digital,No,24,Primaria,2,8804.37,1,Satisfecho,0
+Zona Rural,Sin Acceso,4.73,Alto,2634234,Presencial,Sí,50,Universitario,50,14988.67,0,Muy Insatisfecho,1
+Zona Rural,Sin Acceso,5.28,Bajo,2192470,Presencial,No,38,Universitario,24,9514.57,1,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,1.91,Medio,540650,Digital,No,24,Primaria,8,4110.08,2,Neutral,0
+Comuna 8,Billetera Movil,1.67,Bajo,2351141,Digital,No,38,Técnico,6,11543.89,2,Neutral,0
+Comuna 8,Sin Acceso,3.36,Alto,1791538,Presencial,Sí,70,Primaria,41,8405.23,3,Muy Insatisfecho,2
+Comuna 5,Billetera Movil,5.78,Alto,1928162,Digital,No,52,Secundaria,13,17108.58,1,Muy Satisfecho,0
+Comuna 10,Billetera Movil,6.2,Alto,1691335,Digital,No,39,Universitario,37,9472.09,0,Satisfecho,1
+Comuna 10,Cuenta Bancaria,0.71,Bajo,2313715,Digital,No,53,Primaria,19,9919.52,2,Muy Satisfecho,0
+Comuna 8,Sin Acceso,7.14,Medio,2886339,Presencial,No,21,Universitario,2,4274.42,0,Muy Satisfecho,0
+Comuna 8,Cuenta Bancaria,5.02,Medio,1255527,Presencial,No,45,Universitario,11,16608.6,3,Satisfecho,1
+Comuna 13,Cuenta Bancaria,6.25,Medio,2669924,Digital,Sí,44,Secundaria,20,15582.76,3,Satisfecho,3
+Comuna 13,Billetera Movil,3.59,Alto,2624079,Digital,Sí,32,Primaria,13,5898.71,1,Muy Satisfecho,2
+Comuna 5,Billetera Movil,7.44,Bajo,2505263,Presencial,Sí,24,Universitario,49,7007.28,3,Insatisfecho,0
+Zona Rural,Billetera Movil,7.31,Alto,657208,Digital,No,22,Secundaria,15,12728.34,0,Muy Insatisfecho,1
+Comuna 13,Cuenta Bancaria,5.9,Alto,926543,Presencial,Sí,42,Primaria,31,2035.91,0,Satisfecho,0
+Comuna 5,Cuenta Bancaria,4.26,Alto,2197234,Presencial,No,49,Secundaria,45,15253.77,3,Neutral,0
+Comuna 13,Cuenta Bancaria,2.81,Medio,2230585,Digital,No,56,Universitario,2,4209.77,2,Neutral,3
+Comuna 13,Cuenta Bancaria,0.64,Medio,763200,Digital,No,39,Técnico,20,4742.41,2,Insatisfecho,0
+Comuna 13,Sin Acceso,1.0,Medio,2298952,Digital,No,67,Primaria,45,8785.11,2,Neutral,3
+Zona Rural,Sin Acceso,2.86,Alto,694601,Presencial,No,24,Primaria,1,16643.67,1,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,1.54,Medio,1706415,Digital,No,34,Secundaria,2,10959.54,3,Muy Satisfecho,2
+Comuna 8,Sin Acceso,4.03,Bajo,1157874,Digital,Sí,48,Técnico,30,17577.28,3,Neutral,0
+Comuna 13,Cuenta Bancaria,6.9,Medio,1902886,Presencial,No,65,Técnico,32,9078.74,2,Muy Satisfecho,0
+Comuna 5,Billetera Movil,7.07,Medio,2508561,Presencial,No,28,Universitario,30,7131.63,2,Neutral,1
+Zona Rural,Sin Acceso,6.25,Alto,1937945,Digital,Sí,53,Técnico,34,10099.33,3,Neutral,0
+Comuna 8,Sin Acceso,1.04,Alto,2988017,Digital,No,45,Primaria,37,19491.61,1,Satisfecho,0
+Comuna 13,Cuenta Bancaria,2.43,Medio,579282,Digital,Sí,62,Técnico,22,16494.8,2,Satisfecho,0
+Comuna 10,Cuenta Bancaria,2.03,Bajo,916823,Presencial,Sí,33,Técnico,21,1652.48,1,Muy Satisfecho,3
+Comuna 8,Cuenta Bancaria,3.43,Alto,1547683,Presencial,Sí,31,Universitario,13,6029.43,3,Insatisfecho,0
+Comuna 5,Sin Acceso,5.94,Medio,891570,Digital,No,54,Secundaria,23,14038.62,1,Muy Satisfecho,2
+Comuna 10,Billetera Movil,2.61,Bajo,541181,Presencial,Sí,56,Secundaria,18,2019.72,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,4.55,Alto,2630386,Presencial,Sí,42,Universitario,40,3540.68,2,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,7.45,Medio,1810246,Digital,Sí,31,Secundaria,4,4440.01,3,Muy Insatisfecho,1
+Comuna 5,Cuenta Bancaria,5.59,Alto,2545865,Digital,Sí,33,Secundaria,22,5490.41,3,Insatisfecho,3
+Comuna 10,Billetera Movil,7.1,Alto,2958220,Digital,No,66,Universitario,9,12570.73,0,Muy Satisfecho,0
+Zona Rural,Billetera Movil,3.51,Bajo,610184,Digital,No,21,Universitario,50,18085.15,3,Muy Insatisfecho,2
+Comuna 8,Billetera Movil,0.65,Alto,1405418,Presencial,No,39,Técnico,1,15218.34,2,Insatisfecho,1
+Comuna 10,Billetera Movil,6.14,Medio,2306613,Presencial,No,58,Técnico,43,5194.9,3,Muy Insatisfecho,0
+Comuna 8,Sin Acceso,2.71,Bajo,2392855,Presencial,No,69,Universitario,10,16083.04,3,Insatisfecho,0
+Comuna 5,Sin Acceso,7.4,Medio,2673022,Presencial,Sí,25,Secundaria,29,10177.62,2,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,3.2,Alto,1858103,Digital,No,51,Técnico,39,16568.42,3,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,7.62,Alto,1519894,Digital,No,55,Secundaria,22,6910.12,3,Satisfecho,1
+Comuna 10,Sin Acceso,2.35,Bajo,1406459,Digital,No,42,Universitario,32,10185.11,2,Muy Insatisfecho,3
+Comuna 5,Billetera Movil,6.46,Medio,1500921,Digital,Sí,66,Secundaria,50,17447.06,0,Satisfecho,1
+Comuna 13,Cuenta Bancaria,1.08,Alto,1633011,Presencial,No,56,Secundaria,35,19346.96,1,Muy Satisfecho,3
+Comuna 8,Billetera Movil,3.98,Alto,1485779,Digital,No,60,Técnico,16,17808.67,1,Insatisfecho,1
+Comuna 10,Sin Acceso,3.87,Alto,761885,Digital,Sí,60,Primaria,17,12786.12,2,Muy Satisfecho,0
+Comuna 5,Cuenta Bancaria,6.79,Alto,2158868,Digital,No,50,Secundaria,48,4145.13,1,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,2.19,Bajo,1721131,Digital,No,42,Técnico,36,16192.31,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,2.16,Alto,571464,Presencial,No,69,Técnico,19,1582.07,2,Satisfecho,0
+Comuna 10,Sin Acceso,4.93,Medio,1894763,Presencial,No,64,Técnico,35,16145.02,2,Insatisfecho,2
+Comuna 13,Billetera Movil,7.29,Medio,2582606,Presencial,Sí,40,Técnico,1,3435.52,3,Satisfecho,3
+Comuna 8,Cuenta Bancaria,1.36,Alto,2489370,Digital,No,35,Universitario,21,11122.96,0,Satisfecho,0
+Comuna 13,Cuenta Bancaria,0.6,Alto,2241319,Presencial,Sí,23,Secundaria,4,15836.44,3,Insatisfecho,0
+Zona Rural,Sin Acceso,1.89,Alto,1973282,Digital,No,20,Primaria,23,2058.72,3,Insatisfecho,1
+Zona Rural,Billetera Movil,1.99,Alto,1923765,Presencial,No,44,Universitario,3,2919.2,1,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,0.79,Medio,769458,Digital,No,65,Técnico,42,14894.98,3,Neutral,1
+Comuna 5,Cuenta Bancaria,7.36,Medio,2978133,Presencial,No,55,Técnico,15,8763.12,2,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,5.8,Medio,1860745,Presencial,No,70,Técnico,24,5997.37,2,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,6.99,Medio,2120714,Presencial,Sí,56,Universitario,29,6571.4,1,Muy Insatisfecho,2
+Zona Rural,Cuenta Bancaria,3.76,Bajo,1519324,Presencial,Sí,26,Técnico,47,19085.17,3,Muy Insatisfecho,0
+Zona Rural,Billetera Movil,7.0,Medio,1955113,Digital,Sí,54,Secundaria,2,8022.69,1,Muy Insatisfecho,1
+Comuna 8,Sin Acceso,4.24,Bajo,2321549,Digital,No,21,Técnico,15,7158.58,1,Muy Satisfecho,0
+Comuna 13,Billetera Movil,2.37,Medio,1516424,Digital,Sí,23,Técnico,6,13844.36,2,Satisfecho,1
+Zona Rural,Billetera Movil,3.73,Bajo,2787376,Digital,No,39,Secundaria,21,7811.04,1,Muy Insatisfecho,1
+Comuna 10,Sin Acceso,2.63,Medio,2545460,Digital,No,34,Secundaria,42,13834.97,0,Neutral,0
+Comuna 10,Billetera Movil,2.65,Alto,2573848,Digital,Sí,50,Universitario,37,1163.59,0,Muy Satisfecho,0
+Comuna 8,Sin Acceso,5.04,Alto,2916020,Presencial,Sí,28,Técnico,8,9642.14,0,Muy Insatisfecho,2
+Zona Rural,Cuenta Bancaria,6.71,Bajo,509775,Presencial,Sí,40,Secundaria,34,8269.4,2,Muy Satisfecho,0
+Zona Rural,Cuenta Bancaria,6.94,Alto,1485531,Digital,Sí,67,Secundaria,48,9889.53,0,Neutral,0
+Comuna 13,Sin Acceso,5.75,Bajo,1098781,Digital,No,68,Técnico,33,3386.95,0,Muy Insatisfecho,2
+Comuna 8,Sin Acceso,0.69,Medio,1480751,Presencial,No,52,Técnico,38,19589.9,1,Satisfecho,2
+Comuna 13,Billetera Movil,3.44,Medio,2133271,Digital,Sí,47,Técnico,13,16203.89,1,Insatisfecho,0
+Comuna 10,Billetera Movil,4.09,Alto,1219753,Presencial,Sí,33,Secundaria,43,9308.7,3,Satisfecho,0
+Zona Rural,Cuenta Bancaria,1.3,Bajo,1850504,Presencial,Sí,34,Secundaria,29,14560.13,1,Satisfecho,3
+Comuna 5,Sin Acceso,3.65,Medio,2029917,Digital,Sí,63,Universitario,13,3140.58,3,Muy Insatisfecho,0
+Comuna 13,Sin Acceso,6.04,Medio,1634811,Digital,Sí,68,Técnico,43,4404.05,0,Insatisfecho,0
+Comuna 10,Sin Acceso,2.68,Alto,2471461,Digital,No,57,Secundaria,4,7680.91,2,Muy Insatisfecho,0
+Comuna 13,Cuenta Bancaria,1.03,Medio,2674367,Presencial,No,70,Secundaria,37,1869.82,0,Muy Satisfecho,2
+Zona Rural,Sin Acceso,6.54,Alto,560105,Digital,No,49,Técnico,40,6869.67,1,Satisfecho,0
+Zona Rural,Billetera Movil,1.0,Medio,1694510,Presencial,Sí,63,Técnico,25,4948.74,2,Muy Insatisfecho,2
+Comuna 10,Sin Acceso,2.16,Bajo,2869584,Digital,No,32,Secundaria,47,1588.4,3,Muy Satisfecho,0
+Comuna 8,Billetera Movil,6.59,Bajo,2562373,Presencial,No,60,Universitario,33,14230.25,1,Neutral,2
+Comuna 10,Billetera Movil,4.05,Medio,1508723,Digital,Sí,19,Técnico,49,15166.41,1,Satisfecho,2
+Comuna 10,Billetera Movil,5.68,Alto,1615911,Digital,Sí,55,Secundaria,28,17924.57,0,Muy Satisfecho,0
+Comuna 5,Sin Acceso,3.19,Alto,2812213,Digital,No,28,Universitario,46,11808.82,3,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,1.73,Bajo,760017,Presencial,Sí,61,Primaria,49,8027.68,2,Neutral,3
+Comuna 13,Billetera Movil,3.98,Alto,1406966,Presencial,Sí,60,Técnico,48,5386.24,2,Neutral,0
+Comuna 5,Cuenta Bancaria,7.83,Bajo,2125569,Digital,No,50,Secundaria,13,2906.88,2,Satisfecho,0
+Comuna 10,Sin Acceso,4.38,Alto,2908364,Presencial,Sí,49,Secundaria,20,13161.23,1,Muy Satisfecho,0
+Comuna 10,Cuenta Bancaria,4.47,Bajo,654093,Presencial,No,36,Secundaria,20,12071.3,3,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,5.97,Medio,743078,Digital,Sí,44,Primaria,8,13452.67,2,Neutral,0
+Zona Rural,Sin Acceso,0.86,Bajo,1179933,Digital,Sí,70,Técnico,2,16896.67,3,Neutral,1
+Comuna 13,Sin Acceso,2.67,Bajo,2687427,Digital,No,33,Primaria,40,9436.94,0,Insatisfecho,0
+Comuna 5,Billetera Movil,3.41,Bajo,2231216,Digital,No,62,Técnico,8,19402.09,3,Satisfecho,0
+Comuna 5,Cuenta Bancaria,2.98,Medio,1868521,Digital,No,38,Secundaria,3,18182.55,2,Muy Satisfecho,0
+Zona Rural,Billetera Movil,5.37,Bajo,2563761,Presencial,No,26,Primaria,38,7925.99,3,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,0.53,Bajo,1186947,Digital,No,55,Secundaria,44,19021.04,1,Insatisfecho,1
+Zona Rural,Sin Acceso,4.69,Bajo,2121644,Presencial,No,49,Secundaria,11,1212.63,2,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,2.04,Alto,2492085,Digital,No,22,Secundaria,2,16266.99,1,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,3.11,Medio,2174761,Digital,Sí,68,Técnico,19,19432.98,0,Muy Insatisfecho,3
+Comuna 10,Sin Acceso,4.85,Bajo,2241940,Presencial,Sí,56,Técnico,41,13462.31,2,Satisfecho,0
+Comuna 10,Billetera Movil,1.65,Medio,2437653,Presencial,Sí,46,Universitario,24,18277.59,2,Muy Satisfecho,0
+Comuna 8,Billetera Movil,4.78,Alto,1281953,Digital,No,51,Técnico,45,8550.51,0,Insatisfecho,1
+Comuna 8,Billetera Movil,5.68,Bajo,2928918,Presencial,No,53,Primaria,50,8878.26,1,Muy Satisfecho,0
+Comuna 8,Sin Acceso,5.55,Bajo,574570,Digital,Sí,38,Primaria,26,10884.25,3,Insatisfecho,0
+Comuna 10,Sin Acceso,3.17,Bajo,1840578,Presencial,Sí,46,Universitario,43,8402.77,0,Insatisfecho,0
+Comuna 13,Cuenta Bancaria,1.29,Medio,519054,Presencial,Sí,20,Primaria,30,18775.76,3,Muy Insatisfecho,3
+Zona Rural,Cuenta Bancaria,3.33,Alto,2166494,Digital,No,30,Secundaria,33,2689.82,1,Muy Insatisfecho,0
+Comuna 10,Sin Acceso,7.96,Alto,2443197,Presencial,Sí,28,Primaria,1,2045.09,1,Muy Satisfecho,0
+Comuna 10,Sin Acceso,7.86,Alto,1460687,Digital,Sí,45,Técnico,43,13199.0,3,Muy Insatisfecho,1
+Comuna 8,Cuenta Bancaria,2.72,Medio,1906339,Digital,Sí,28,Secundaria,34,12856.43,1,Neutral,3
+Comuna 5,Cuenta Bancaria,2.41,Medio,2940967,Presencial,No,46,Primaria,18,2799.29,2,Muy Insatisfecho,2
+Comuna 10,Cuenta Bancaria,7.97,Medio,2183883,Presencial,Sí,51,Universitario,44,1906.67,0,Insatisfecho,0
+Comuna 10,Cuenta Bancaria,1.74,Medio,1252403,Presencial,Sí,25,Técnico,7,15963.72,2,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,7.85,Alto,1422355,Presencial,No,40,Técnico,12,6317.0,1,Muy Satisfecho,0
+Comuna 13,Cuenta Bancaria,7.4,Alto,619282,Digital,No,32,Técnico,23,5905.62,0,Muy Insatisfecho,0
+Comuna 13,Billetera Movil,0.86,Alto,2423206,Presencial,No,48,Técnico,23,16005.95,2,Neutral,0
+Zona Rural,Billetera Movil,3.42,Alto,1451700,Presencial,No,28,Técnico,3,16276.79,1,Satisfecho,2
+Zona Rural,Sin Acceso,3.87,Bajo,958883,Presencial,No,62,Universitario,24,3049.59,3,Neutral,3
+Comuna 13,Billetera Movil,3.56,Alto,524441,Digital,No,69,Secundaria,42,19957.49,2,Neutral,0
+Comuna 13,Billetera Movil,3.6,Bajo,1299144,Digital,Sí,51,Secundaria,32,6093.33,1,Satisfecho,0
+Comuna 5,Cuenta Bancaria,0.57,Bajo,2488245,Presencial,Sí,53,Universitario,45,10106.23,0,Insatisfecho,0
+Comuna 10,Billetera Movil,4.58,Medio,1502447,Presencial,No,70,Técnico,47,18998.19,0,Neutral,0
+Comuna 5,Sin Acceso,7.16,Medio,2138028,Presencial,No,49,Secundaria,4,7621.04,0,Neutral,0
+Comuna 5,Billetera Movil,0.54,Medio,2153082,Digital,No,33,Secundaria,36,1484.79,2,Muy Insatisfecho,0
+Comuna 8,Billetera Movil,5.18,Bajo,2509432,Presencial,No,39,Universitario,20,3123.1,0,Muy Insatisfecho,2
+Comuna 8,Cuenta Bancaria,6.24,Medio,2586665,Presencial,No,39,Universitario,15,15098.39,1,Muy Satisfecho,2
+Comuna 5,Sin Acceso,3.86,Medio,1510158,Digital,No,70,Secundaria,37,3539.13,3,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,6.74,Medio,1445931,Presencial,No,51,Primaria,29,9030.2,1,Muy Satisfecho,1
+Comuna 13,Billetera Movil,3.42,Bajo,2020859,Presencial,Sí,38,Secundaria,7,13688.53,1,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,1.49,Alto,1663081,Digital,No,63,Universitario,47,18549.27,0,Muy Insatisfecho,1
+Comuna 5,Sin Acceso,6.22,Medio,2318610,Presencial,No,70,Universitario,40,5702.31,2,Neutral,1
+Zona Rural,Cuenta Bancaria,7.73,Bajo,1079167,Digital,Sí,68,Primaria,13,5200.11,1,Neutral,0
+Comuna 13,Billetera Movil,1.26,Alto,788619,Presencial,Sí,31,Técnico,16,16575.32,0,Insatisfecho,1
+Zona Rural,Sin Acceso,6.24,Medio,2912894,Digital,Sí,60,Secundaria,46,12402.54,3,Muy Insatisfecho,1
+Comuna 10,Billetera Movil,3.32,Bajo,1654149,Digital,Sí,32,Primaria,45,14593.56,3,Muy Satisfecho,1
+Comuna 13,Sin Acceso,6.98,Bajo,1115516,Presencial,No,36,Primaria,50,15777.42,0,Muy Satisfecho,0
+Zona Rural,Sin Acceso,3.34,Alto,1785023,Digital,Sí,47,Universitario,5,12838.72,1,Satisfecho,0
+Zona Rural,Billetera Movil,3.25,Medio,1810893,Presencial,Sí,61,Primaria,23,10644.29,2,Muy Satisfecho,2
+Comuna 8,Billetera Movil,3.64,Bajo,1825367,Digital,No,31,Técnico,8,16957.41,3,Muy Insatisfecho,3
+Comuna 10,Sin Acceso,3.29,Bajo,999235,Digital,Sí,62,Primaria,28,14242.46,0,Muy Satisfecho,2
+Comuna 5,Cuenta Bancaria,6.84,Bajo,2303438,Digital,Sí,26,Técnico,39,6753.11,2,Neutral,3
+Comuna 8,Cuenta Bancaria,1.43,Bajo,2250068,Presencial,Sí,25,Primaria,42,11389.53,3,Muy Satisfecho,3
+Comuna 8,Cuenta Bancaria,1.69,Alto,2634058,Digital,No,19,Secundaria,12,18068.03,1,Insatisfecho,0
+Zona Rural,Cuenta Bancaria,3.22,Bajo,2341880,Presencial,No,69,Universitario,27,1909.63,0,Muy Satisfecho,2
+Comuna 5,Sin Acceso,3.26,Bajo,1743626,Presencial,No,44,Universitario,22,17070.51,1,Neutral,1
+Comuna 8,Sin Acceso,2.42,Bajo,647424,Digital,No,41,Primaria,50,9446.65,2,Satisfecho,1
+Comuna 8,Sin Acceso,1.75,Medio,1053679,Presencial,Sí,46,Técnico,33,7239.99,1,Neutral,1
+Comuna 10,Billetera Movil,7.56,Bajo,1331922,Presencial,Sí,52,Secundaria,50,18728.75,3,Insatisfecho,0
+Comuna 8,Cuenta Bancaria,5.67,Alto,2402926,Presencial,Sí,22,Universitario,9,3084.16,3,Neutral,0
+Comuna 13,Sin Acceso,1.41,Bajo,2187611,Digital,Sí,52,Técnico,49,12922.67,2,Neutral,1
+Comuna 8,Cuenta Bancaria,1.96,Bajo,1135714,Digital,No,52,Secundaria,14,13730.03,2,Insatisfecho,0
+Comuna 10,Sin Acceso,0.85,Medio,2066285,Presencial,No,19,Secundaria,24,13180.07,2,Neutral,3
+Comuna 8,Billetera Movil,1.96,Medio,915382,Presencial,Sí,66,Universitario,20,11258.9,2,Muy Satisfecho,3
+Zona Rural,Cuenta Bancaria,3.03,Bajo,1388843,Digital,Sí,18,Primaria,31,5600.96,3,Muy Insatisfecho,1
+Comuna 10,Cuenta Bancaria,2.73,Alto,2704837,Presencial,Sí,41,Primaria,10,12973.58,2,Neutral,0
+Comuna 8,Sin Acceso,5.17,Medio,1832296,Digital,No,33,Técnico,43,1316.27,0,Muy Insatisfecho,1
+Comuna 8,Billetera Movil,7.9,Bajo,1033011,Presencial,No,62,Primaria,2,19977.37,2,Insatisfecho,0
+Comuna 13,Sin Acceso,4.45,Medio,1226075,Presencial,Sí,24,Técnico,41,6186.61,3,Muy Satisfecho,2
+Zona Rural,Cuenta Bancaria,6.96,Medio,1659660,Presencial,Sí,66,Primaria,16,11133.18,3,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,3.62,Medio,1309331,Presencial,No,64,Técnico,2,2830.99,2,Muy Insatisfecho,3
+Comuna 8,Sin Acceso,7.8,Alto,2079661,Digital,No,63,Secundaria,46,10281.64,0,Insatisfecho,1
+Comuna 5,Cuenta Bancaria,1.33,Alto,890844,Digital,No,45,Primaria,9,6832.52,2,Muy Satisfecho,3
+Comuna 5,Sin Acceso,2.13,Medio,2918814,Presencial,No,22,Secundaria,1,3059.96,3,Insatisfecho,2
+Zona Rural,Cuenta Bancaria,1.78,Alto,892318,Digital,Sí,42,Universitario,1,18176.14,3,Muy Insatisfecho,1
+Zona Rural,Cuenta Bancaria,4.46,Alto,1588434,Digital,No,18,Universitario,22,10840.15,2,Neutral,0
+Comuna 13,Cuenta Bancaria,4.11,Bajo,2675754,Digital,Sí,40,Secundaria,10,15613.65,0,Muy Insatisfecho,0
+Comuna 10,Billetera Movil,4.89,Alto,1261048,Presencial,No,68,Secundaria,32,7983.79,3,Neutral,3
+Comuna 5,Cuenta Bancaria,1.05,Bajo,2316256,Digital,Sí,33,Universitario,5,17829.55,3,Satisfecho,1
+Comuna 5,Billetera Movil,3.8,Medio,1132209,Digital,Sí,20,Primaria,17,11985.34,2,Muy Insatisfecho,0
+Comuna 5,Sin Acceso,4.64,Bajo,2277162,Presencial,No,32,Universitario,47,14400.84,0,Muy Insatisfecho,0
+Comuna 10,Cuenta Bancaria,4.29,Medio,2210401,Presencial,Sí,18,Técnico,1,14055.44,0,Muy Satisfecho,2
+Comuna 5,Cuenta Bancaria,4.1,Alto,696086,Digital,Sí,42,Universitario,32,1377.19,1,Satisfecho,2
+Comuna 13,Sin Acceso,4.2,Alto,2745977,Presencial,Sí,49,Universitario,9,11194.36,3,Neutral,0
+Comuna 8,Billetera Movil,6.33,Alto,2903570,Digital,Sí,30,Técnico,3,5906.83,3,Satisfecho,1
+Comuna 5,Cuenta Bancaria,7.25,Alto,1118944,Presencial,Sí,41,Primaria,3,16495.97,1,Satisfecho,0
+Comuna 10,Sin Acceso,2.63,Alto,2361358,Presencial,Sí,29,Secundaria,20,12027.45,2,Muy Satisfecho,3
+Comuna 13,Cuenta Bancaria,3.56,Medio,1428957,Presencial,No,60,Primaria,36,10469.83,2,Muy Insatisfecho,0
+Comuna 5,Cuenta Bancaria,5.19,Bajo,947050,Digital,No,31,Primaria,12,2787.29,0,Neutral,0
+Comuna 10,Cuenta Bancaria,0.63,Alto,1839460,Presencial,Sí,37,Secundaria,31,16661.93,1,Muy Insatisfecho,0
